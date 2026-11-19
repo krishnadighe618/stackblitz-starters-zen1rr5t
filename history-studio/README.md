@@ -30,6 +30,7 @@ One subfolder per video, so Claude can reuse what it built last time:
 
 ```
 history-studio/
+  style-test/            one scene in four looks, for picking the channel style
   test-video/            the 10-second test (title card + one Kokoro line)
     index.html           root composition
     compositions/        one file per scene
