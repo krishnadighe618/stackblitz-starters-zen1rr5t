@@ -30,6 +30,10 @@ One subfolder per video, so Claude can reuse what it built last time:
 
 ```
 history-studio/
+  topics.md              15 ranked video ideas
+  tools/voice.py         voices a video's script.md with Kokoro, paragraph by paragraph
+  tools/check-voice.py   compares Whisper's transcript with the script
+  frozen-sea-1658/       video 1: The Army That Walked Across the Sea
   style-test/            one scene in four looks, for picking the channel style
   test-video/            the 10-second test (title card + one Kokoro line)
     index.html           root composition

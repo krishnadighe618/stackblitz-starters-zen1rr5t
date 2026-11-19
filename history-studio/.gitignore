@@ -6,3 +6,7 @@ __pycache__/
 
 # HyperFrames' local state and scratch files inside each video folder
 **/.hyperframes/
+
+# Narration WAVs, recreated by tools/voice.py (a compressed copy is kept)
+*/audio/*.wav
+*/audio/sections/

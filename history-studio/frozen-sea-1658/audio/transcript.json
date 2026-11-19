@@ -1,0 +1,12854 @@
+[
+  {
+    "text": "In",
+    "start": 0.21,
+    "end": 0.34,
+    "id": "w0"
+  },
+  {
+    "text": "the",
+    "start": 0.34,
+    "end": 0.53,
+    "id": "w1"
+  },
+  {
+    "text": "winter",
+    "start": 0.53,
+    "end": 1.16,
+    "id": "w2"
+  },
+  {
+    "text": "of",
+    "start": 1.16,
+    "end": 1.37,
+    "id": "w3"
+  },
+  {
+    "text": "1658,",
+    "start": 1.37,
+    "end": 2.88,
+    "id": "w4"
+  },
+  {
+    "text": "an",
+    "start": 2.88,
+    "end": 3.06,
+    "id": "w5"
+  },
+  {
+    "text": "army",
+    "start": 3.06,
+    "end": 3.42,
+    "id": "w6"
+  },
+  {
+    "text": "invaded",
+    "start": 3.42,
+    "end": 4.06,
+    "id": "w7"
+  },
+  {
+    "text": "Denmark.",
+    "start": 4.06,
+    "end": 4.8,
+    "id": "w8"
+  },
+  {
+    "text": "It",
+    "start": 4.8,
+    "end": 5.5,
+    "id": "w9"
+  },
+  {
+    "text": "did",
+    "start": 5.5,
+    "end": 5.53,
+    "id": "w10"
+  },
+  {
+    "text": "not",
+    "start": 5.84,
+    "end": 5.85,
+    "id": "w11"
+  },
+  {
+    "text": "come",
+    "start": 5.85,
+    "end": 6.27,
+    "id": "w12"
+  },
+  {
+    "text": "by",
+    "start": 6.27,
+    "end": 6.48,
+    "id": "w13"
+  },
+  {
+    "text": "ship.",
+    "start": 6.49,
+    "end": 7.28,
+    "id": "w14"
+  },
+  {
+    "text": "It",
+    "start": 7.28,
+    "end": 7.42,
+    "id": "w15"
+  },
+  {
+    "text": "did",
+    "start": 7.62,
+    "end": 7.64,
+    "id": "w16"
+  },
+  {
+    "text": "not",
+    "start": 7.64,
+    "end": 7.86,
+    "id": "w17"
+  },
+  {
+    "text": "come",
+    "start": 7.86,
+    "end": 8.15,
+    "id": "w18"
+  },
+  {
+    "text": "over",
+    "start": 8.15,
+    "end": 8.44,
+    "id": "w19"
+  },
+  {
+    "text": "a",
+    "start": 8.44,
+    "end": 8.51,
+    "id": "w20"
+  },
+  {
+    "text": "bridge.",
+    "start": 8.51,
+    "end": 9.2,
+    "id": "w21"
+  },
+  {
+    "text": "It",
+    "start": 9.2,
+    "end": 9.54,
+    "id": "w22"
+  },
+  {
+    "text": "walked.",
+    "start": 9.54,
+    "end": 10.6,
+    "id": "w23"
+  },
+  {
+    "text": "Thousands",
+    "start": 10.94,
+    "end": 11.39,
+    "id": "w24"
+  },
+  {
+    "text": "of",
+    "start": 11.39,
+    "end": 11.56,
+    "id": "w25"
+  },
+  {
+    "text": "soldiers,",
+    "start": 11.56,
+    "end": 12.4,
+    "id": "w26"
+  },
+  {
+    "text": "thousands",
+    "start": 12.49,
+    "end": 13.06,
+    "id": "w27"
+  },
+  {
+    "text": "of",
+    "start": 13.45,
+    "end": 13.55,
+    "id": "w28"
+  },
+  {
+    "text": "horses,",
+    "start": 13.55,
+    "end": 14.16,
+    "id": "w29"
+  },
+  {
+    "text": "cannons",
+    "start": 14.5,
+    "end": 14.74,
+    "id": "w30"
+  },
+  {
+    "text": "dragged",
+    "start": 14.74,
+    "end": 15.32,
+    "id": "w31"
+  },
+  {
+    "text": "behind",
+    "start": 15.32,
+    "end": 15.82,
+    "id": "w32"
+  },
+  {
+    "text": "them,",
+    "start": 15.82,
+    "end": 16.18,
+    "id": "w33"
+  },
+  {
+    "text": "all",
+    "start": 16.18,
+    "end": 16.52,
+    "id": "w34"
+  },
+  {
+    "text": "of",
+    "start": 16.52,
+    "end": 16.61,
+    "id": "w35"
+  },
+  {
+    "text": "it",
+    "start": 16.61,
+    "end": 16.78,
+    "id": "w36"
+  },
+  {
+    "text": "marching",
+    "start": 16.78,
+    "end": 17.48,
+    "id": "w37"
+  },
+  {
+    "text": "across",
+    "start": 17.48,
+    "end": 17.98,
+    "id": "w38"
+  },
+  {
+    "text": "the",
+    "start": 18.07,
+    "end": 18.15,
+    "id": "w39"
+  },
+  {
+    "text": "open",
+    "start": 18.27,
+    "end": 18.62,
+    "id": "w40"
+  },
+  {
+    "text": "sea.",
+    "start": 18.62,
+    "end": 19.14,
+    "id": "w41"
+  },
+  {
+    "text": "For",
+    "start": 19.14,
+    "end": 19.54,
+    "id": "w42"
+  },
+  {
+    "text": "centuries,",
+    "start": 19.54,
+    "end": 20.16,
+    "id": "w43"
+  },
+  {
+    "text": "the",
+    "start": 20.16,
+    "end": 20.4,
+    "id": "w44"
+  },
+  {
+    "text": "sea",
+    "start": 20.4,
+    "end": 20.63,
+    "id": "w45"
+  },
+  {
+    "text": "had",
+    "start": 20.68,
+    "end": 20.88,
+    "id": "w46"
+  },
+  {
+    "text": "been",
+    "start": 20.88,
+    "end": 21.17,
+    "id": "w47"
+  },
+  {
+    "text": "Denmark's",
+    "start": 21.28,
+    "end": 21.9,
+    "id": "w48"
+  },
+  {
+    "text": "wall.",
+    "start": 22.05,
+    "end": 22.48,
+    "id": "w49"
+  },
+  {
+    "text": "Its",
+    "start": 22.48,
+    "end": 22.82,
+    "id": "w50"
+  },
+  {
+    "text": "islands",
+    "start": 22.82,
+    "end": 23.26,
+    "id": "w51"
+  },
+  {
+    "text": "were",
+    "start": 23.26,
+    "end": 23.46,
+    "id": "w52"
+  },
+  {
+    "text": "its",
+    "start": 23.59,
+    "end": 23.8,
+    "id": "w53"
+  },
+  {
+    "text": "fortress.",
+    "start": 23.8,
+    "end": 24.7,
+    "id": "w54"
+  },
+  {
+    "text": "Its",
+    "start": 24.7,
+    "end": 25.04,
+    "id": "w55"
+  },
+  {
+    "text": "navy",
+    "start": 25.04,
+    "end": 25.38,
+    "id": "w56"
+  },
+  {
+    "text": "was",
+    "start": 25.38,
+    "end": 25.67,
+    "id": "w57"
+  },
+  {
+    "text": "the",
+    "start": 25.67,
+    "end": 25.96,
+    "id": "w58"
+  },
+  {
+    "text": "gate.",
+    "start": 25.96,
+    "end": 26.67,
+    "id": "w59"
+  },
+  {
+    "text": "No",
+    "start": 26.68,
+    "end": 26.83,
+    "id": "w60"
+  },
+  {
+    "text": "enemy",
+    "start": 27.02,
+    "end": 27.22,
+    "id": "w61"
+  },
+  {
+    "text": "army",
+    "start": 27.22,
+    "end": 27.53,
+    "id": "w62"
+  },
+  {
+    "text": "could",
+    "start": 27.53,
+    "end": 27.92,
+    "id": "w63"
+  },
+  {
+    "text": "reach",
+    "start": 27.92,
+    "end": 28.32,
+    "id": "w64"
+  },
+  {
+    "text": "the",
+    "start": 28.32,
+    "end": 28.48,
+    "id": "w65"
+  },
+  {
+    "text": "Danish",
+    "start": 28.57,
+    "end": 29.03,
+    "id": "w66"
+  },
+  {
+    "text": "capital",
+    "start": 29.03,
+    "end": 29.6,
+    "id": "w67"
+  },
+  {
+    "text": "without",
+    "start": 29.94,
+    "end": 30.24,
+    "id": "w68"
+  },
+  {
+    "text": "crossing",
+    "start": 30.24,
+    "end": 30.97,
+    "id": "w69"
+  },
+  {
+    "text": "water.",
+    "start": 30.97,
+    "end": 31.44,
+    "id": "w70"
+  },
+  {
+    "text": "And",
+    "start": 31.44,
+    "end": 31.78,
+    "id": "w71"
+  },
+  {
+    "text": "no",
+    "start": 31.78,
+    "end": 31.82,
+    "id": "w72"
+  },
+  {
+    "text": "enemy",
+    "start": 31.82,
+    "end": 32.2,
+    "id": "w73"
+  },
+  {
+    "text": "could",
+    "start": 32.2,
+    "end": 32.6,
+    "id": "w74"
+  },
+  {
+    "text": "cross",
+    "start": 32.6,
+    "end": 32.97,
+    "id": "w75"
+  },
+  {
+    "text": "that",
+    "start": 33.05,
+    "end": 33.24,
+    "id": "w76"
+  },
+  {
+    "text": "water",
+    "start": 33.33,
+    "end": 33.72,
+    "id": "w77"
+  },
+  {
+    "text": "while",
+    "start": 34.06,
+    "end": 34.1,
+    "id": "w78"
+  },
+  {
+    "text": "the",
+    "start": 34.1,
+    "end": 34.33,
+    "id": "w79"
+  },
+  {
+    "text": "Danish",
+    "start": 34.33,
+    "end": 34.7,
+    "id": "w80"
+  },
+  {
+    "text": "fleet",
+    "start": 34.83,
+    "end": 35.15,
+    "id": "w81"
+  },
+  {
+    "text": "stood",
+    "start": 35.2,
+    "end": 35.52,
+    "id": "w82"
+  },
+  {
+    "text": "in",
+    "start": 35.61,
+    "end": 35.7,
+    "id": "w83"
+  },
+  {
+    "text": "the",
+    "start": 35.81,
+    "end": 35.93,
+    "id": "w84"
+  },
+  {
+    "text": "way.",
+    "start": 35.93,
+    "end": 36.2,
+    "id": "w85"
+  },
+  {
+    "text": "So",
+    "start": 36.2,
+    "end": 36.78,
+    "id": "w86"
+  },
+  {
+    "text": "how",
+    "start": 36.78,
+    "end": 36.92,
+    "id": "w87"
+  },
+  {
+    "text": "did",
+    "start": 36.92,
+    "end": 37.2,
+    "id": "w88"
+  },
+  {
+    "text": "a",
+    "start": 37.21,
+    "end": 37.3,
+    "id": "w89"
+  },
+  {
+    "text": "Swedish",
+    "start": 37.3,
+    "end": 37.97,
+    "id": "w90"
+  },
+  {
+    "text": "king",
+    "start": 38.05,
+    "end": 38.4,
+    "id": "w91"
+  },
+  {
+    "text": "march",
+    "start": 38.4,
+    "end": 38.78,
+    "id": "w92"
+  },
+  {
+    "text": "his",
+    "start": 38.78,
+    "end": 38.9,
+    "id": "w93"
+  },
+  {
+    "text": "army",
+    "start": 39.29,
+    "end": 39.32,
+    "id": "w94"
+  },
+  {
+    "text": "across",
+    "start": 39.32,
+    "end": 39.97,
+    "id": "w95"
+  },
+  {
+    "text": "the",
+    "start": 39.97,
+    "end": 40.3,
+    "id": "w96"
+  },
+  {
+    "text": "sea",
+    "start": 40.3,
+    "end": 40.64,
+    "id": "w97"
+  },
+  {
+    "text": "all",
+    "start": 40.64,
+    "end": 40.98,
+    "id": "w98"
+  },
+  {
+    "text": "the",
+    "start": 40.98,
+    "end": 41.18,
+    "id": "w99"
+  },
+  {
+    "text": "way",
+    "start": 41.18,
+    "end": 41.4,
+    "id": "w100"
+  },
+  {
+    "text": "to",
+    "start": 41.46,
+    "end": 41.62,
+    "id": "w101"
+  },
+  {
+    "text": "the",
+    "start": 41.75,
+    "end": 41.9,
+    "id": "w102"
+  },
+  {
+    "text": "gates",
+    "start": 41.9,
+    "end": 42.35,
+    "id": "w103"
+  },
+  {
+    "text": "of",
+    "start": 42.35,
+    "end": 42.44,
+    "id": "w104"
+  },
+  {
+    "text": "Copenhagen?",
+    "start": 42.53,
+    "end": 43.72,
+    "id": "w105"
+  },
+  {
+    "text": "And",
+    "start": 43.72,
+    "end": 44.06,
+    "id": "w106"
+  },
+  {
+    "text": "why",
+    "start": 44.06,
+    "end": 44.16,
+    "id": "w107"
+  },
+  {
+    "text": "does",
+    "start": 44.16,
+    "end": 44.45,
+    "id": "w108"
+  },
+  {
+    "text": "the",
+    "start": 44.45,
+    "end": 44.67,
+    "id": "w109"
+  },
+  {
+    "text": "answer",
+    "start": 44.67,
+    "end": 45.12,
+    "id": "w110"
+  },
+  {
+    "text": "still",
+    "start": 45.12,
+    "end": 45.48,
+    "id": "w111"
+  },
+  {
+    "text": "shape",
+    "start": 45.48,
+    "end": 45.84,
+    "id": "w112"
+  },
+  {
+    "text": "the",
+    "start": 45.84,
+    "end": 46.17,
+    "id": "w113"
+  },
+  {
+    "text": "map",
+    "start": 46.17,
+    "end": 46.19,
+    "id": "w114"
+  },
+  {
+    "text": "of",
+    "start": 46.19,
+    "end": 46.84,
+    "id": "w115"
+  },
+  {
+    "text": "Scandinavia",
+    "start": 46.84,
+    "end": 47.83,
+    "id": "w116"
+  },
+  {
+    "text": "today?",
+    "start": 47.83,
+    "end": 48.68,
+    "id": "w117"
+  },
+  {
+    "text": "To",
+    "start": 48.68,
+    "end": 48.85,
+    "id": "w118"
+  },
+  {
+    "text": "find",
+    "start": 49.02,
+    "end": 49.19,
+    "id": "w119"
+  },
+  {
+    "text": "out,",
+    "start": 49.19,
+    "end": 49.61,
+    "id": "w120"
+  },
+  {
+    "text": "we",
+    "start": 49.61,
+    "end": 49.66,
+    "id": "w121"
+  },
+  {
+    "text": "need",
+    "start": 49.79,
+    "end": 50.11,
+    "id": "w122"
+  },
+  {
+    "text": "to",
+    "start": 50.16,
+    "end": 50.21,
+    "id": "w123"
+  },
+  {
+    "text": "go",
+    "start": 50.29,
+    "end": 50.46,
+    "id": "w124"
+  },
+  {
+    "text": "back",
+    "start": 50.46,
+    "end": 50.84,
+    "id": "w125"
+  },
+  {
+    "text": "to",
+    "start": 50.84,
+    "end": 50.98,
+    "id": "w126"
+  },
+  {
+    "text": "a",
+    "start": 50.98,
+    "end": 51.05,
+    "id": "w127"
+  },
+  {
+    "text": "kingdom",
+    "start": 51.05,
+    "end": 51.58,
+    "id": "w128"
+  },
+  {
+    "text": "that",
+    "start": 51.58,
+    "end": 51.92,
+    "id": "w129"
+  },
+  {
+    "text": "owned",
+    "start": 51.92,
+    "end": 52.28,
+    "id": "w130"
+  },
+  {
+    "text": "a",
+    "start": 52.28,
+    "end": 52.34,
+    "id": "w131"
+  },
+  {
+    "text": "strait,",
+    "start": 52.35,
+    "end": 53,
+    "id": "w132"
+  },
+  {
+    "text": "to",
+    "start": 53,
+    "end": 53.11,
+    "id": "w133"
+  },
+  {
+    "text": "a",
+    "start": 53.19,
+    "end": 53.27,
+    "id": "w134"
+  },
+  {
+    "text": "king",
+    "start": 53.27,
+    "end": 53.55,
+    "id": "w135"
+  },
+  {
+    "text": "who",
+    "start": 53.67,
+    "end": 53.92,
+    "id": "w136"
+  },
+  {
+    "text": "could",
+    "start": 53.92,
+    "end": 54.04,
+    "id": "w137"
+  },
+  {
+    "text": "not",
+    "start": 54.43,
+    "end": 54.66,
+    "id": "w138"
+  },
+  {
+    "text": "sit",
+    "start": 54.66,
+    "end": 54.94,
+    "id": "w139"
+  },
+  {
+    "text": "still,",
+    "start": 54.94,
+    "end": 55.44,
+    "id": "w140"
+  },
+  {
+    "text": "and",
+    "start": 55.44,
+    "end": 55.78,
+    "id": "w141"
+  },
+  {
+    "text": "to",
+    "start": 55.78,
+    "end": 55.9,
+    "id": "w142"
+  },
+  {
+    "text": "one",
+    "start": 55.9,
+    "end": 56.18,
+    "id": "w143"
+  },
+  {
+    "text": "of",
+    "start": 56.18,
+    "end": 56.36,
+    "id": "w144"
+  },
+  {
+    "text": "the",
+    "start": 56.36,
+    "end": 56.64,
+    "id": "w145"
+  },
+  {
+    "text": "coldest",
+    "start": 56.64,
+    "end": 57.24,
+    "id": "w146"
+  },
+  {
+    "text": "winters",
+    "start": 57.33,
+    "end": 57.9,
+    "id": "w147"
+  },
+  {
+    "text": "anyone",
+    "start": 58.29,
+    "end": 58.5,
+    "id": "w148"
+  },
+  {
+    "text": "could",
+    "start": 58.5,
+    "end": 58.96,
+    "id": "w149"
+  },
+  {
+    "text": "remember.",
+    "start": 58.96,
+    "end": 60.03,
+    "id": "w150"
+  },
+  {
+    "text": "Look",
+    "start": 60.03,
+    "end": 60.38,
+    "id": "w151"
+  },
+  {
+    "text": "at",
+    "start": 60.38,
+    "end": 60.55,
+    "id": "w152"
+  },
+  {
+    "text": "a",
+    "start": 60.55,
+    "end": 60.63,
+    "id": "w153"
+  },
+  {
+    "text": "map",
+    "start": 60.63,
+    "end": 60.88,
+    "id": "w154"
+  },
+  {
+    "text": "of",
+    "start": 60.88,
+    "end": 61.02,
+    "id": "w155"
+  },
+  {
+    "text": "Scandinavia",
+    "start": 61.15,
+    "end": 62,
+    "id": "w156"
+  },
+  {
+    "text": "in",
+    "start": 62,
+    "end": 62.17,
+    "id": "w157"
+  },
+  {
+    "text": "the",
+    "start": 62.17,
+    "end": 62.42,
+    "id": "w158"
+  },
+  {
+    "text": "1650s,",
+    "start": 62.42,
+    "end": 63.72,
+    "id": "w159"
+  },
+  {
+    "text": "and",
+    "start": 63.72,
+    "end": 64.06,
+    "id": "w160"
+  },
+  {
+    "text": "something",
+    "start": 64.06,
+    "end": 64.84,
+    "id": "w161"
+  },
+  {
+    "text": "seems",
+    "start": 64.84,
+    "end": 65.25,
+    "id": "w162"
+  },
+  {
+    "text": "wrong.",
+    "start": 65.33,
+    "end": 66.08,
+    "id": "w163"
+  },
+  {
+    "text": "Denmark",
+    "start": 66.42,
+    "end": 66.62,
+    "id": "w164"
+  },
+  {
+    "text": "is",
+    "start": 66.62,
+    "end": 66.77,
+    "id": "w165"
+  },
+  {
+    "text": "far",
+    "start": 66.77,
+    "end": 67,
+    "id": "w166"
+  },
+  {
+    "text": "bigger",
+    "start": 67,
+    "end": 67.46,
+    "id": "w167"
+  },
+  {
+    "text": "than",
+    "start": 67.46,
+    "end": 67.77,
+    "id": "w168"
+  },
+  {
+    "text": "it",
+    "start": 67.77,
+    "end": 67.88,
+    "id": "w169"
+  },
+  {
+    "text": "is",
+    "start": 67.97,
+    "end": 68.06,
+    "id": "w170"
+  },
+  {
+    "text": "today.",
+    "start": 68.17,
+    "end": 68.55,
+    "id": "w171"
+  },
+  {
+    "text": "It",
+    "start": 68.72,
+    "end": 68.89,
+    "id": "w172"
+  },
+  {
+    "text": "holds",
+    "start": 69.06,
+    "end": 69.31,
+    "id": "w173"
+  },
+  {
+    "text": "Jutland",
+    "start": 69.31,
+    "end": 69.9,
+    "id": "w174"
+  },
+  {
+    "text": "and",
+    "start": 69.9,
+    "end": 70.15,
+    "id": "w175"
+  },
+  {
+    "text": "the",
+    "start": 70.15,
+    "end": 70.4,
+    "id": "w176"
+  },
+  {
+    "text": "islands",
+    "start": 70.4,
+    "end": 70.99,
+    "id": "w177"
+  },
+  {
+    "text": "as",
+    "start": 70.99,
+    "end": 71.15,
+    "id": "w178"
+  },
+  {
+    "text": "you",
+    "start": 71.15,
+    "end": 71.2,
+    "id": "w179"
+  },
+  {
+    "text": "would",
+    "start": 71.57,
+    "end": 71.83,
+    "id": "w180"
+  },
+  {
+    "text": "expect,",
+    "start": 71.83,
+    "end": 72.4,
+    "id": "w181"
+  },
+  {
+    "text": "but",
+    "start": 72.4,
+    "end": 72.74,
+    "id": "w182"
+  },
+  {
+    "text": "it",
+    "start": 72.74,
+    "end": 72.75,
+    "id": "w183"
+  },
+  {
+    "text": "also",
+    "start": 72.75,
+    "end": 73.03,
+    "id": "w184"
+  },
+  {
+    "text": "holds",
+    "start": 73.03,
+    "end": 73.38,
+    "id": "w185"
+  },
+  {
+    "text": "the",
+    "start": 73.38,
+    "end": 73.59,
+    "id": "w186"
+  },
+  {
+    "text": "southern",
+    "start": 73.59,
+    "end": 74.16,
+    "id": "w187"
+  },
+  {
+    "text": "tip",
+    "start": 74.16,
+    "end": 74.37,
+    "id": "w188"
+  },
+  {
+    "text": "of",
+    "start": 74.49,
+    "end": 74.58,
+    "id": "w189"
+  },
+  {
+    "text": "what",
+    "start": 74.58,
+    "end": 74.86,
+    "id": "w190"
+  },
+  {
+    "text": "is",
+    "start": 74.86,
+    "end": 75.25,
+    "id": "w191"
+  },
+  {
+    "text": "now",
+    "start": 75.25,
+    "end": 75.36,
+    "id": "w192"
+  },
+  {
+    "text": "Sweden,",
+    "start": 75.42,
+    "end": 76.16,
+    "id": "w193"
+  },
+  {
+    "text": "the",
+    "start": 76.16,
+    "end": 76.5,
+    "id": "w194"
+  },
+  {
+    "text": "rich,",
+    "start": 76.5,
+    "end": 77.03,
+    "id": "w195"
+  },
+  {
+    "text": "flat",
+    "start": 77.03,
+    "end": 77.42,
+    "id": "w196"
+  },
+  {
+    "text": "farmland",
+    "start": 77.42,
+    "end": 78.13,
+    "id": "w197"
+  },
+  {
+    "text": "of",
+    "start": 78.25,
+    "end": 78.39,
+    "id": "w198"
+  },
+  {
+    "text": "Scania.",
+    "start": 78.39,
+    "end": 79,
+    "id": "w199"
+  },
+  {
+    "text": "And",
+    "start": 79,
+    "end": 79.34,
+    "id": "w200"
+  },
+  {
+    "text": "through",
+    "start": 79.34,
+    "end": 79.68,
+    "id": "w201"
+  },
+  {
+    "text": "its",
+    "start": 79.68,
+    "end": 79.88,
+    "id": "w202"
+  },
+  {
+    "text": "union",
+    "start": 79.88,
+    "end": 80.22,
+    "id": "w203"
+  },
+  {
+    "text": "with",
+    "start": 80.22,
+    "end": 80.49,
+    "id": "w204"
+  },
+  {
+    "text": "Norway,",
+    "start": 80.49,
+    "end": 80.97,
+    "id": "w205"
+  },
+  {
+    "text": "the",
+    "start": 80.97,
+    "end": 81.42,
+    "id": "w206"
+  },
+  {
+    "text": "Danish",
+    "start": 81.42,
+    "end": 81.86,
+    "id": "w207"
+  },
+  {
+    "text": "king",
+    "start": 81.9,
+    "end": 82.25,
+    "id": "w208"
+  },
+  {
+    "text": "rules",
+    "start": 82.25,
+    "end": 82.7,
+    "id": "w209"
+  },
+  {
+    "text": "the",
+    "start": 82.7,
+    "end": 82.88,
+    "id": "w210"
+  },
+  {
+    "text": "whole",
+    "start": 82.97,
+    "end": 83.42,
+    "id": "w211"
+  },
+  {
+    "text": "western",
+    "start": 83.42,
+    "end": 84.04,
+    "id": "w212"
+  },
+  {
+    "text": "coast",
+    "start": 84.1,
+    "end": 84.5,
+    "id": "w213"
+  },
+  {
+    "text": "of",
+    "start": 84.59,
+    "end": 84.69,
+    "id": "w214"
+  },
+  {
+    "text": "the",
+    "start": 84.69,
+    "end": 84.96,
+    "id": "w215"
+  },
+  {
+    "text": "peninsula.",
+    "start": 84.96,
+    "end": 85.84,
+    "id": "w216"
+  },
+  {
+    "text": "Between",
+    "start": 86.18,
+    "end": 86.25,
+    "id": "w217"
+  },
+  {
+    "text": "the",
+    "start": 86.25,
+    "end": 86.42,
+    "id": "w218"
+  },
+  {
+    "text": "Danish",
+    "start": 86.42,
+    "end": 86.77,
+    "id": "w219"
+  },
+  {
+    "text": "islands",
+    "start": 86.77,
+    "end": 87.2,
+    "id": "w220"
+  },
+  {
+    "text": "and",
+    "start": 87.2,
+    "end": 87.49,
+    "id": "w221"
+  },
+  {
+    "text": "Scania",
+    "start": 87.49,
+    "end": 88.08,
+    "id": "w222"
+  },
+  {
+    "text": "lies",
+    "start": 88.08,
+    "end": 88.3,
+    "id": "w223"
+  },
+  {
+    "text": "a",
+    "start": 88.3,
+    "end": 88.69,
+    "id": "w224"
+  },
+  {
+    "text": "narrow",
+    "start": 88.69,
+    "end": 89.11,
+    "id": "w225"
+  },
+  {
+    "text": "strait.",
+    "start": 89.11,
+    "end": 90,
+    "id": "w226"
+  },
+  {
+    "text": "The",
+    "start": 90,
+    "end": 90.34,
+    "id": "w227"
+  },
+  {
+    "text": "sound,",
+    "start": 90.34,
+    "end": 90.93,
+    "id": "w228"
+  },
+  {
+    "text": "at",
+    "start": 90.93,
+    "end": 91.12,
+    "id": "w229"
+  },
+  {
+    "text": "its",
+    "start": 91.12,
+    "end": 91.4,
+    "id": "w230"
+  },
+  {
+    "text": "narrowest",
+    "start": 91.4,
+    "end": 92.25,
+    "id": "w231"
+  },
+  {
+    "text": "point,",
+    "start": 92.25,
+    "end": 92.76,
+    "id": "w232"
+  },
+  {
+    "text": "it",
+    "start": 92.76,
+    "end": 93.1,
+    "id": "w233"
+  },
+  {
+    "text": "is",
+    "start": 93.1,
+    "end": 93.12,
+    "id": "w234"
+  },
+  {
+    "text": "only",
+    "start": 93.12,
+    "end": 93.49,
+    "id": "w235"
+  },
+  {
+    "text": "about",
+    "start": 93.49,
+    "end": 93.95,
+    "id": "w236"
+  },
+  {
+    "text": "four",
+    "start": 93.95,
+    "end": 94.29,
+    "id": "w237"
+  },
+  {
+    "text": "kilometers",
+    "start": 94.37,
+    "end": 95.22,
+    "id": "w238"
+  },
+  {
+    "text": "wide.",
+    "start": 95.61,
+    "end": 95.94,
+    "id": "w239"
+  },
+  {
+    "text": "Ships",
+    "start": 95.94,
+    "end": 96.28,
+    "id": "w240"
+  },
+  {
+    "text": "sailing",
+    "start": 96.28,
+    "end": 96.71,
+    "id": "w241"
+  },
+  {
+    "text": "between",
+    "start": 96.76,
+    "end": 97.24,
+    "id": "w242"
+  },
+  {
+    "text": "the",
+    "start": 97.24,
+    "end": 97.44,
+    "id": "w243"
+  },
+  {
+    "text": "Baltic",
+    "start": 97.44,
+    "end": 97.85,
+    "id": "w244"
+  },
+  {
+    "text": "Sea",
+    "start": 97.85,
+    "end": 98.08,
+    "id": "w245"
+  },
+  {
+    "text": "and",
+    "start": 98.08,
+    "end": 98.42,
+    "id": "w246"
+  },
+  {
+    "text": "the",
+    "start": 98.42,
+    "end": 98.44,
+    "id": "w247"
+  },
+  {
+    "text": "rest",
+    "start": 98.44,
+    "end": 98.67,
+    "id": "w248"
+  },
+  {
+    "text": "of",
+    "start": 98.67,
+    "end": 98.79,
+    "id": "w249"
+  },
+  {
+    "text": "the",
+    "start": 98.79,
+    "end": 98.97,
+    "id": "w250"
+  },
+  {
+    "text": "world",
+    "start": 98.97,
+    "end": 99.28,
+    "id": "w251"
+  },
+  {
+    "text": "had",
+    "start": 99.28,
+    "end": 99.51,
+    "id": "w252"
+  },
+  {
+    "text": "to",
+    "start": 99.56,
+    "end": 99.71,
+    "id": "w253"
+  },
+  {
+    "text": "pass",
+    "start": 99.71,
+    "end": 100.05,
+    "id": "w254"
+  },
+  {
+    "text": "through",
+    "start": 100.05,
+    "end": 100.54,
+    "id": "w255"
+  },
+  {
+    "text": "it",
+    "start": 100.54,
+    "end": 100.86,
+    "id": "w256"
+  },
+  {
+    "text": "or",
+    "start": 100.86,
+    "end": 101.03,
+    "id": "w257"
+  },
+  {
+    "text": "through",
+    "start": 101.2,
+    "end": 101.64,
+    "id": "w258"
+  },
+  {
+    "text": "the",
+    "start": 101.64,
+    "end": 101.84,
+    "id": "w259"
+  },
+  {
+    "text": "wider",
+    "start": 101.97,
+    "end": 102.29,
+    "id": "w260"
+  },
+  {
+    "text": "belts",
+    "start": 102.34,
+    "end": 102.76,
+    "id": "w261"
+  },
+  {
+    "text": "further",
+    "start": 102.76,
+    "end": 103.32,
+    "id": "w262"
+  },
+  {
+    "text": "west,",
+    "start": 103.71,
+    "end": 103.78,
+    "id": "w263"
+  },
+  {
+    "text": "and",
+    "start": 103.78,
+    "end": 104.12,
+    "id": "w264"
+  },
+  {
+    "text": "Denmark",
+    "start": 104.12,
+    "end": 104.71,
+    "id": "w265"
+  },
+  {
+    "text": "held",
+    "start": 104.71,
+    "end": 105.08,
+    "id": "w266"
+  },
+  {
+    "text": "both",
+    "start": 105.08,
+    "end": 105.45,
+    "id": "w267"
+  },
+  {
+    "text": "shores.",
+    "start": 105.45,
+    "end": 106.24,
+    "id": "w268"
+  },
+  {
+    "text": "For",
+    "start": 106.24,
+    "end": 106.66,
+    "id": "w269"
+  },
+  {
+    "text": "more",
+    "start": 106.66,
+    "end": 106.85,
+    "id": "w270"
+  },
+  {
+    "text": "than",
+    "start": 106.85,
+    "end": 107.15,
+    "id": "w271"
+  },
+  {
+    "text": "200",
+    "start": 107.15,
+    "end": 107.84,
+    "id": "w272"
+  },
+  {
+    "text": "years,",
+    "start": 107.84,
+    "end": 108.24,
+    "id": "w273"
+  },
+  {
+    "text": "Danish",
+    "start": 108.58,
+    "end": 108.74,
+    "id": "w274"
+  },
+  {
+    "text": "kings",
+    "start": 108.74,
+    "end": 109.16,
+    "id": "w275"
+  },
+  {
+    "text": "made",
+    "start": 109.16,
+    "end": 109.49,
+    "id": "w276"
+  },
+  {
+    "text": "passing",
+    "start": 109.49,
+    "end": 110.04,
+    "id": "w277"
+  },
+  {
+    "text": "ships",
+    "start": 110.13,
+    "end": 110.5,
+    "id": "w278"
+  },
+  {
+    "text": "stop",
+    "start": 110.5,
+    "end": 110.7,
+    "id": "w279"
+  },
+  {
+    "text": "and",
+    "start": 110.7,
+    "end": 111.09,
+    "id": "w280"
+  },
+  {
+    "text": "pay.",
+    "start": 111.09,
+    "end": 111.62,
+    "id": "w281"
+  },
+  {
+    "text": "The",
+    "start": 111.62,
+    "end": 111.96,
+    "id": "w282"
+  },
+  {
+    "text": "toll",
+    "start": 111.96,
+    "end": 112.2,
+    "id": "w283"
+  },
+  {
+    "text": "was",
+    "start": 112.2,
+    "end": 112.45,
+    "id": "w284"
+  },
+  {
+    "text": "called",
+    "start": 112.45,
+    "end": 112.94,
+    "id": "w285"
+  },
+  {
+    "text": "the",
+    "start": 112.94,
+    "end": 113.15,
+    "id": "w286"
+  },
+  {
+    "text": "Sound",
+    "start": 113.23,
+    "end": 113.59,
+    "id": "w287"
+  },
+  {
+    "text": "Dues.",
+    "start": 113.7,
+    "end": 114.09,
+    "id": "w288"
+  },
+  {
+    "text": "It",
+    "start": 114.24,
+    "end": 114.39,
+    "id": "w289"
+  },
+  {
+    "text": "was",
+    "start": 114.58,
+    "end": 114.62,
+    "id": "w290"
+  },
+  {
+    "text": "collected",
+    "start": 114.62,
+    "end": 115.22,
+    "id": "w291"
+  },
+  {
+    "text": "at",
+    "start": 115.35,
+    "end": 115.47,
+    "id": "w292"
+  },
+  {
+    "text": "Elsinore",
+    "start": 115.47,
+    "end": 116.04,
+    "id": "w293"
+  },
+  {
+    "text": "beneath",
+    "start": 116.46,
+    "end": 116.69,
+    "id": "w294"
+  },
+  {
+    "text": "the",
+    "start": 116.69,
+    "end": 116.88,
+    "id": "w295"
+  },
+  {
+    "text": "walls",
+    "start": 116.94,
+    "end": 117.34,
+    "id": "w296"
+  },
+  {
+    "text": "of",
+    "start": 117.34,
+    "end": 117.5,
+    "id": "w297"
+  },
+  {
+    "text": "Kronborg",
+    "start": 117.5,
+    "end": 118.09,
+    "id": "w298"
+  },
+  {
+    "text": "Castle,",
+    "start": 118.21,
+    "end": 118.84,
+    "id": "w299"
+  },
+  {
+    "text": "the",
+    "start": 118.84,
+    "end": 119.18,
+    "id": "w300"
+  },
+  {
+    "text": "same",
+    "start": 119.18,
+    "end": 119.4,
+    "id": "w301"
+  },
+  {
+    "text": "castle",
+    "start": 119.4,
+    "end": 119.82,
+    "id": "w302"
+  },
+  {
+    "text": "Shakespeare",
+    "start": 119.95,
+    "end": 120.74,
+    "id": "w303"
+  },
+  {
+    "text": "chose",
+    "start": 120.74,
+    "end": 121.16,
+    "id": "w304"
+  },
+  {
+    "text": "as",
+    "start": 121.16,
+    "end": 121.3,
+    "id": "w305"
+  },
+  {
+    "text": "the",
+    "start": 121.3,
+    "end": 121.69,
+    "id": "w306"
+  },
+  {
+    "text": "home",
+    "start": 121.69,
+    "end": 121.97,
+    "id": "w307"
+  },
+  {
+    "text": "of",
+    "start": 121.97,
+    "end": 122.15,
+    "id": "w308"
+  },
+  {
+    "text": "Hamlet.",
+    "start": 122.15,
+    "end": 123,
+    "id": "w309"
+  },
+  {
+    "text": "The",
+    "start": 123,
+    "end": 123.34,
+    "id": "w310"
+  },
+  {
+    "text": "system",
+    "start": 123.34,
+    "end": 123.7,
+    "id": "w311"
+  },
+  {
+    "text": "was",
+    "start": 123.7,
+    "end": 123.93,
+    "id": "w312"
+  },
+  {
+    "text": "clever.",
+    "start": 123.93,
+    "end": 124.66,
+    "id": "w313"
+  },
+  {
+    "text": "Each",
+    "start": 124.66,
+    "end": 125,
+    "id": "w314"
+  },
+  {
+    "text": "captain",
+    "start": 125,
+    "end": 125.44,
+    "id": "w315"
+  },
+  {
+    "text": "had",
+    "start": 125.44,
+    "end": 125.64,
+    "id": "w316"
+  },
+  {
+    "text": "to",
+    "start": 125.77,
+    "end": 125.79,
+    "id": "w317"
+  },
+  {
+    "text": "declare",
+    "start": 125.79,
+    "end": 126.29,
+    "id": "w318"
+  },
+  {
+    "text": "what",
+    "start": 126.29,
+    "end": 126.57,
+    "id": "w319"
+  },
+  {
+    "text": "his",
+    "start": 126.57,
+    "end": 126.78,
+    "id": "w320"
+  },
+  {
+    "text": "cargo",
+    "start": 126.78,
+    "end": 127.12,
+    "id": "w321"
+  },
+  {
+    "text": "was",
+    "start": 127.12,
+    "end": 127.15,
+    "id": "w322"
+  },
+  {
+    "text": "worth",
+    "start": 127.51,
+    "end": 127.76,
+    "id": "w323"
+  },
+  {
+    "text": "and",
+    "start": 127.76,
+    "end": 128.1,
+    "id": "w324"
+  },
+  {
+    "text": "pay",
+    "start": 128.1,
+    "end": 128.26,
+    "id": "w325"
+  },
+  {
+    "text": "a",
+    "start": 128.26,
+    "end": 128.34,
+    "id": "w326"
+  },
+  {
+    "text": "share",
+    "start": 128.34,
+    "end": 128.74,
+    "id": "w327"
+  },
+  {
+    "text": "of",
+    "start": 128.87,
+    "end": 128.94,
+    "id": "w328"
+  },
+  {
+    "text": "that",
+    "start": 128.94,
+    "end": 129.28,
+    "id": "w329"
+  },
+  {
+    "text": "value,",
+    "start": 129.28,
+    "end": 129.92,
+    "id": "w330"
+  },
+  {
+    "text": "but",
+    "start": 129.92,
+    "end": 130.26,
+    "id": "w331"
+  },
+  {
+    "text": "the",
+    "start": 130.26,
+    "end": 130.3,
+    "id": "w332"
+  },
+  {
+    "text": "king",
+    "start": 130.3,
+    "end": 130.55,
+    "id": "w333"
+  },
+  {
+    "text": "kept",
+    "start": 130.55,
+    "end": 130.8,
+    "id": "w334"
+  },
+  {
+    "text": "the",
+    "start": 130.8,
+    "end": 130.9,
+    "id": "w335"
+  },
+  {
+    "text": "right",
+    "start": 131.03,
+    "end": 131.34,
+    "id": "w336"
+  },
+  {
+    "text": "to",
+    "start": 131.34,
+    "end": 131.45,
+    "id": "w337"
+  },
+  {
+    "text": "buy",
+    "start": 131.53,
+    "end": 131.72,
+    "id": "w338"
+  },
+  {
+    "text": "any",
+    "start": 131.81,
+    "end": 132.02,
+    "id": "w339"
+  },
+  {
+    "text": "cargo",
+    "start": 132.02,
+    "end": 132.38,
+    "id": "w340"
+  },
+  {
+    "text": "at",
+    "start": 132.46,
+    "end": 132.6,
+    "id": "w341"
+  },
+  {
+    "text": "the",
+    "start": 132.8,
+    "end": 132.81,
+    "id": "w342"
+  },
+  {
+    "text": "price",
+    "start": 132.81,
+    "end": 133.15,
+    "id": "w343"
+  },
+  {
+    "text": "the",
+    "start": 133.15,
+    "end": 133.36,
+    "id": "w344"
+  },
+  {
+    "text": "captain",
+    "start": 133.36,
+    "end": 133.84,
+    "id": "w345"
+  },
+  {
+    "text": "had",
+    "start": 133.84,
+    "end": 133.99,
+    "id": "w346"
+  },
+  {
+    "text": "declared.",
+    "start": 134.07,
+    "end": 134.84,
+    "id": "w347"
+  },
+  {
+    "text": "So",
+    "start": 134.84,
+    "end": 134.96,
+    "id": "w348"
+  },
+  {
+    "text": "if",
+    "start": 134.96,
+    "end": 135.18,
+    "id": "w349"
+  },
+  {
+    "text": "you",
+    "start": 135.18,
+    "end": 135.27,
+    "id": "w350"
+  },
+  {
+    "text": "swore",
+    "start": 135.27,
+    "end": 135.59,
+    "id": "w351"
+  },
+  {
+    "text": "your",
+    "start": 135.59,
+    "end": 135.82,
+    "id": "w352"
+  },
+  {
+    "text": "cargo",
+    "start": 135.95,
+    "end": 136.2,
+    "id": "w353"
+  },
+  {
+    "text": "was",
+    "start": 136.2,
+    "end": 136.37,
+    "id": "w354"
+  },
+  {
+    "text": "nearly",
+    "start": 136.45,
+    "end": 136.81,
+    "id": "w355"
+  },
+  {
+    "text": "worthless",
+    "start": 136.91,
+    "end": 137.3,
+    "id": "w356"
+  },
+  {
+    "text": "to",
+    "start": 137.3,
+    "end": 137.94,
+    "id": "w357"
+  },
+  {
+    "text": "pay",
+    "start": 137.94,
+    "end": 138.21,
+    "id": "w358"
+  },
+  {
+    "text": "less,",
+    "start": 138.21,
+    "end": 138.72,
+    "id": "w359"
+  },
+  {
+    "text": "the",
+    "start": 138.72,
+    "end": 139.06,
+    "id": "w360"
+  },
+  {
+    "text": "Danish",
+    "start": 139.06,
+    "end": 139.37,
+    "id": "w361"
+  },
+  {
+    "text": "crown",
+    "start": 139.37,
+    "end": 139.7,
+    "id": "w362"
+  },
+  {
+    "text": "might",
+    "start": 139.83,
+    "end": 140.09,
+    "id": "w363"
+  },
+  {
+    "text": "simply",
+    "start": 140.09,
+    "end": 140.52,
+    "id": "w364"
+  },
+  {
+    "text": "buy",
+    "start": 140.52,
+    "end": 140.69,
+    "id": "w365"
+  },
+  {
+    "text": "it",
+    "start": 140.81,
+    "end": 140.92,
+    "id": "w366"
+  },
+  {
+    "text": "from",
+    "start": 140.92,
+    "end": 141.17,
+    "id": "w367"
+  },
+  {
+    "text": "you",
+    "start": 141.17,
+    "end": 141.2,
+    "id": "w368"
+  },
+  {
+    "text": "at",
+    "start": 141.2,
+    "end": 141.57,
+    "id": "w369"
+  },
+  {
+    "text": "that",
+    "start": 141.57,
+    "end": 141.91,
+    "id": "w370"
+  },
+  {
+    "text": "price.",
+    "start": 141.91,
+    "end": 142.68,
+    "id": "w371"
+  },
+  {
+    "text": "It",
+    "start": 142.68,
+    "end": 143.02,
+    "id": "w372"
+  },
+  {
+    "text": "kept",
+    "start": 143.02,
+    "end": 143.23,
+    "id": "w373"
+  },
+  {
+    "text": "most",
+    "start": 143.23,
+    "end": 143.6,
+    "id": "w374"
+  },
+  {
+    "text": "captains",
+    "start": 143.6,
+    "end": 144.34,
+    "id": "w375"
+  },
+  {
+    "text": "honest.",
+    "start": 144.34,
+    "end": 145.14,
+    "id": "w376"
+  },
+  {
+    "text": "Grain,",
+    "start": 145.54,
+    "end": 145.84,
+    "id": "w377"
+  },
+  {
+    "text": "timber,",
+    "start": 145.84,
+    "end": 146.57,
+    "id": "w378"
+  },
+  {
+    "text": "iron,",
+    "start": 146.57,
+    "end": 147.12,
+    "id": "w379"
+  },
+  {
+    "text": "and",
+    "start": 147.12,
+    "end": 147.4,
+    "id": "w380"
+  },
+  {
+    "text": "tar,",
+    "start": 147.4,
+    "end": 147.76,
+    "id": "w381"
+  },
+  {
+    "text": "Dutch",
+    "start": 147.76,
+    "end": 148.1,
+    "id": "w382"
+  },
+  {
+    "text": "ships,",
+    "start": 148.1,
+    "end": 148.48,
+    "id": "w383"
+  },
+  {
+    "text": "English",
+    "start": 148.48,
+    "end": 148.91,
+    "id": "w384"
+  },
+  {
+    "text": "ships,",
+    "start": 148.91,
+    "end": 149.29,
+    "id": "w385"
+  },
+  {
+    "text": "German",
+    "start": 149.37,
+    "end": 149.99,
+    "id": "w386"
+  },
+  {
+    "text": "ships,",
+    "start": 149.99,
+    "end": 150.52,
+    "id": "w387"
+  },
+  {
+    "text": "they",
+    "start": 150.52,
+    "end": 150.86,
+    "id": "w388"
+  },
+  {
+    "text": "grumbled",
+    "start": 150.86,
+    "end": 151.44,
+    "id": "w389"
+  },
+  {
+    "text": "and",
+    "start": 151.44,
+    "end": 151.67,
+    "id": "w390"
+  },
+  {
+    "text": "they",
+    "start": 151.67,
+    "end": 151.95,
+    "id": "w391"
+  },
+  {
+    "text": "paid.",
+    "start": 152,
+    "end": 152.49,
+    "id": "w392"
+  },
+  {
+    "text": "The",
+    "start": 152.49,
+    "end": 152.9,
+    "id": "w393"
+  },
+  {
+    "text": "money",
+    "start": 152.9,
+    "end": 153.07,
+    "id": "w394"
+  },
+  {
+    "text": "flowed",
+    "start": 153.07,
+    "end": 153.46,
+    "id": "w395"
+  },
+  {
+    "text": "straight",
+    "start": 153.46,
+    "end": 153.98,
+    "id": "w396"
+  },
+  {
+    "text": "to",
+    "start": 153.98,
+    "end": 154.09,
+    "id": "w397"
+  },
+  {
+    "text": "the",
+    "start": 154.17,
+    "end": 154.3,
+    "id": "w398"
+  },
+  {
+    "text": "king.",
+    "start": 154.3,
+    "end": 154.8,
+    "id": "w399"
+  },
+  {
+    "text": "It",
+    "start": 154.8,
+    "end": 155.14,
+    "id": "w400"
+  },
+  {
+    "text": "made",
+    "start": 155.14,
+    "end": 155.37,
+    "id": "w401"
+  },
+  {
+    "text": "Denmark",
+    "start": 155.37,
+    "end": 156.04,
+    "id": "w402"
+  },
+  {
+    "text": "rich",
+    "start": 156.04,
+    "end": 156.44,
+    "id": "w403"
+  },
+  {
+    "text": "and",
+    "start": 156.44,
+    "end": 156.72,
+    "id": "w404"
+  },
+  {
+    "text": "it",
+    "start": 156.72,
+    "end": 156.9,
+    "id": "w405"
+  },
+  {
+    "text": "made",
+    "start": 156.9,
+    "end": 157.26,
+    "id": "w406"
+  },
+  {
+    "text": "Denmark",
+    "start": 157.65,
+    "end": 157.92,
+    "id": "w407"
+  },
+  {
+    "text": "proud.",
+    "start": 157.92,
+    "end": 158.68,
+    "id": "w408"
+  },
+  {
+    "text": "Across",
+    "start": 159.02,
+    "end": 159.24,
+    "id": "w409"
+  },
+  {
+    "text": "the",
+    "start": 159.24,
+    "end": 159.52,
+    "id": "w410"
+  },
+  {
+    "text": "water,",
+    "start": 159.52,
+    "end": 160.17,
+    "id": "w411"
+  },
+  {
+    "text": "its",
+    "start": 160.17,
+    "end": 160.42,
+    "id": "w412"
+  },
+  {
+    "text": "rivals",
+    "start": 160.42,
+    "end": 160.93,
+    "id": "w413"
+  },
+  {
+    "text": "saw",
+    "start": 160.93,
+    "end": 161.14,
+    "id": "w414"
+  },
+  {
+    "text": "things",
+    "start": 161.53,
+    "end": 161.64,
+    "id": "w415"
+  },
+  {
+    "text": "very",
+    "start": 161.7,
+    "end": 162.03,
+    "id": "w416"
+  },
+  {
+    "text": "differently.",
+    "start": 162.03,
+    "end": 163.23,
+    "id": "w417"
+  },
+  {
+    "text": "Sweden",
+    "start": 163.58,
+    "end": 163.72,
+    "id": "w418"
+  },
+  {
+    "text": "had",
+    "start": 163.72,
+    "end": 163.96,
+    "id": "w419"
+  },
+  {
+    "text": "grown",
+    "start": 163.96,
+    "end": 164.36,
+    "id": "w420"
+  },
+  {
+    "text": "into",
+    "start": 164.36,
+    "end": 164.67,
+    "id": "w421"
+  },
+  {
+    "text": "a",
+    "start": 164.72,
+    "end": 164.76,
+    "id": "w422"
+  },
+  {
+    "text": "great",
+    "start": 164.76,
+    "end": 165.16,
+    "id": "w423"
+  },
+  {
+    "text": "military",
+    "start": 165.16,
+    "end": 165.7,
+    "id": "w424"
+  },
+  {
+    "text": "power.",
+    "start": 166.09,
+    "end": 166.48,
+    "id": "w425"
+  },
+  {
+    "text": "Its",
+    "start": 166.48,
+    "end": 166.82,
+    "id": "w426"
+  },
+  {
+    "text": "armies",
+    "start": 166.82,
+    "end": 167.15,
+    "id": "w427"
+  },
+  {
+    "text": "had",
+    "start": 167.15,
+    "end": 167.37,
+    "id": "w428"
+  },
+  {
+    "text": "fought",
+    "start": 167.37,
+    "end": 167.82,
+    "id": "w429"
+  },
+  {
+    "text": "deep",
+    "start": 167.82,
+    "end": 168.12,
+    "id": "w430"
+  },
+  {
+    "text": "inside",
+    "start": 168.12,
+    "end": 168.45,
+    "id": "w431"
+  },
+  {
+    "text": "Germany",
+    "start": 168.57,
+    "end": 168.94,
+    "id": "w432"
+  },
+  {
+    "text": "during",
+    "start": 169.46,
+    "end": 169.58,
+    "id": "w433"
+  },
+  {
+    "text": "the",
+    "start": 169.58,
+    "end": 169.81,
+    "id": "w434"
+  },
+  {
+    "text": "30",
+    "start": 169.81,
+    "end": 170.27,
+    "id": "w435"
+  },
+  {
+    "text": "years",
+    "start": 170.27,
+    "end": 170.66,
+    "id": "w436"
+  },
+  {
+    "text": "war",
+    "start": 170.73,
+    "end": 170.92,
+    "id": "w437"
+  },
+  {
+    "text": "and",
+    "start": 170.92,
+    "end": 171.09,
+    "id": "w438"
+  },
+  {
+    "text": "come",
+    "start": 171.21,
+    "end": 171.44,
+    "id": "w439"
+  },
+  {
+    "text": "home",
+    "start": 171.44,
+    "end": 171.59,
+    "id": "w440"
+  },
+  {
+    "text": "with",
+    "start": 171.97,
+    "end": 172.25,
+    "id": "w441"
+  },
+  {
+    "text": "land",
+    "start": 172.25,
+    "end": 172.74,
+    "id": "w442"
+  },
+  {
+    "text": "and",
+    "start": 172.74,
+    "end": 173.1,
+    "id": "w443"
+  },
+  {
+    "text": "glory.",
+    "start": 173.1,
+    "end": 173.72,
+    "id": "w444"
+  },
+  {
+    "text": "But",
+    "start": 173.72,
+    "end": 174.06,
+    "id": "w445"
+  },
+  {
+    "text": "every",
+    "start": 174.06,
+    "end": 174.25,
+    "id": "w446"
+  },
+  {
+    "text": "Swedish",
+    "start": 174.25,
+    "end": 174.7,
+    "id": "w447"
+  },
+  {
+    "text": "ship",
+    "start": 174.83,
+    "end": 175,
+    "id": "w448"
+  },
+  {
+    "text": "heading",
+    "start": 175,
+    "end": 175.4,
+    "id": "w449"
+  },
+  {
+    "text": "west",
+    "start": 175.4,
+    "end": 175.64,
+    "id": "w450"
+  },
+  {
+    "text": "still",
+    "start": 175.98,
+    "end": 176.13,
+    "id": "w451"
+  },
+  {
+    "text": "had",
+    "start": 176.13,
+    "end": 176.4,
+    "id": "w452"
+  },
+  {
+    "text": "to",
+    "start": 176.4,
+    "end": 176.61,
+    "id": "w453"
+  },
+  {
+    "text": "pass",
+    "start": 176.61,
+    "end": 177,
+    "id": "w454"
+  },
+  {
+    "text": "Danish",
+    "start": 177,
+    "end": 177.59,
+    "id": "w455"
+  },
+  {
+    "text": "guns.",
+    "start": 177.59,
+    "end": 178.11,
+    "id": "w456"
+  },
+  {
+    "text": "To",
+    "start": 178.11,
+    "end": 178.66,
+    "id": "w457"
+  },
+  {
+    "text": "Sweden,",
+    "start": 178.66,
+    "end": 179.24,
+    "id": "w458"
+  },
+  {
+    "text": "the",
+    "start": 179.24,
+    "end": 179.52,
+    "id": "w459"
+  },
+  {
+    "text": "sound",
+    "start": 179.52,
+    "end": 179.98,
+    "id": "w460"
+  },
+  {
+    "text": "was",
+    "start": 179.98,
+    "end": 180.26,
+    "id": "w461"
+  },
+  {
+    "text": "a",
+    "start": 180.26,
+    "end": 180.3,
+    "id": "w462"
+  },
+  {
+    "text": "door",
+    "start": 180.41,
+    "end": 180.75,
+    "id": "w463"
+  },
+  {
+    "text": "and",
+    "start": 180.75,
+    "end": 180.8,
+    "id": "w464"
+  },
+  {
+    "text": "Denmark",
+    "start": 181.17,
+    "end": 181.66,
+    "id": "w465"
+  },
+  {
+    "text": "held",
+    "start": 181.66,
+    "end": 182.02,
+    "id": "w466"
+  },
+  {
+    "text": "the",
+    "start": 182.02,
+    "end": 182.29,
+    "id": "w467"
+  },
+  {
+    "text": "key.",
+    "start": 182.29,
+    "end": 182.84,
+    "id": "w468"
+  },
+  {
+    "text": "The",
+    "start": 182.84,
+    "end": 183.18,
+    "id": "w469"
+  },
+  {
+    "text": "two",
+    "start": 183.18,
+    "end": 183.26,
+    "id": "w470"
+  },
+  {
+    "text": "kingdoms",
+    "start": 183.26,
+    "end": 183.82,
+    "id": "w471"
+  },
+  {
+    "text": "fought",
+    "start": 183.83,
+    "end": 184.25,
+    "id": "w472"
+  },
+  {
+    "text": "over",
+    "start": 184.25,
+    "end": 184.53,
+    "id": "w473"
+  },
+  {
+    "text": "it",
+    "start": 184.53,
+    "end": 184.64,
+    "id": "w474"
+  },
+  {
+    "text": "again",
+    "start": 184.73,
+    "end": 185.02,
+    "id": "w475"
+  },
+  {
+    "text": "and",
+    "start": 185.02,
+    "end": 185.22,
+    "id": "w476"
+  },
+  {
+    "text": "again.",
+    "start": 185.22,
+    "end": 185.8,
+    "id": "w477"
+  },
+  {
+    "text": "In",
+    "start": 185.8,
+    "end": 186.18,
+    "id": "w478"
+  },
+  {
+    "text": "1645,",
+    "start": 186.18,
+    "end": 187.64,
+    "id": "w479"
+  },
+  {
+    "text": "Sweden",
+    "start": 187.73,
+    "end": 188.3,
+    "id": "w480"
+  },
+  {
+    "text": "won.",
+    "start": 188.69,
+    "end": 189.16,
+    "id": "w481"
+  },
+  {
+    "text": "Denmark",
+    "start": 189.5,
+    "end": 189.69,
+    "id": "w482"
+  },
+  {
+    "text": "handed",
+    "start": 189.69,
+    "end": 190.14,
+    "id": "w483"
+  },
+  {
+    "text": "over",
+    "start": 190.27,
+    "end": 190.45,
+    "id": "w484"
+  },
+  {
+    "text": "two",
+    "start": 190.45,
+    "end": 190.68,
+    "id": "w485"
+  },
+  {
+    "text": "islands",
+    "start": 190.68,
+    "end": 191.13,
+    "id": "w486"
+  },
+  {
+    "text": "in",
+    "start": 191.25,
+    "end": 191.42,
+    "id": "w487"
+  },
+  {
+    "text": "the",
+    "start": 191.42,
+    "end": 191.62,
+    "id": "w488"
+  },
+  {
+    "text": "Baltic",
+    "start": 192.01,
+    "end": 192.24,
+    "id": "w489"
+  },
+  {
+    "text": "and",
+    "start": 192.24,
+    "end": 192.58,
+    "id": "w490"
+  },
+  {
+    "text": "two",
+    "start": 192.58,
+    "end": 192.78,
+    "id": "w491"
+  },
+  {
+    "text": "provinces",
+    "start": 192.78,
+    "end": 193.58,
+    "id": "w492"
+  },
+  {
+    "text": "of",
+    "start": 193.58,
+    "end": 193.77,
+    "id": "w493"
+  },
+  {
+    "text": "Norway",
+    "start": 193.77,
+    "end": 194.21,
+    "id": "w494"
+  },
+  {
+    "text": "and",
+    "start": 194.21,
+    "end": 194.66,
+    "id": "w495"
+  },
+  {
+    "text": "let",
+    "start": 194.66,
+    "end": 194.72,
+    "id": "w496"
+  },
+  {
+    "text": "Sweden",
+    "start": 194.72,
+    "end": 195.08,
+    "id": "w497"
+  },
+  {
+    "text": "hold",
+    "start": 195.11,
+    "end": 195.3,
+    "id": "w498"
+  },
+  {
+    "text": "the",
+    "start": 195.43,
+    "end": 195.59,
+    "id": "w499"
+  },
+  {
+    "text": "coastal",
+    "start": 195.59,
+    "end": 196.06,
+    "id": "w500"
+  },
+  {
+    "text": "province",
+    "start": 196.06,
+    "end": 196.64,
+    "id": "w501"
+  },
+  {
+    "text": "of",
+    "start": 196.64,
+    "end": 196.78,
+    "id": "w502"
+  },
+  {
+    "text": "Halland",
+    "start": 197.16,
+    "end": 197.44,
+    "id": "w503"
+  },
+  {
+    "text": "for",
+    "start": 197.44,
+    "end": 197.78,
+    "id": "w504"
+  },
+  {
+    "text": "30",
+    "start": 197.78,
+    "end": 198.42,
+    "id": "w505"
+  },
+  {
+    "text": "years.",
+    "start": 198.43,
+    "end": 199.24,
+    "id": "w506"
+  },
+  {
+    "text": "Denmark",
+    "start": 199.66,
+    "end": 199.91,
+    "id": "w507"
+  },
+  {
+    "text": "wanted",
+    "start": 199.91,
+    "end": 200.3,
+    "id": "w508"
+  },
+  {
+    "text": "all",
+    "start": 200.43,
+    "end": 200.66,
+    "id": "w509"
+  },
+  {
+    "text": "of",
+    "start": 200.66,
+    "end": 200.82,
+    "id": "w510"
+  },
+  {
+    "text": "it",
+    "start": 200.82,
+    "end": 200.98,
+    "id": "w511"
+  },
+  {
+    "text": "back.",
+    "start": 200.98,
+    "end": 201.6,
+    "id": "w512"
+  },
+  {
+    "text": "It",
+    "start": 201.6,
+    "end": 201.74,
+    "id": "w513"
+  },
+  {
+    "text": "was",
+    "start": 201.94,
+    "end": 201.95,
+    "id": "w514"
+  },
+  {
+    "text": "only",
+    "start": 201.95,
+    "end": 202.23,
+    "id": "w515"
+  },
+  {
+    "text": "waiting",
+    "start": 202.23,
+    "end": 202.72,
+    "id": "w516"
+  },
+  {
+    "text": "for",
+    "start": 202.72,
+    "end": 202.93,
+    "id": "w517"
+  },
+  {
+    "text": "the",
+    "start": 202.93,
+    "end": 203.14,
+    "id": "w518"
+  },
+  {
+    "text": "right",
+    "start": 203.21,
+    "end": 203.4,
+    "id": "w519"
+  },
+  {
+    "text": "moment.",
+    "start": 203.49,
+    "end": 204.06,
+    "id": "w520"
+  },
+  {
+    "text": "In",
+    "start": 204.06,
+    "end": 205.49,
+    "id": "w521"
+  },
+  {
+    "text": "1654,",
+    "start": 205.49,
+    "end": 206.77,
+    "id": "w522"
+  },
+  {
+    "text": "Sweden",
+    "start": 206.85,
+    "end": 207.41,
+    "id": "w523"
+  },
+  {
+    "text": "got",
+    "start": 207.41,
+    "end": 207.69,
+    "id": "w524"
+  },
+  {
+    "text": "a",
+    "start": 207.69,
+    "end": 207.72,
+    "id": "w525"
+  },
+  {
+    "text": "new",
+    "start": 207.72,
+    "end": 208.09,
+    "id": "w526"
+  },
+  {
+    "text": "ruler.",
+    "start": 208.09,
+    "end": 208.84,
+    "id": "w527"
+  },
+  {
+    "text": "Queen",
+    "start": 209.18,
+    "end": 209.2,
+    "id": "w528"
+  },
+  {
+    "text": "Christina",
+    "start": 209.2,
+    "end": 209.82,
+    "id": "w529"
+  },
+  {
+    "text": "gave",
+    "start": 209.95,
+    "end": 210.12,
+    "id": "w530"
+  },
+  {
+    "text": "up",
+    "start": 210.12,
+    "end": 210.26,
+    "id": "w531"
+  },
+  {
+    "text": "her",
+    "start": 210.26,
+    "end": 210.47,
+    "id": "w532"
+  },
+  {
+    "text": "crown,",
+    "start": 210.47,
+    "end": 211,
+    "id": "w533"
+  },
+  {
+    "text": "left",
+    "start": 211,
+    "end": 211.34,
+    "id": "w534"
+  },
+  {
+    "text": "the",
+    "start": 211.34,
+    "end": 211.56,
+    "id": "w535"
+  },
+  {
+    "text": "country",
+    "start": 211.56,
+    "end": 211.98,
+    "id": "w536"
+  },
+  {
+    "text": "and",
+    "start": 212.11,
+    "end": 212.35,
+    "id": "w537"
+  },
+  {
+    "text": "became",
+    "start": 212.35,
+    "end": 212.8,
+    "id": "w538"
+  },
+  {
+    "text": "a",
+    "start": 212.89,
+    "end": 212.9,
+    "id": "w539"
+  },
+  {
+    "text": "Catholic.",
+    "start": 212.9,
+    "end": 213.8,
+    "id": "w540"
+  },
+  {
+    "text": "Her",
+    "start": 213.8,
+    "end": 214.14,
+    "id": "w541"
+  },
+  {
+    "text": "cousin",
+    "start": 214.14,
+    "end": 214.58,
+    "id": "w542"
+  },
+  {
+    "text": "took",
+    "start": 214.62,
+    "end": 214.99,
+    "id": "w543"
+  },
+  {
+    "text": "the",
+    "start": 214.99,
+    "end": 215.23,
+    "id": "w544"
+  },
+  {
+    "text": "throne,",
+    "start": 215.28,
+    "end": 216.08,
+    "id": "w545"
+  },
+  {
+    "text": "Charles",
+    "start": 216.08,
+    "end": 216.93,
+    "id": "w546"
+  },
+  {
+    "text": "X",
+    "start": 216.93,
+    "end": 217.05,
+    "id": "w547"
+  },
+  {
+    "text": "Gustave.",
+    "start": 217.05,
+    "end": 218.28,
+    "id": "w548"
+  },
+  {
+    "text": "Charles",
+    "start": 218.62,
+    "end": 218.91,
+    "id": "w549"
+  },
+  {
+    "text": "was",
+    "start": 218.91,
+    "end": 219.18,
+    "id": "w550"
+  },
+  {
+    "text": "a",
+    "start": 219.18,
+    "end": 219.26,
+    "id": "w551"
+  },
+  {
+    "text": "soldier",
+    "start": 219.39,
+    "end": 219.9,
+    "id": "w552"
+  },
+  {
+    "text": "first",
+    "start": 219.9,
+    "end": 220.25,
+    "id": "w553"
+  },
+  {
+    "text": "and",
+    "start": 220.37,
+    "end": 220.72,
+    "id": "w554"
+  },
+  {
+    "text": "a",
+    "start": 220.72,
+    "end": 220.76,
+    "id": "w555"
+  },
+  {
+    "text": "king",
+    "start": 221.13,
+    "end": 221.31,
+    "id": "w556"
+  },
+  {
+    "text": "second,",
+    "start": 221.31,
+    "end": 222.04,
+    "id": "w557"
+  },
+  {
+    "text": "barely",
+    "start": 222.38,
+    "end": 222.49,
+    "id": "w558"
+  },
+  {
+    "text": "a",
+    "start": 222.49,
+    "end": 222.56,
+    "id": "w559"
+  },
+  {
+    "text": "year",
+    "start": 222.56,
+    "end": 222.8,
+    "id": "w560"
+  },
+  {
+    "text": "after",
+    "start": 222.86,
+    "end": 223.24,
+    "id": "w561"
+  },
+  {
+    "text": "his",
+    "start": 223.24,
+    "end": 223.46,
+    "id": "w562"
+  },
+  {
+    "text": "coronation,",
+    "start": 223.46,
+    "end": 224.4,
+    "id": "w563"
+  },
+  {
+    "text": "he",
+    "start": 224.4,
+    "end": 224.51,
+    "id": "w564"
+  },
+  {
+    "text": "invaded",
+    "start": 224.89,
+    "end": 225.43,
+    "id": "w565"
+  },
+  {
+    "text": "Poland.",
+    "start": 225.43,
+    "end": 226.48,
+    "id": "w566"
+  },
+  {
+    "text": "At",
+    "start": 226.48,
+    "end": 226.62,
+    "id": "w567"
+  },
+  {
+    "text": "first,",
+    "start": 226.82,
+    "end": 227.11,
+    "id": "w568"
+  },
+  {
+    "text": "it",
+    "start": 227.11,
+    "end": 227.24,
+    "id": "w569"
+  },
+  {
+    "text": "went",
+    "start": 227.25,
+    "end": 227.46,
+    "id": "w570"
+  },
+  {
+    "text": "brilliantly.",
+    "start": 227.59,
+    "end": 228.45,
+    "id": "w571"
+  },
+  {
+    "text": "Warsaw",
+    "start": 228.86,
+    "end": 229.19,
+    "id": "w572"
+  },
+  {
+    "text": "fell,",
+    "start": 229.19,
+    "end": 229.86,
+    "id": "w573"
+  },
+  {
+    "text": "Krakow",
+    "start": 229.86,
+    "end": 230.49,
+    "id": "w574"
+  },
+  {
+    "text": "fell,",
+    "start": 230.61,
+    "end": 231.01,
+    "id": "w575"
+  },
+  {
+    "text": "but",
+    "start": 231.01,
+    "end": 231.37,
+    "id": "w576"
+  },
+  {
+    "text": "Poland",
+    "start": 231.37,
+    "end": 231.79,
+    "id": "w577"
+  },
+  {
+    "text": "did",
+    "start": 231.79,
+    "end": 231.94,
+    "id": "w578"
+  },
+  {
+    "text": "not",
+    "start": 232.03,
+    "end": 232.23,
+    "id": "w579"
+  },
+  {
+    "text": "stay",
+    "start": 232.23,
+    "end": 232.52,
+    "id": "w580"
+  },
+  {
+    "text": "beaten.",
+    "start": 232.52,
+    "end": 233.15,
+    "id": "w581"
+  },
+  {
+    "text": "The",
+    "start": 233.15,
+    "end": 233.54,
+    "id": "w582"
+  },
+  {
+    "text": "war",
+    "start": 233.54,
+    "end": 233.72,
+    "id": "w583"
+  },
+  {
+    "text": "dragged",
+    "start": 233.72,
+    "end": 234.33,
+    "id": "w584"
+  },
+  {
+    "text": "on",
+    "start": 234.33,
+    "end": 234.52,
+    "id": "w585"
+  },
+  {
+    "text": "and",
+    "start": 234.52,
+    "end": 234.71,
+    "id": "w586"
+  },
+  {
+    "text": "the",
+    "start": 234.71,
+    "end": 234.9,
+    "id": "w587"
+  },
+  {
+    "text": "Swedish",
+    "start": 234.9,
+    "end": 235.34,
+    "id": "w588"
+  },
+  {
+    "text": "army",
+    "start": 235.34,
+    "end": 235.59,
+    "id": "w589"
+  },
+  {
+    "text": "was",
+    "start": 235.59,
+    "end": 235.67,
+    "id": "w590"
+  },
+  {
+    "text": "stretched",
+    "start": 236.05,
+    "end": 236.61,
+    "id": "w591"
+  },
+  {
+    "text": "thin",
+    "start": 236.61,
+    "end": 236.96,
+    "id": "w592"
+  },
+  {
+    "text": "hundreds",
+    "start": 237.3,
+    "end": 237.64,
+    "id": "w593"
+  },
+  {
+    "text": "of",
+    "start": 237.64,
+    "end": 237.81,
+    "id": "w594"
+  },
+  {
+    "text": "kilometers",
+    "start": 237.81,
+    "end": 238.66,
+    "id": "w595"
+  },
+  {
+    "text": "from",
+    "start": 238.66,
+    "end": 238.93,
+    "id": "w596"
+  },
+  {
+    "text": "home.",
+    "start": 239.05,
+    "end": 239.43,
+    "id": "w597"
+  },
+  {
+    "text": "In",
+    "start": 239.6,
+    "end": 239.77,
+    "id": "w598"
+  },
+  {
+    "text": "Copenhagen,",
+    "start": 239.94,
+    "end": 240.81,
+    "id": "w599"
+  },
+  {
+    "text": "King",
+    "start": 240.81,
+    "end": 241.13,
+    "id": "w600"
+  },
+  {
+    "text": "Frederick",
+    "start": 241.21,
+    "end": 241.93,
+    "id": "w601"
+  },
+  {
+    "text": "III",
+    "start": 241.93,
+    "end": 242.06,
+    "id": "w602"
+  },
+  {
+    "text": "saw",
+    "start": 242.06,
+    "end": 242.45,
+    "id": "w603"
+  },
+  {
+    "text": "his",
+    "start": 242.45,
+    "end": 242.71,
+    "id": "w604"
+  },
+  {
+    "text": "chance.",
+    "start": 242.71,
+    "end": 243.52,
+    "id": "w605"
+  },
+  {
+    "text": "Sweden's",
+    "start": 243.86,
+    "end": 244.18,
+    "id": "w606"
+  },
+  {
+    "text": "best",
+    "start": 244.18,
+    "end": 244.5,
+    "id": "w607"
+  },
+  {
+    "text": "soldiers",
+    "start": 244.63,
+    "end": 245.18,
+    "id": "w608"
+  },
+  {
+    "text": "were",
+    "start": 245.18,
+    "end": 245.49,
+    "id": "w609"
+  },
+  {
+    "text": "stuck",
+    "start": 245.61,
+    "end": 245.91,
+    "id": "w610"
+  },
+  {
+    "text": "deep",
+    "start": 245.94,
+    "end": 246,
+    "id": "w611"
+  },
+  {
+    "text": "in",
+    "start": 246.37,
+    "end": 246.42,
+    "id": "w612"
+  },
+  {
+    "text": "Poland.",
+    "start": 246.42,
+    "end": 247.24,
+    "id": "w613"
+  },
+  {
+    "text": "In",
+    "start": 247.24,
+    "end": 247.58,
+    "id": "w614"
+  },
+  {
+    "text": "June",
+    "start": 247.58,
+    "end": 247.87,
+    "id": "w615"
+  },
+  {
+    "text": "1657,",
+    "start": 247.87,
+    "end": 249.34,
+    "id": "w616"
+  },
+  {
+    "text": "Denmark",
+    "start": 249.34,
+    "end": 249.7,
+    "id": "w617"
+  },
+  {
+    "text": "declared",
+    "start": 250.09,
+    "end": 250.93,
+    "id": "w618"
+  },
+  {
+    "text": "war.",
+    "start": 250.93,
+    "end": 251.6,
+    "id": "w619"
+  },
+  {
+    "text": "It",
+    "start": 251.6,
+    "end": 251.94,
+    "id": "w620"
+  },
+  {
+    "text": "was",
+    "start": 251.94,
+    "end": 252.11,
+    "id": "w621"
+  },
+  {
+    "text": "a",
+    "start": 252.11,
+    "end": 252.21,
+    "id": "w622"
+  },
+  {
+    "text": "terrible",
+    "start": 252.21,
+    "end": 253.03,
+    "id": "w623"
+  },
+  {
+    "text": "mistake.",
+    "start": 253.03,
+    "end": 254.06,
+    "id": "w624"
+  },
+  {
+    "text": "Charles",
+    "start": 254.42,
+    "end": 254.58,
+    "id": "w625"
+  },
+  {
+    "text": "did",
+    "start": 254.58,
+    "end": 254.79,
+    "id": "w626"
+  },
+  {
+    "text": "not",
+    "start": 254.79,
+    "end": 255,
+    "id": "w627"
+  },
+  {
+    "text": "wait",
+    "start": 255,
+    "end": 255.29,
+    "id": "w628"
+  },
+  {
+    "text": "to",
+    "start": 255.29,
+    "end": 255.43,
+    "id": "w629"
+  },
+  {
+    "text": "be",
+    "start": 255.43,
+    "end": 255.57,
+    "id": "w630"
+  },
+  {
+    "text": "attacked.",
+    "start": 255.57,
+    "end": 256.4,
+    "id": "w631"
+  },
+  {
+    "text": "He",
+    "start": 256.4,
+    "end": 256.55,
+    "id": "w632"
+  },
+  {
+    "text": "pulled",
+    "start": 256.74,
+    "end": 257.02,
+    "id": "w633"
+  },
+  {
+    "text": "his",
+    "start": 257.02,
+    "end": 257.25,
+    "id": "w634"
+  },
+  {
+    "text": "army",
+    "start": 257.25,
+    "end": 257.56,
+    "id": "w635"
+  },
+  {
+    "text": "out",
+    "start": 257.56,
+    "end": 257.79,
+    "id": "w636"
+  },
+  {
+    "text": "of",
+    "start": 257.79,
+    "end": 257.94,
+    "id": "w637"
+  },
+  {
+    "text": "Poland",
+    "start": 258.01,
+    "end": 258.37,
+    "id": "w638"
+  },
+  {
+    "text": "and",
+    "start": 258.49,
+    "end": 258.73,
+    "id": "w639"
+  },
+  {
+    "text": "marched",
+    "start": 258.73,
+    "end": 259.36,
+    "id": "w640"
+  },
+  {
+    "text": "it",
+    "start": 259.42,
+    "end": 259.6,
+    "id": "w641"
+  },
+  {
+    "text": "west",
+    "start": 259.6,
+    "end": 260,
+    "id": "w642"
+  },
+  {
+    "text": "across",
+    "start": 260.34,
+    "end": 260.53,
+    "id": "w643"
+  },
+  {
+    "text": "Northern",
+    "start": 260.53,
+    "end": 261.23,
+    "id": "w644"
+  },
+  {
+    "text": "Germany",
+    "start": 261.23,
+    "end": 261.8,
+    "id": "w645"
+  },
+  {
+    "text": "at",
+    "start": 261.89,
+    "end": 261.98,
+    "id": "w646"
+  },
+  {
+    "text": "astonishing",
+    "start": 262.08,
+    "end": 262.96,
+    "id": "w647"
+  },
+  {
+    "text": "speed.",
+    "start": 263.02,
+    "end": 263.76,
+    "id": "w648"
+  },
+  {
+    "text": "By",
+    "start": 263.76,
+    "end": 263.92,
+    "id": "w649"
+  },
+  {
+    "text": "late",
+    "start": 264.1,
+    "end": 264.24,
+    "id": "w650"
+  },
+  {
+    "text": "summer,",
+    "start": 264.24,
+    "end": 264.88,
+    "id": "w651"
+  },
+  {
+    "text": "Swedish",
+    "start": 264.88,
+    "end": 265.29,
+    "id": "w652"
+  },
+  {
+    "text": "troops",
+    "start": 265.37,
+    "end": 265.73,
+    "id": "w653"
+  },
+  {
+    "text": "were",
+    "start": 265.85,
+    "end": 266.01,
+    "id": "w654"
+  },
+  {
+    "text": "pouring",
+    "start": 266.01,
+    "end": 266.22,
+    "id": "w655"
+  },
+  {
+    "text": "into",
+    "start": 266.74,
+    "end": 266.77,
+    "id": "w656"
+  },
+  {
+    "text": "Jutland,",
+    "start": 266.77,
+    "end": 267.59,
+    "id": "w657"
+  },
+  {
+    "text": "the",
+    "start": 267.59,
+    "end": 267.83,
+    "id": "w658"
+  },
+  {
+    "text": "Danish",
+    "start": 267.88,
+    "end": 268.37,
+    "id": "w659"
+  },
+  {
+    "text": "mainland.",
+    "start": 268.48,
+    "end": 269.52,
+    "id": "w660"
+  },
+  {
+    "text": "The",
+    "start": 269.52,
+    "end": 269.86,
+    "id": "w661"
+  },
+  {
+    "text": "Danes",
+    "start": 269.86,
+    "end": 270.08,
+    "id": "w662"
+  },
+  {
+    "text": "fell",
+    "start": 270.08,
+    "end": 270.37,
+    "id": "w663"
+  },
+  {
+    "text": "back",
+    "start": 270.37,
+    "end": 270.68,
+    "id": "w664"
+  },
+  {
+    "text": "to",
+    "start": 270.68,
+    "end": 270.8,
+    "id": "w665"
+  },
+  {
+    "text": "their",
+    "start": 270.8,
+    "end": 271.05,
+    "id": "w666"
+  },
+  {
+    "text": "great",
+    "start": 271.13,
+    "end": 271.44,
+    "id": "w667"
+  },
+  {
+    "text": "new",
+    "start": 271.44,
+    "end": 271.63,
+    "id": "w668"
+  },
+  {
+    "text": "fortress",
+    "start": 271.63,
+    "end": 271.98,
+    "id": "w669"
+  },
+  {
+    "text": "at",
+    "start": 272.16,
+    "end": 272.33,
+    "id": "w670"
+  },
+  {
+    "text": "Fredricksod",
+    "start": 272.5,
+    "end": 273.14,
+    "id": "w671"
+  },
+  {
+    "text": "on",
+    "start": 273.27,
+    "end": 273.44,
+    "id": "w672"
+  },
+  {
+    "text": "the",
+    "start": 273.44,
+    "end": 273.69,
+    "id": "w673"
+  },
+  {
+    "text": "shore",
+    "start": 273.77,
+    "end": 274.13,
+    "id": "w674"
+  },
+  {
+    "text": "of",
+    "start": 274.13,
+    "end": 274.3,
+    "id": "w675"
+  },
+  {
+    "text": "the",
+    "start": 274.3,
+    "end": 274.55,
+    "id": "w676"
+  },
+  {
+    "text": "Little",
+    "start": 274.56,
+    "end": 275.08,
+    "id": "w677"
+  },
+  {
+    "text": "Belt.",
+    "start": 275.08,
+    "end": 275.72,
+    "id": "w678"
+  },
+  {
+    "text": "In",
+    "start": 275.72,
+    "end": 275.88,
+    "id": "w679"
+  },
+  {
+    "text": "October,",
+    "start": 276.06,
+    "end": 276.58,
+    "id": "w680"
+  },
+  {
+    "text": "the",
+    "start": 276.58,
+    "end": 276.7,
+    "id": "w681"
+  },
+  {
+    "text": "Swedes",
+    "start": 276.83,
+    "end": 277.25,
+    "id": "w682"
+  },
+  {
+    "text": "stormed",
+    "start": 277.33,
+    "end": 277.84,
+    "id": "w683"
+  },
+  {
+    "text": "it",
+    "start": 277.84,
+    "end": 278.04,
+    "id": "w684"
+  },
+  {
+    "text": "in",
+    "start": 278.04,
+    "end": 278.18,
+    "id": "w685"
+  },
+  {
+    "text": "a",
+    "start": 278.18,
+    "end": 278.2,
+    "id": "w686"
+  },
+  {
+    "text": "surprise",
+    "start": 278.57,
+    "end": 278.84,
+    "id": "w687"
+  },
+  {
+    "text": "attack",
+    "start": 278.84,
+    "end": 279.28,
+    "id": "w688"
+  },
+  {
+    "text": "before",
+    "start": 279.62,
+    "end": 279.95,
+    "id": "w689"
+  },
+  {
+    "text": "dawn",
+    "start": 279.95,
+    "end": 280.4,
+    "id": "w690"
+  },
+  {
+    "text": "and",
+    "start": 280.4,
+    "end": 280.71,
+    "id": "w691"
+  },
+  {
+    "text": "took",
+    "start": 280.76,
+    "end": 281.18,
+    "id": "w692"
+  },
+  {
+    "text": "it.",
+    "start": 281.18,
+    "end": 281.74,
+    "id": "w693"
+  },
+  {
+    "text": "Now",
+    "start": 281.74,
+    "end": 282.1,
+    "id": "w694"
+  },
+  {
+    "text": "all",
+    "start": 282.1,
+    "end": 282.28,
+    "id": "w695"
+  },
+  {
+    "text": "of",
+    "start": 282.28,
+    "end": 282.45,
+    "id": "w696"
+  },
+  {
+    "text": "Jutland",
+    "start": 282.45,
+    "end": 283.04,
+    "id": "w697"
+  },
+  {
+    "text": "belonged",
+    "start": 283.04,
+    "end": 283.73,
+    "id": "w698"
+  },
+  {
+    "text": "to",
+    "start": 283.73,
+    "end": 283.9,
+    "id": "w699"
+  },
+  {
+    "text": "Charles,",
+    "start": 283.9,
+    "end": 284.56,
+    "id": "w700"
+  },
+  {
+    "text": "but",
+    "start": 284.56,
+    "end": 284.86,
+    "id": "w701"
+  },
+  {
+    "text": "Jutland",
+    "start": 284.86,
+    "end": 285.31,
+    "id": "w702"
+  },
+  {
+    "text": "was",
+    "start": 285.31,
+    "end": 285.54,
+    "id": "w703"
+  },
+  {
+    "text": "not",
+    "start": 285.55,
+    "end": 285.78,
+    "id": "w704"
+  },
+  {
+    "text": "the",
+    "start": 285.78,
+    "end": 285.99,
+    "id": "w705"
+  },
+  {
+    "text": "heart",
+    "start": 286.04,
+    "end": 286.36,
+    "id": "w706"
+  },
+  {
+    "text": "of",
+    "start": 286.45,
+    "end": 286.54,
+    "id": "w707"
+  },
+  {
+    "text": "Denmark.",
+    "start": 286.54,
+    "end": 287.36,
+    "id": "w708"
+  },
+  {
+    "text": "The",
+    "start": 287.36,
+    "end": 287.7,
+    "id": "w709"
+  },
+  {
+    "text": "heart",
+    "start": 287.7,
+    "end": 288.05,
+    "id": "w710"
+  },
+  {
+    "text": "was",
+    "start": 288.05,
+    "end": 288.31,
+    "id": "w711"
+  },
+  {
+    "text": "Copenhagen",
+    "start": 288.31,
+    "end": 289.16,
+    "id": "w712"
+  },
+  {
+    "text": "on",
+    "start": 289.25,
+    "end": 289.34,
+    "id": "w713"
+  },
+  {
+    "text": "the",
+    "start": 289.45,
+    "end": 289.6,
+    "id": "w714"
+  },
+  {
+    "text": "island",
+    "start": 289.6,
+    "end": 289.82,
+    "id": "w715"
+  },
+  {
+    "text": "of",
+    "start": 290.21,
+    "end": 290.29,
+    "id": "w716"
+  },
+  {
+    "text": "Zealand",
+    "start": 290.29,
+    "end": 290.92,
+    "id": "w717"
+  },
+  {
+    "text": "and",
+    "start": 290.92,
+    "end": 291.26,
+    "id": "w718"
+  },
+  {
+    "text": "between",
+    "start": 291.26,
+    "end": 291.76,
+    "id": "w719"
+  },
+  {
+    "text": "Charles",
+    "start": 291.76,
+    "end": 292.35,
+    "id": "w720"
+  },
+  {
+    "text": "and",
+    "start": 292.35,
+    "end": 292.6,
+    "id": "w721"
+  },
+  {
+    "text": "Copenhagen",
+    "start": 292.6,
+    "end": 293.38,
+    "id": "w722"
+  },
+  {
+    "text": "lay",
+    "start": 293.38,
+    "end": 293.77,
+    "id": "w723"
+  },
+  {
+    "text": "water,",
+    "start": 293.77,
+    "end": 294.16,
+    "id": "w724"
+  },
+  {
+    "text": "two",
+    "start": 294.16,
+    "end": 294.5,
+    "id": "w725"
+  },
+  {
+    "text": "broad",
+    "start": 294.5,
+    "end": 294.92,
+    "id": "w726"
+  },
+  {
+    "text": "straits,",
+    "start": 294.92,
+    "end": 295.8,
+    "id": "w727"
+  },
+  {
+    "text": "first",
+    "start": 295.8,
+    "end": 296.27,
+    "id": "w728"
+  },
+  {
+    "text": "the",
+    "start": 296.27,
+    "end": 296.55,
+    "id": "w729"
+  },
+  {
+    "text": "Little",
+    "start": 296.55,
+    "end": 297.12,
+    "id": "w730"
+  },
+  {
+    "text": "Belt,",
+    "start": 297.18,
+    "end": 297.52,
+    "id": "w731"
+  },
+  {
+    "text": "then",
+    "start": 297.86,
+    "end": 297.89,
+    "id": "w732"
+  },
+  {
+    "text": "the",
+    "start": 297.89,
+    "end": 298.16,
+    "id": "w733"
+  },
+  {
+    "text": "Great",
+    "start": 298.16,
+    "end": 298.5,
+    "id": "w734"
+  },
+  {
+    "text": "Belt.",
+    "start": 298.63,
+    "end": 299.28,
+    "id": "w735"
+  },
+  {
+    "text": "Charles",
+    "start": 299.62,
+    "end": 299.85,
+    "id": "w736"
+  },
+  {
+    "text": "had",
+    "start": 299.85,
+    "end": 300.04,
+    "id": "w737"
+  },
+  {
+    "text": "an",
+    "start": 300.1,
+    "end": 300.25,
+    "id": "w738"
+  },
+  {
+    "text": "army.",
+    "start": 300.25,
+    "end": 300.81,
+    "id": "w739"
+  },
+  {
+    "text": "He",
+    "start": 300.84,
+    "end": 300.98,
+    "id": "w740"
+  },
+  {
+    "text": "did",
+    "start": 301.18,
+    "end": 301.2,
+    "id": "w741"
+  },
+  {
+    "text": "not",
+    "start": 301.2,
+    "end": 301.42,
+    "id": "w742"
+  },
+  {
+    "text": "have",
+    "start": 301.42,
+    "end": 301.71,
+    "id": "w743"
+  },
+  {
+    "text": "a",
+    "start": 301.71,
+    "end": 301.78,
+    "id": "w744"
+  },
+  {
+    "text": "fleet",
+    "start": 301.78,
+    "end": 302.14,
+    "id": "w745"
+  },
+  {
+    "text": "that",
+    "start": 302.14,
+    "end": 302.37,
+    "id": "w746"
+  },
+  {
+    "text": "could",
+    "start": 302.45,
+    "end": 302.79,
+    "id": "w747"
+  },
+  {
+    "text": "carry",
+    "start": 302.79,
+    "end": 303.15,
+    "id": "w748"
+  },
+  {
+    "text": "it.",
+    "start": 303.15,
+    "end": 303.32,
+    "id": "w749"
+  },
+  {
+    "text": "The",
+    "start": 303.32,
+    "end": 303.9,
+    "id": "w750"
+  },
+  {
+    "text": "Danish",
+    "start": 303.9,
+    "end": 304.34,
+    "id": "w751"
+  },
+  {
+    "text": "Navy",
+    "start": 304.34,
+    "end": 304.69,
+    "id": "w752"
+  },
+  {
+    "text": "ruled",
+    "start": 304.69,
+    "end": 305.09,
+    "id": "w753"
+  },
+  {
+    "text": "those",
+    "start": 305.17,
+    "end": 305.53,
+    "id": "w754"
+  },
+  {
+    "text": "waters",
+    "start": 305.64,
+    "end": 306.02,
+    "id": "w755"
+  },
+  {
+    "text": "and",
+    "start": 306.02,
+    "end": 306.41,
+    "id": "w756"
+  },
+  {
+    "text": "any",
+    "start": 306.41,
+    "end": 306.52,
+    "id": "w757"
+  },
+  {
+    "text": "ship",
+    "start": 306.58,
+    "end": 306.84,
+    "id": "w758"
+  },
+  {
+    "text": "that",
+    "start": 306.84,
+    "end": 307.18,
+    "id": "w759"
+  },
+  {
+    "text": "tried",
+    "start": 307.18,
+    "end": 307.52,
+    "id": "w760"
+  },
+  {
+    "text": "to",
+    "start": 307.52,
+    "end": 307.67,
+    "id": "w761"
+  },
+  {
+    "text": "ferry",
+    "start": 307.67,
+    "end": 308.05,
+    "id": "w762"
+  },
+  {
+    "text": "Swedish",
+    "start": 308.05,
+    "end": 308.58,
+    "id": "w763"
+  },
+  {
+    "text": "soldiers",
+    "start": 308.58,
+    "end": 309.19,
+    "id": "w764"
+  },
+  {
+    "text": "across",
+    "start": 309.19,
+    "end": 309.3,
+    "id": "w765"
+  },
+  {
+    "text": "would",
+    "start": 309.69,
+    "end": 310.22,
+    "id": "w766"
+  },
+  {
+    "text": "be",
+    "start": 310.22,
+    "end": 310.43,
+    "id": "w767"
+  },
+  {
+    "text": "sunk.",
+    "start": 310.43,
+    "end": 311.2,
+    "id": "w768"
+  },
+  {
+    "text": "So",
+    "start": 311.2,
+    "end": 311.37,
+    "id": "w769"
+  },
+  {
+    "text": "the",
+    "start": 311.54,
+    "end": 311.62,
+    "id": "w770"
+  },
+  {
+    "text": "Swedish",
+    "start": 311.62,
+    "end": 312.18,
+    "id": "w771"
+  },
+  {
+    "text": "army",
+    "start": 312.31,
+    "end": 312.56,
+    "id": "w772"
+  },
+  {
+    "text": "sat",
+    "start": 312.56,
+    "end": 312.84,
+    "id": "w773"
+  },
+  {
+    "text": "in",
+    "start": 312.84,
+    "end": 313,
+    "id": "w774"
+  },
+  {
+    "text": "Jutland",
+    "start": 313.09,
+    "end": 313.66,
+    "id": "w775"
+  },
+  {
+    "text": "and",
+    "start": 314.05,
+    "end": 314.16,
+    "id": "w776"
+  },
+  {
+    "text": "stared",
+    "start": 314.22,
+    "end": 314.81,
+    "id": "w777"
+  },
+  {
+    "text": "at",
+    "start": 314.81,
+    "end": 315.01,
+    "id": "w778"
+  },
+  {
+    "text": "the",
+    "start": 315.01,
+    "end": 315.27,
+    "id": "w779"
+  },
+  {
+    "text": "sea.",
+    "start": 315.34,
+    "end": 315.84,
+    "id": "w780"
+  },
+  {
+    "text": "In",
+    "start": 315.84,
+    "end": 316.26,
+    "id": "w781"
+  },
+  {
+    "text": "Copenhagen,",
+    "start": 316.26,
+    "end": 317.29,
+    "id": "w782"
+  },
+  {
+    "text": "the",
+    "start": 317.29,
+    "end": 317.58,
+    "id": "w783"
+  },
+  {
+    "text": "Danes",
+    "start": 317.58,
+    "end": 318.06,
+    "id": "w784"
+  },
+  {
+    "text": "felt",
+    "start": 318.06,
+    "end": 318.38,
+    "id": "w785"
+  },
+  {
+    "text": "safe.",
+    "start": 318.77,
+    "end": 319.2,
+    "id": "w786"
+  },
+  {
+    "text": "The",
+    "start": 319.2,
+    "end": 319.54,
+    "id": "w787"
+  },
+  {
+    "text": "sea",
+    "start": 319.54,
+    "end": 319.64,
+    "id": "w788"
+  },
+  {
+    "text": "had",
+    "start": 319.64,
+    "end": 319.86,
+    "id": "w789"
+  },
+  {
+    "text": "always",
+    "start": 319.86,
+    "end": 320.18,
+    "id": "w790"
+  },
+  {
+    "text": "protected",
+    "start": 320.31,
+    "end": 320.96,
+    "id": "w791"
+  },
+  {
+    "text": "them.",
+    "start": 320.96,
+    "end": 321.48,
+    "id": "w792"
+  },
+  {
+    "text": "They",
+    "start": 321.48,
+    "end": 321.82,
+    "id": "w793"
+  },
+  {
+    "text": "had",
+    "start": 321.82,
+    "end": 321.92,
+    "id": "w794"
+  },
+  {
+    "text": "no",
+    "start": 321.92,
+    "end": 322.04,
+    "id": "w795"
+  },
+  {
+    "text": "reason",
+    "start": 322.04,
+    "end": 322.44,
+    "id": "w796"
+  },
+  {
+    "text": "to",
+    "start": 322.44,
+    "end": 322.46,
+    "id": "w797"
+  },
+  {
+    "text": "think",
+    "start": 322.59,
+    "end": 322.88,
+    "id": "w798"
+  },
+  {
+    "text": "this",
+    "start": 322.88,
+    "end": 323.22,
+    "id": "w799"
+  },
+  {
+    "text": "time",
+    "start": 323.22,
+    "end": 323.4,
+    "id": "w800"
+  },
+  {
+    "text": "would",
+    "start": 323.4,
+    "end": 323.72,
+    "id": "w801"
+  },
+  {
+    "text": "be",
+    "start": 323.72,
+    "end": 323.85,
+    "id": "w802"
+  },
+  {
+    "text": "any",
+    "start": 323.85,
+    "end": 324.04,
+    "id": "w803"
+  },
+  {
+    "text": "different.",
+    "start": 324.04,
+    "end": 324.84,
+    "id": "w804"
+  },
+  {
+    "text": "Then",
+    "start": 324.84,
+    "end": 325.55,
+    "id": "w805"
+  },
+  {
+    "text": "the",
+    "start": 325.55,
+    "end": 326.26,
+    "id": "w806"
+  },
+  {
+    "text": "weather",
+    "start": 326.26,
+    "end": 326.9,
+    "id": "w807"
+  },
+  {
+    "text": "changed.",
+    "start": 326.9,
+    "end": 328.38,
+    "id": "w808"
+  },
+  {
+    "text": "The",
+    "start": 328.38,
+    "end": 328.74,
+    "id": "w809"
+  },
+  {
+    "text": "winter",
+    "start": 328.74,
+    "end": 329.18,
+    "id": "w810"
+  },
+  {
+    "text": "of",
+    "start": 329.22,
+    "end": 329.38,
+    "id": "w811"
+  },
+  {
+    "text": "1657",
+    "start": 329.39,
+    "end": 330.37,
+    "id": "w812"
+  },
+  {
+    "text": "into",
+    "start": 330.49,
+    "end": 330.79,
+    "id": "w813"
+  },
+  {
+    "text": "1658",
+    "start": 330.83,
+    "end": 331.82,
+    "id": "w814"
+  },
+  {
+    "text": "was",
+    "start": 331.91,
+    "end": 332.09,
+    "id": "w815"
+  },
+  {
+    "text": "brutally",
+    "start": 332.09,
+    "end": 332.77,
+    "id": "w816"
+  },
+  {
+    "text": "cold.",
+    "start": 332.77,
+    "end": 333.21,
+    "id": "w817"
+  },
+  {
+    "text": "Europe",
+    "start": 334.34,
+    "end": 334.44,
+    "id": "w818"
+  },
+  {
+    "text": "was",
+    "start": 334.44,
+    "end": 334.66,
+    "id": "w819"
+  },
+  {
+    "text": "in",
+    "start": 334.66,
+    "end": 334.77,
+    "id": "w820"
+  },
+  {
+    "text": "the",
+    "start": 334.79,
+    "end": 334.98,
+    "id": "w821"
+  },
+  {
+    "text": "grip",
+    "start": 335.11,
+    "end": 335.31,
+    "id": "w822"
+  },
+  {
+    "text": "of",
+    "start": 335.31,
+    "end": 335.43,
+    "id": "w823"
+  },
+  {
+    "text": "what",
+    "start": 335.48,
+    "end": 335.74,
+    "id": "w824"
+  },
+  {
+    "text": "we",
+    "start": 335.74,
+    "end": 335.8,
+    "id": "w825"
+  },
+  {
+    "text": "now",
+    "start": 335.89,
+    "end": 336.1,
+    "id": "w826"
+  },
+  {
+    "text": "call",
+    "start": 336.1,
+    "end": 336.44,
+    "id": "w827"
+  },
+  {
+    "text": "the",
+    "start": 336.44,
+    "end": 336.48,
+    "id": "w828"
+  },
+  {
+    "text": "Little",
+    "start": 336.85,
+    "end": 337.41,
+    "id": "w829"
+  },
+  {
+    "text": "Ice",
+    "start": 337.41,
+    "end": 337.73,
+    "id": "w830"
+  },
+  {
+    "text": "Age,",
+    "start": 337.73,
+    "end": 338.12,
+    "id": "w831"
+  },
+  {
+    "text": "a",
+    "start": 338.12,
+    "end": 338.21,
+    "id": "w832"
+  },
+  {
+    "text": "long",
+    "start": 338.46,
+    "end": 338.59,
+    "id": "w833"
+  },
+  {
+    "text": "run",
+    "start": 338.59,
+    "end": 338.87,
+    "id": "w834"
+  },
+  {
+    "text": "of",
+    "start": 338.87,
+    "end": 339.07,
+    "id": "w835"
+  },
+  {
+    "text": "colder",
+    "start": 339.07,
+    "end": 339.65,
+    "id": "w836"
+  },
+  {
+    "text": "centuries.",
+    "start": 339.65,
+    "end": 340.6,
+    "id": "w837"
+  },
+  {
+    "text": "Even",
+    "start": 340.6,
+    "end": 341.18,
+    "id": "w838"
+  },
+  {
+    "text": "by",
+    "start": 341.18,
+    "end": 341.33,
+    "id": "w839"
+  },
+  {
+    "text": "those",
+    "start": 341.33,
+    "end": 341.74,
+    "id": "w840"
+  },
+  {
+    "text": "standards,",
+    "start": 341.74,
+    "end": 342.64,
+    "id": "w841"
+  },
+  {
+    "text": "this",
+    "start": 342.73,
+    "end": 343.03,
+    "id": "w842"
+  },
+  {
+    "text": "winter",
+    "start": 343.03,
+    "end": 343.3,
+    "id": "w843"
+  },
+  {
+    "text": "was",
+    "start": 343.69,
+    "end": 343.8,
+    "id": "w844"
+  },
+  {
+    "text": "extraordinary.",
+    "start": 343.86,
+    "end": 345.28,
+    "id": "w845"
+  },
+  {
+    "text": "In",
+    "start": 345.28,
+    "end": 345.45,
+    "id": "w846"
+  },
+  {
+    "text": "January,",
+    "start": 345.62,
+    "end": 346.24,
+    "id": "w847"
+  },
+  {
+    "text": "the",
+    "start": 346.24,
+    "end": 346.44,
+    "id": "w848"
+  },
+  {
+    "text": "sea",
+    "start": 346.44,
+    "end": 346.64,
+    "id": "w849"
+  },
+  {
+    "text": "between",
+    "start": 346.64,
+    "end": 347.08,
+    "id": "w850"
+  },
+  {
+    "text": "Jutland",
+    "start": 347.17,
+    "end": 347.6,
+    "id": "w851"
+  },
+  {
+    "text": "and",
+    "start": 347.6,
+    "end": 347.74,
+    "id": "w852"
+  },
+  {
+    "text": "the",
+    "start": 347.74,
+    "end": 347.77,
+    "id": "w853"
+  },
+  {
+    "text": "island",
+    "start": 348.13,
+    "end": 348.24,
+    "id": "w854"
+  },
+  {
+    "text": "of",
+    "start": 348.24,
+    "end": 348.62,
+    "id": "w855"
+  },
+  {
+    "text": "Funen",
+    "start": 348.62,
+    "end": 349.01,
+    "id": "w856"
+  },
+  {
+    "text": "began",
+    "start": 349.01,
+    "end": 349.53,
+    "id": "w857"
+  },
+  {
+    "text": "to",
+    "start": 349.53,
+    "end": 349.71,
+    "id": "w858"
+  },
+  {
+    "text": "freeze",
+    "start": 349.76,
+    "end": 350.4,
+    "id": "w859"
+  },
+  {
+    "text": "first",
+    "start": 350.4,
+    "end": 350.74,
+    "id": "w860"
+  },
+  {
+    "text": "along",
+    "start": 351.13,
+    "end": 351.38,
+    "id": "w861"
+  },
+  {
+    "text": "the",
+    "start": 351.38,
+    "end": 351.68,
+    "id": "w862"
+  },
+  {
+    "text": "shore,",
+    "start": 351.68,
+    "end": 352.2,
+    "id": "w863"
+  },
+  {
+    "text": "then",
+    "start": 352.54,
+    "end": 352.57,
+    "id": "w864"
+  },
+  {
+    "text": "further",
+    "start": 352.57,
+    "end": 353.18,
+    "id": "w865"
+  },
+  {
+    "text": "out,",
+    "start": 353.31,
+    "end": 353.63,
+    "id": "w866"
+  },
+  {
+    "text": "then",
+    "start": 353.68,
+    "end": 354.1,
+    "id": "w867"
+  },
+  {
+    "text": "all",
+    "start": 354.1,
+    "end": 354.42,
+    "id": "w868"
+  },
+  {
+    "text": "the",
+    "start": 354.42,
+    "end": 354.66,
+    "id": "w869"
+  },
+  {
+    "text": "way",
+    "start": 355.05,
+    "end": 355.06,
+    "id": "w870"
+  },
+  {
+    "text": "across.",
+    "start": 355.06,
+    "end": 356.04,
+    "id": "w871"
+  },
+  {
+    "text": "The",
+    "start": 356.04,
+    "end": 356.38,
+    "id": "w872"
+  },
+  {
+    "text": "Little",
+    "start": 356.38,
+    "end": 356.73,
+    "id": "w873"
+  },
+  {
+    "text": "Belt",
+    "start": 356.73,
+    "end": 357.02,
+    "id": "w874"
+  },
+  {
+    "text": "is",
+    "start": 357.15,
+    "end": 357.19,
+    "id": "w875"
+  },
+  {
+    "text": "narrow,",
+    "start": 357.19,
+    "end": 357.84,
+    "id": "w876"
+  },
+  {
+    "text": "but",
+    "start": 357.93,
+    "end": 358.01,
+    "id": "w877"
+  },
+  {
+    "text": "it",
+    "start": 358.13,
+    "end": 358.28,
+    "id": "w878"
+  },
+  {
+    "text": "is",
+    "start": 358.28,
+    "end": 358.42,
+    "id": "w879"
+  },
+  {
+    "text": "deep",
+    "start": 358.47,
+    "end": 358.51,
+    "id": "w880"
+  },
+  {
+    "text": "and",
+    "start": 358.51,
+    "end": 359.18,
+    "id": "w881"
+  },
+  {
+    "text": "its",
+    "start": 359.18,
+    "end": 359.26,
+    "id": "w882"
+  },
+  {
+    "text": "currents",
+    "start": 359.26,
+    "end": 359.81,
+    "id": "w883"
+  },
+  {
+    "text": "are",
+    "start": 359.81,
+    "end": 360.03,
+    "id": "w884"
+  },
+  {
+    "text": "strong.",
+    "start": 360.03,
+    "end": 360.64,
+    "id": "w885"
+  },
+  {
+    "text": "It",
+    "start": 360.64,
+    "end": 361.02,
+    "id": "w886"
+  },
+  {
+    "text": "does",
+    "start": 361.02,
+    "end": 361.23,
+    "id": "w887"
+  },
+  {
+    "text": "not",
+    "start": 361.23,
+    "end": 361.44,
+    "id": "w888"
+  },
+  {
+    "text": "freeze",
+    "start": 361.5,
+    "end": 362.05,
+    "id": "w889"
+  },
+  {
+    "text": "often,",
+    "start": 362.05,
+    "end": 362.65,
+    "id": "w890"
+  },
+  {
+    "text": "that",
+    "start": 362.77,
+    "end": 363.06,
+    "id": "w891"
+  },
+  {
+    "text": "winter",
+    "start": 363.06,
+    "end": 363.61,
+    "id": "w892"
+  },
+  {
+    "text": "it",
+    "start": 363.61,
+    "end": 363.79,
+    "id": "w893"
+  },
+  {
+    "text": "froze",
+    "start": 363.79,
+    "end": 364.25,
+    "id": "w894"
+  },
+  {
+    "text": "hard.",
+    "start": 364.25,
+    "end": 364.96,
+    "id": "w895"
+  },
+  {
+    "text": "Charles",
+    "start": 365.3,
+    "end": 365.51,
+    "id": "w896"
+  },
+  {
+    "text": "watched",
+    "start": 365.51,
+    "end": 365.94,
+    "id": "w897"
+  },
+  {
+    "text": "the",
+    "start": 366.07,
+    "end": 366.3,
+    "id": "w898"
+  },
+  {
+    "text": "ice",
+    "start": 366.3,
+    "end": 366.49,
+    "id": "w899"
+  },
+  {
+    "text": "grow.",
+    "start": 366.57,
+    "end": 367.12,
+    "id": "w900"
+  },
+  {
+    "text": "His",
+    "start": 367.12,
+    "end": 367.46,
+    "id": "w901"
+  },
+  {
+    "text": "officers",
+    "start": 367.46,
+    "end": 368.09,
+    "id": "w902"
+  },
+  {
+    "text": "went",
+    "start": 368.09,
+    "end": 368.44,
+    "id": "w903"
+  },
+  {
+    "text": "out",
+    "start": 368.44,
+    "end": 368.65,
+    "id": "w904"
+  },
+  {
+    "text": "to",
+    "start": 368.73,
+    "end": 368.87,
+    "id": "w905"
+  },
+  {
+    "text": "test",
+    "start": 368.87,
+    "end": 369.22,
+    "id": "w906"
+  },
+  {
+    "text": "it",
+    "start": 369.22,
+    "end": 369.44,
+    "id": "w907"
+  },
+  {
+    "text": "and",
+    "start": 369.44,
+    "end": 369.78,
+    "id": "w908"
+  },
+  {
+    "text": "at",
+    "start": 369.78,
+    "end": 369.85,
+    "id": "w909"
+  },
+  {
+    "text": "the",
+    "start": 369.85,
+    "end": 370.1,
+    "id": "w910"
+  },
+  {
+    "text": "end",
+    "start": 370.1,
+    "end": 370.35,
+    "id": "w911"
+  },
+  {
+    "text": "of",
+    "start": 370.35,
+    "end": 370.42,
+    "id": "w912"
+  },
+  {
+    "text": "January,",
+    "start": 370.55,
+    "end": 371.24,
+    "id": "w913"
+  },
+  {
+    "text": "he",
+    "start": 371.33,
+    "end": 371.41,
+    "id": "w914"
+  },
+  {
+    "text": "gave",
+    "start": 371.41,
+    "end": 371.74,
+    "id": "w915"
+  },
+  {
+    "text": "the",
+    "start": 371.74,
+    "end": 371.9,
+    "id": "w916"
+  },
+  {
+    "text": "order.",
+    "start": 372.29,
+    "end": 372.72,
+    "id": "w917"
+  },
+  {
+    "text": "Imagine",
+    "start": 373.06,
+    "end": 373.15,
+    "id": "w918"
+  },
+  {
+    "text": "standing",
+    "start": 373.15,
+    "end": 373.64,
+    "id": "w919"
+  },
+  {
+    "text": "at",
+    "start": 373.64,
+    "end": 373.7,
+    "id": "w920"
+  },
+  {
+    "text": "the",
+    "start": 373.83,
+    "end": 373.94,
+    "id": "w921"
+  },
+  {
+    "text": "edge",
+    "start": 373.94,
+    "end": 374.15,
+    "id": "w922"
+  },
+  {
+    "text": "of",
+    "start": 374.2,
+    "end": 374.25,
+    "id": "w923"
+  },
+  {
+    "text": "the",
+    "start": 374.33,
+    "end": 374.45,
+    "id": "w924"
+  },
+  {
+    "text": "beach",
+    "start": 374.45,
+    "end": 374.69,
+    "id": "w925"
+  },
+  {
+    "text": "that",
+    "start": 374.81,
+    "end": 375.05,
+    "id": "w926"
+  },
+  {
+    "text": "morning,",
+    "start": 375.05,
+    "end": 375.8,
+    "id": "w927"
+  },
+  {
+    "text": "snow",
+    "start": 376.14,
+    "end": 376.19,
+    "id": "w928"
+  },
+  {
+    "text": "under",
+    "start": 376.19,
+    "end": 376.68,
+    "id": "w929"
+  },
+  {
+    "text": "foot,",
+    "start": 376.68,
+    "end": 377.23,
+    "id": "w930"
+  },
+  {
+    "text": "a",
+    "start": 377.28,
+    "end": 377.46,
+    "id": "w931"
+  },
+  {
+    "text": "gray",
+    "start": 377.46,
+    "end": 378.17,
+    "id": "w932"
+  },
+  {
+    "text": "sky.",
+    "start": 378.17,
+    "end": 378.72,
+    "id": "w933"
+  },
+  {
+    "text": "Ahead",
+    "start": 379.06,
+    "end": 379.07,
+    "id": "w934"
+  },
+  {
+    "text": "of",
+    "start": 379.07,
+    "end": 379.21,
+    "id": "w935"
+  },
+  {
+    "text": "you",
+    "start": 379.21,
+    "end": 379.42,
+    "id": "w936"
+  },
+  {
+    "text": "where",
+    "start": 379.42,
+    "end": 379.7,
+    "id": "w937"
+  },
+  {
+    "text": "there",
+    "start": 379.83,
+    "end": 380.12,
+    "id": "w938"
+  },
+  {
+    "text": "should",
+    "start": 380.12,
+    "end": 380.52,
+    "id": "w939"
+  },
+  {
+    "text": "be",
+    "start": 380.61,
+    "end": 380.68,
+    "id": "w940"
+  },
+  {
+    "text": "waves,",
+    "start": 380.68,
+    "end": 381.04,
+    "id": "w941"
+  },
+  {
+    "text": "there",
+    "start": 381.38,
+    "end": 381.43,
+    "id": "w942"
+  },
+  {
+    "text": "is",
+    "start": 381.43,
+    "end": 381.59,
+    "id": "w943"
+  },
+  {
+    "text": "a",
+    "start": 381.59,
+    "end": 381.67,
+    "id": "w944"
+  },
+  {
+    "text": "flat",
+    "start": 381.67,
+    "end": 381.98,
+    "id": "w945"
+  },
+  {
+    "text": "white",
+    "start": 381.98,
+    "end": 382.36,
+    "id": "w946"
+  },
+  {
+    "text": "plane",
+    "start": 382.36,
+    "end": 382.8,
+    "id": "w947"
+  },
+  {
+    "text": "and",
+    "start": 382.8,
+    "end": 382.84,
+    "id": "w948"
+  },
+  {
+    "text": "on",
+    "start": 382.93,
+    "end": 383.01,
+    "id": "w949"
+  },
+  {
+    "text": "the",
+    "start": 383.13,
+    "end": 383.39,
+    "id": "w950"
+  },
+  {
+    "text": "far",
+    "start": 383.39,
+    "end": 383.51,
+    "id": "w951"
+  },
+  {
+    "text": "side,",
+    "start": 383.89,
+    "end": 384.08,
+    "id": "w952"
+  },
+  {
+    "text": "a",
+    "start": 384.08,
+    "end": 384.19,
+    "id": "w953"
+  },
+  {
+    "text": "thin",
+    "start": 384.42,
+    "end": 384.62,
+    "id": "w954"
+  },
+  {
+    "text": "dark",
+    "start": 384.62,
+    "end": 385.05,
+    "id": "w955"
+  },
+  {
+    "text": "line,",
+    "start": 385.05,
+    "end": 385.72,
+    "id": "w956"
+  },
+  {
+    "text": "Funen,",
+    "start": 385.72,
+    "end": 386.54,
+    "id": "w957"
+  },
+  {
+    "text": "under",
+    "start": 386.93,
+    "end": 387.04,
+    "id": "w958"
+  },
+  {
+    "text": "that",
+    "start": 387.1,
+    "end": 387.39,
+    "id": "w959"
+  },
+  {
+    "text": "white",
+    "start": 387.39,
+    "end": 387.78,
+    "id": "w960"
+  },
+  {
+    "text": "plane",
+    "start": 387.78,
+    "end": 388.14,
+    "id": "w961"
+  },
+  {
+    "text": "is",
+    "start": 388.23,
+    "end": 388.33,
+    "id": "w962"
+  },
+  {
+    "text": "the",
+    "start": 388.33,
+    "end": 388.57,
+    "id": "w963"
+  },
+  {
+    "text": "sea.",
+    "start": 388.57,
+    "end": 388.9,
+    "id": "w964"
+  },
+  {
+    "text": "The",
+    "start": 388.9,
+    "end": 389.7,
+    "id": "w965"
+  },
+  {
+    "text": "Swedish",
+    "start": 389.7,
+    "end": 390.31,
+    "id": "w966"
+  },
+  {
+    "text": "army",
+    "start": 390.31,
+    "end": 390.68,
+    "id": "w967"
+  },
+  {
+    "text": "stepped",
+    "start": 390.68,
+    "end": 391.34,
+    "id": "w968"
+  },
+  {
+    "text": "onto",
+    "start": 391.45,
+    "end": 391.74,
+    "id": "w969"
+  },
+  {
+    "text": "it.",
+    "start": 391.74,
+    "end": 392.24,
+    "id": "w970"
+  },
+  {
+    "text": "The",
+    "start": 392.24,
+    "end": 392.58,
+    "id": "w971"
+  },
+  {
+    "text": "cavalry",
+    "start": 392.58,
+    "end": 393.02,
+    "id": "w972"
+  },
+  {
+    "text": "spread",
+    "start": 393.02,
+    "end": 393.5,
+    "id": "w973"
+  },
+  {
+    "text": "out,",
+    "start": 393.5,
+    "end": 393.76,
+    "id": "w974"
+  },
+  {
+    "text": "so",
+    "start": 393.76,
+    "end": 393.92,
+    "id": "w975"
+  },
+  {
+    "text": "no",
+    "start": 393.92,
+    "end": 394.1,
+    "id": "w976"
+  },
+  {
+    "text": "single",
+    "start": 394.1,
+    "end": 394.54,
+    "id": "w977"
+  },
+  {
+    "text": "patch",
+    "start": 394.55,
+    "end": 394.96,
+    "id": "w978"
+  },
+  {
+    "text": "of",
+    "start": 394.96,
+    "end": 395.12,
+    "id": "w979"
+  },
+  {
+    "text": "ice",
+    "start": 395.12,
+    "end": 395.29,
+    "id": "w980"
+  },
+  {
+    "text": "carried",
+    "start": 395.37,
+    "end": 395.92,
+    "id": "w981"
+  },
+  {
+    "text": "too",
+    "start": 395.92,
+    "end": 396.15,
+    "id": "w982"
+  },
+  {
+    "text": "much",
+    "start": 396.15,
+    "end": 396.24,
+    "id": "w983"
+  },
+  {
+    "text": "weight.",
+    "start": 396.61,
+    "end": 397.18,
+    "id": "w984"
+  },
+  {
+    "text": "The",
+    "start": 397.18,
+    "end": 397.58,
+    "id": "w985"
+  },
+  {
+    "text": "infantry",
+    "start": 397.58,
+    "end": 398.1,
+    "id": "w986"
+  },
+  {
+    "text": "followed.",
+    "start": 398.1,
+    "end": 398.98,
+    "id": "w987"
+  },
+  {
+    "text": "The",
+    "start": 398.98,
+    "end": 399.32,
+    "id": "w988"
+  },
+  {
+    "text": "ice",
+    "start": 399.32,
+    "end": 399.4,
+    "id": "w989"
+  },
+  {
+    "text": "groaned",
+    "start": 399.4,
+    "end": 399.89,
+    "id": "w990"
+  },
+  {
+    "text": "and",
+    "start": 399.89,
+    "end": 400.1,
+    "id": "w991"
+  },
+  {
+    "text": "cracked",
+    "start": 400.1,
+    "end": 400.51,
+    "id": "w992"
+  },
+  {
+    "text": "beneath",
+    "start": 400.59,
+    "end": 401.08,
+    "id": "w993"
+  },
+  {
+    "text": "them",
+    "start": 401.08,
+    "end": 401.37,
+    "id": "w994"
+  },
+  {
+    "text": "and",
+    "start": 401.37,
+    "end": 401.74,
+    "id": "w995"
+  },
+  {
+    "text": "the",
+    "start": 401.74,
+    "end": 401.88,
+    "id": "w996"
+  },
+  {
+    "text": "sound",
+    "start": 401.88,
+    "end": 402.27,
+    "id": "w997"
+  },
+  {
+    "text": "rolled",
+    "start": 402.27,
+    "end": 402.74,
+    "id": "w998"
+  },
+  {
+    "text": "across",
+    "start": 402.74,
+    "end": 403.2,
+    "id": "w999"
+  },
+  {
+    "text": "the",
+    "start": 403.29,
+    "end": 403.37,
+    "id": "w1000"
+  },
+  {
+    "text": "plane",
+    "start": 403.48,
+    "end": 403.86,
+    "id": "w1001"
+  },
+  {
+    "text": "like",
+    "start": 404.25,
+    "end": 404.32,
+    "id": "w1002"
+  },
+  {
+    "text": "distant",
+    "start": 404.32,
+    "end": 405.09,
+    "id": "w1003"
+  },
+  {
+    "text": "guns.",
+    "start": 405.09,
+    "end": 405.88,
+    "id": "w1004"
+  },
+  {
+    "text": "Near",
+    "start": 405.88,
+    "end": 406.22,
+    "id": "w1005"
+  },
+  {
+    "text": "the",
+    "start": 406.22,
+    "end": 406.46,
+    "id": "w1006"
+  },
+  {
+    "text": "Funen",
+    "start": 406.46,
+    "end": 406.86,
+    "id": "w1007"
+  },
+  {
+    "text": "shore,",
+    "start": 406.87,
+    "end": 407.41,
+    "id": "w1008"
+  },
+  {
+    "text": "the",
+    "start": 407.49,
+    "end": 407.84,
+    "id": "w1009"
+  },
+  {
+    "text": "ice",
+    "start": 407.84,
+    "end": 408.2,
+    "id": "w1010"
+  },
+  {
+    "text": "gave",
+    "start": 408.2,
+    "end": 408.34,
+    "id": "w1011"
+  },
+  {
+    "text": "way.",
+    "start": 408.73,
+    "end": 409.04,
+    "id": "w1012"
+  },
+  {
+    "text": "Part",
+    "start": 409.04,
+    "end": 409.38,
+    "id": "w1013"
+  },
+  {
+    "text": "of",
+    "start": 409.38,
+    "end": 409.46,
+    "id": "w1014"
+  },
+  {
+    "text": "the",
+    "start": 409.46,
+    "end": 409.67,
+    "id": "w1015"
+  },
+  {
+    "text": "cavalry",
+    "start": 409.67,
+    "end": 410.16,
+    "id": "w1016"
+  },
+  {
+    "text": "broke",
+    "start": 410.16,
+    "end": 410.47,
+    "id": "w1017"
+  },
+  {
+    "text": "through.",
+    "start": 410.52,
+    "end": 411.24,
+    "id": "w1018"
+  },
+  {
+    "text": "Riders",
+    "start": 411.58,
+    "end": 411.68,
+    "id": "w1019"
+  },
+  {
+    "text": "and",
+    "start": 411.68,
+    "end": 411.9,
+    "id": "w1020"
+  },
+  {
+    "text": "horses",
+    "start": 411.9,
+    "end": 412.22,
+    "id": "w1021"
+  },
+  {
+    "text": "went",
+    "start": 412.35,
+    "end": 412.63,
+    "id": "w1022"
+  },
+  {
+    "text": "down",
+    "start": 412.63,
+    "end": 412.96,
+    "id": "w1023"
+  },
+  {
+    "text": "into",
+    "start": 412.96,
+    "end": 413.21,
+    "id": "w1024"
+  },
+  {
+    "text": "the",
+    "start": 413.33,
+    "end": 413.48,
+    "id": "w1025"
+  },
+  {
+    "text": "freezing",
+    "start": 413.48,
+    "end": 413.7,
+    "id": "w1026"
+  },
+  {
+    "text": "water",
+    "start": 414.09,
+    "end": 414.48,
+    "id": "w1027"
+  },
+  {
+    "text": "and",
+    "start": 414.48,
+    "end": 414.82,
+    "id": "w1028"
+  },
+  {
+    "text": "they",
+    "start": 414.82,
+    "end": 415.06,
+    "id": "w1029"
+  },
+  {
+    "text": "could",
+    "start": 415.06,
+    "end": 415.46,
+    "id": "w1030"
+  },
+  {
+    "text": "not",
+    "start": 415.59,
+    "end": 415.73,
+    "id": "w1031"
+  },
+  {
+    "text": "be",
+    "start": 415.73,
+    "end": 415.9,
+    "id": "w1032"
+  },
+  {
+    "text": "saved.",
+    "start": 415.9,
+    "end": 416.6,
+    "id": "w1033"
+  },
+  {
+    "text": "The",
+    "start": 416.6,
+    "end": 416.94,
+    "id": "w1034"
+  },
+  {
+    "text": "rest",
+    "start": 416.94,
+    "end": 417.37,
+    "id": "w1035"
+  },
+  {
+    "text": "kept",
+    "start": 417.38,
+    "end": 417.84,
+    "id": "w1036"
+  },
+  {
+    "text": "moving.",
+    "start": 417.84,
+    "end": 418.88,
+    "id": "w1037"
+  },
+  {
+    "text": "Waiting",
+    "start": 419.22,
+    "end": 419.55,
+    "id": "w1038"
+  },
+  {
+    "text": "on",
+    "start": 419.55,
+    "end": 419.74,
+    "id": "w1039"
+  },
+  {
+    "text": "Funen",
+    "start": 419.74,
+    "end": 420.22,
+    "id": "w1040"
+  },
+  {
+    "text": "was",
+    "start": 420.22,
+    "end": 420.51,
+    "id": "w1041"
+  },
+  {
+    "text": "a",
+    "start": 420.51,
+    "end": 420.6,
+    "id": "w1042"
+  },
+  {
+    "text": "Danish",
+    "start": 420.6,
+    "end": 421.18,
+    "id": "w1043"
+  },
+  {
+    "text": "army.",
+    "start": 421.18,
+    "end": 421.6,
+    "id": "w1044"
+  },
+  {
+    "text": "They",
+    "start": 421.6,
+    "end": 421.94,
+    "id": "w1045"
+  },
+  {
+    "text": "had",
+    "start": 421.94,
+    "end": 422.09,
+    "id": "w1046"
+  },
+  {
+    "text": "expected",
+    "start": 422.09,
+    "end": 422.58,
+    "id": "w1047"
+  },
+  {
+    "text": "to",
+    "start": 422.71,
+    "end": 422.79,
+    "id": "w1048"
+  },
+  {
+    "text": "defend",
+    "start": 422.79,
+    "end": 423.13,
+    "id": "w1049"
+  },
+  {
+    "text": "a",
+    "start": 423.21,
+    "end": 423.28,
+    "id": "w1050"
+  },
+  {
+    "text": "coastline",
+    "start": 423.28,
+    "end": 423.91,
+    "id": "w1051"
+  },
+  {
+    "text": "against",
+    "start": 423.91,
+    "end": 424.06,
+    "id": "w1052"
+  },
+  {
+    "text": "boats.",
+    "start": 424.45,
+    "end": 425,
+    "id": "w1053"
+  },
+  {
+    "text": "Instead,",
+    "start": 425.34,
+    "end": 425.67,
+    "id": "w1054"
+  },
+  {
+    "text": "the",
+    "start": 425.67,
+    "end": 425.89,
+    "id": "w1055"
+  },
+  {
+    "text": "enemy",
+    "start": 425.89,
+    "end": 426.26,
+    "id": "w1056"
+  },
+  {
+    "text": "came",
+    "start": 426.26,
+    "end": 426.53,
+    "id": "w1057"
+  },
+  {
+    "text": "at",
+    "start": 426.61,
+    "end": 426.71,
+    "id": "w1058"
+  },
+  {
+    "text": "them",
+    "start": 426.71,
+    "end": 426.97,
+    "id": "w1059"
+  },
+  {
+    "text": "across",
+    "start": 427.07,
+    "end": 427.46,
+    "id": "w1060"
+  },
+  {
+    "text": "the",
+    "start": 427.85,
+    "end": 427.94,
+    "id": "w1061"
+  },
+  {
+    "text": "ice",
+    "start": 427.94,
+    "end": 428.26,
+    "id": "w1062"
+  },
+  {
+    "text": "from",
+    "start": 428.26,
+    "end": 428.6,
+    "id": "w1063"
+  },
+  {
+    "text": "a",
+    "start": 428.6,
+    "end": 428.64,
+    "id": "w1064"
+  },
+  {
+    "text": "direction",
+    "start": 428.64,
+    "end": 429.24,
+    "id": "w1065"
+  },
+  {
+    "text": "no",
+    "start": 429.37,
+    "end": 429.49,
+    "id": "w1066"
+  },
+  {
+    "text": "one",
+    "start": 429.49,
+    "end": 429.69,
+    "id": "w1067"
+  },
+  {
+    "text": "had",
+    "start": 429.74,
+    "end": 429.95,
+    "id": "w1068"
+  },
+  {
+    "text": "planned",
+    "start": 429.95,
+    "end": 430.49,
+    "id": "w1069"
+  },
+  {
+    "text": "for.",
+    "start": 430.49,
+    "end": 430.74,
+    "id": "w1070"
+  },
+  {
+    "text": "The",
+    "start": 430.74,
+    "end": 431.34,
+    "id": "w1071"
+  },
+  {
+    "text": "Danes",
+    "start": 431.34,
+    "end": 431.72,
+    "id": "w1072"
+  },
+  {
+    "text": "were",
+    "start": 431.72,
+    "end": 431.98,
+    "id": "w1073"
+  },
+  {
+    "text": "beaten",
+    "start": 432.11,
+    "end": 432.63,
+    "id": "w1074"
+  },
+  {
+    "text": "in",
+    "start": 432.63,
+    "end": 432.8,
+    "id": "w1075"
+  },
+  {
+    "text": "a",
+    "start": 432.89,
+    "end": 432.9,
+    "id": "w1076"
+  },
+  {
+    "text": "short,",
+    "start": 432.9,
+    "end": 433.46,
+    "id": "w1077"
+  },
+  {
+    "text": "hard",
+    "start": 433.85,
+    "end": 433.89,
+    "id": "w1078"
+  },
+  {
+    "text": "fight.",
+    "start": 433.89,
+    "end": 434.4,
+    "id": "w1079"
+  },
+  {
+    "text": "Within",
+    "start": 434.74,
+    "end": 434.96,
+    "id": "w1080"
+  },
+  {
+    "text": "days,",
+    "start": 434.96,
+    "end": 435.52,
+    "id": "w1081"
+  },
+  {
+    "text": "the",
+    "start": 435.52,
+    "end": 435.74,
+    "id": "w1082"
+  },
+  {
+    "text": "whole",
+    "start": 435.74,
+    "end": 436.12,
+    "id": "w1083"
+  },
+  {
+    "text": "island",
+    "start": 436.12,
+    "end": 436.57,
+    "id": "w1084"
+  },
+  {
+    "text": "of",
+    "start": 436.57,
+    "end": 436.72,
+    "id": "w1085"
+  },
+  {
+    "text": "Funen",
+    "start": 436.72,
+    "end": 437.12,
+    "id": "w1086"
+  },
+  {
+    "text": "was",
+    "start": 437.25,
+    "end": 437.43,
+    "id": "w1087"
+  },
+  {
+    "text": "in",
+    "start": 437.43,
+    "end": 437.64,
+    "id": "w1088"
+  },
+  {
+    "text": "Swedish",
+    "start": 437.64,
+    "end": 438.37,
+    "id": "w1089"
+  },
+  {
+    "text": "hands.",
+    "start": 438.37,
+    "end": 439.04,
+    "id": "w1090"
+  },
+  {
+    "text": "One",
+    "start": 439.04,
+    "end": 439.56,
+    "id": "w1091"
+  },
+  {
+    "text": "strait",
+    "start": 439.56,
+    "end": 440.07,
+    "id": "w1092"
+  },
+  {
+    "text": "was",
+    "start": 440.07,
+    "end": 440.35,
+    "id": "w1093"
+  },
+  {
+    "text": "behind",
+    "start": 440.35,
+    "end": 440.92,
+    "id": "w1094"
+  },
+  {
+    "text": "them,",
+    "start": 440.92,
+    "end": 441.46,
+    "id": "w1095"
+  },
+  {
+    "text": "but",
+    "start": 441.46,
+    "end": 441.67,
+    "id": "w1096"
+  },
+  {
+    "text": "the",
+    "start": 441.67,
+    "end": 441.7,
+    "id": "w1097"
+  },
+  {
+    "text": "next",
+    "start": 442.07,
+    "end": 442.16,
+    "id": "w1098"
+  },
+  {
+    "text": "one",
+    "start": 442.16,
+    "end": 442.37,
+    "id": "w1099"
+  },
+  {
+    "text": "was",
+    "start": 442.37,
+    "end": 442.58,
+    "id": "w1100"
+  },
+  {
+    "text": "far",
+    "start": 442.58,
+    "end": 442.79,
+    "id": "w1101"
+  },
+  {
+    "text": "bigger.",
+    "start": 442.79,
+    "end": 443.46,
+    "id": "w1102"
+  },
+  {
+    "text": "The",
+    "start": 443.46,
+    "end": 443.94,
+    "id": "w1103"
+  },
+  {
+    "text": "Great",
+    "start": 443.94,
+    "end": 444.42,
+    "id": "w1104"
+  },
+  {
+    "text": "Belt",
+    "start": 444.42,
+    "end": 444.9,
+    "id": "w1105"
+  },
+  {
+    "text": "is",
+    "start": 444.9,
+    "end": 445.14,
+    "id": "w1106"
+  },
+  {
+    "text": "the",
+    "start": 445.14,
+    "end": 445.5,
+    "id": "w1107"
+  },
+  {
+    "text": "widest",
+    "start": 445.5,
+    "end": 446.24,
+    "id": "w1108"
+  },
+  {
+    "text": "of",
+    "start": 446.24,
+    "end": 446.36,
+    "id": "w1109"
+  },
+  {
+    "text": "Denmark",
+    "start": 446.45,
+    "end": 447.02,
+    "id": "w1110"
+  },
+  {
+    "text": "straits.",
+    "start": 447.41,
+    "end": 447.94,
+    "id": "w1111"
+  },
+  {
+    "text": "Straight",
+    "start": 448.28,
+    "end": 448.53,
+    "id": "w1112"
+  },
+  {
+    "text": "across",
+    "start": 448.53,
+    "end": 448.92,
+    "id": "w1113"
+  },
+  {
+    "text": "from",
+    "start": 449.05,
+    "end": 449.26,
+    "id": "w1114"
+  },
+  {
+    "text": "Funen",
+    "start": 449.26,
+    "end": 449.62,
+    "id": "w1115"
+  },
+  {
+    "text": "to",
+    "start": 449.62,
+    "end": 449.74,
+    "id": "w1116"
+  },
+  {
+    "text": "Zeeland",
+    "start": 449.83,
+    "end": 450.32,
+    "id": "w1117"
+  },
+  {
+    "text": "is",
+    "start": 450.32,
+    "end": 450.49,
+    "id": "w1118"
+  },
+  {
+    "text": "well",
+    "start": 450.66,
+    "end": 450.84,
+    "id": "w1119"
+  },
+  {
+    "text": "over",
+    "start": 450.84,
+    "end": 451.19,
+    "id": "w1120"
+  },
+  {
+    "text": "15",
+    "start": 451.19,
+    "end": 451.72,
+    "id": "w1121"
+  },
+  {
+    "text": "kilometers",
+    "start": 451.72,
+    "end": 452.61,
+    "id": "w1122"
+  },
+  {
+    "text": "of",
+    "start": 452.61,
+    "end": 452.78,
+    "id": "w1123"
+  },
+  {
+    "text": "open",
+    "start": 452.78,
+    "end": 452.79,
+    "id": "w1124"
+  },
+  {
+    "text": "sea.",
+    "start": 453.17,
+    "end": 453.72,
+    "id": "w1125"
+  },
+  {
+    "text": "Even",
+    "start": 453.72,
+    "end": 454.06,
+    "id": "w1126"
+  },
+  {
+    "text": "in",
+    "start": 454.06,
+    "end": 454.2,
+    "id": "w1127"
+  },
+  {
+    "text": "that",
+    "start": 454.2,
+    "end": 454.48,
+    "id": "w1128"
+  },
+  {
+    "text": "winter,",
+    "start": 454.51,
+    "end": 455.15,
+    "id": "w1129"
+  },
+  {
+    "text": "nobody",
+    "start": 455.5,
+    "end": 455.6,
+    "id": "w1130"
+  },
+  {
+    "text": "could",
+    "start": 455.6,
+    "end": 455.92,
+    "id": "w1131"
+  },
+  {
+    "text": "be",
+    "start": 455.98,
+    "end": 456.11,
+    "id": "w1132"
+  },
+  {
+    "text": "sure",
+    "start": 456.11,
+    "end": 456.4,
+    "id": "w1133"
+  },
+  {
+    "text": "the",
+    "start": 456.4,
+    "end": 456.59,
+    "id": "w1134"
+  },
+  {
+    "text": "ice",
+    "start": 456.64,
+    "end": 456.84,
+    "id": "w1135"
+  },
+  {
+    "text": "out",
+    "start": 456.84,
+    "end": 457.06,
+    "id": "w1136"
+  },
+  {
+    "text": "there",
+    "start": 457.06,
+    "end": 457.43,
+    "id": "w1137"
+  },
+  {
+    "text": "would",
+    "start": 457.43,
+    "end": 457.62,
+    "id": "w1138"
+  },
+  {
+    "text": "hold.",
+    "start": 458.01,
+    "end": 458.36,
+    "id": "w1139"
+  },
+  {
+    "text": "If",
+    "start": 458.36,
+    "end": 458.53,
+    "id": "w1140"
+  },
+  {
+    "text": "it",
+    "start": 458.53,
+    "end": 458.7,
+    "id": "w1141"
+  },
+  {
+    "text": "broke",
+    "start": 458.7,
+    "end": 459.12,
+    "id": "w1142"
+  },
+  {
+    "text": "halfway",
+    "start": 459.12,
+    "end": 459.7,
+    "id": "w1143"
+  },
+  {
+    "text": "across,",
+    "start": 459.71,
+    "end": 460.24,
+    "id": "w1144"
+  },
+  {
+    "text": "the",
+    "start": 460.24,
+    "end": 460.58,
+    "id": "w1145"
+  },
+  {
+    "text": "whole",
+    "start": 460.58,
+    "end": 460.96,
+    "id": "w1146"
+  },
+  {
+    "text": "army",
+    "start": 460.96,
+    "end": 461.22,
+    "id": "w1147"
+  },
+  {
+    "text": "would",
+    "start": 461.35,
+    "end": 461.77,
+    "id": "w1148"
+  },
+  {
+    "text": "drown",
+    "start": 461.77,
+    "end": 462.22,
+    "id": "w1149"
+  },
+  {
+    "text": "and",
+    "start": 462.33,
+    "end": 462.49,
+    "id": "w1150"
+  },
+  {
+    "text": "the",
+    "start": 462.49,
+    "end": 462.7,
+    "id": "w1151"
+  },
+  {
+    "text": "king",
+    "start": 463.09,
+    "end": 463.12,
+    "id": "w1152"
+  },
+  {
+    "text": "with",
+    "start": 463.12,
+    "end": 463.48,
+    "id": "w1153"
+  },
+  {
+    "text": "it.",
+    "start": 463.48,
+    "end": 463.98,
+    "id": "w1154"
+  },
+  {
+    "text": "Charles",
+    "start": 464.32,
+    "end": 464.44,
+    "id": "w1155"
+  },
+  {
+    "text": "called",
+    "start": 464.44,
+    "end": 464.83,
+    "id": "w1156"
+  },
+  {
+    "text": "his",
+    "start": 464.83,
+    "end": 464.96,
+    "id": "w1157"
+  },
+  {
+    "text": "officers",
+    "start": 465.09,
+    "end": 465.51,
+    "id": "w1158"
+  },
+  {
+    "text": "together.",
+    "start": 465.59,
+    "end": 466.28,
+    "id": "w1159"
+  },
+  {
+    "text": "Several",
+    "start": 466.62,
+    "end": 466.75,
+    "id": "w1160"
+  },
+  {
+    "text": "of",
+    "start": 466.75,
+    "end": 466.88,
+    "id": "w1161"
+  },
+  {
+    "text": "them",
+    "start": 466.88,
+    "end": 467.15,
+    "id": "w1162"
+  },
+  {
+    "text": "thought",
+    "start": 467.15,
+    "end": 467.62,
+    "id": "w1163"
+  },
+  {
+    "text": "it",
+    "start": 467.62,
+    "end": 467.71,
+    "id": "w1164"
+  },
+  {
+    "text": "was",
+    "start": 467.76,
+    "end": 467.95,
+    "id": "w1165"
+  },
+  {
+    "text": "madness.",
+    "start": 467.95,
+    "end": 468.66,
+    "id": "w1166"
+  },
+  {
+    "text": "One",
+    "start": 468.66,
+    "end": 469,
+    "id": "w1167"
+  },
+  {
+    "text": "man",
+    "start": 469,
+    "end": 469.28,
+    "id": "w1168"
+  },
+  {
+    "text": "disagreed.",
+    "start": 469.28,
+    "end": 470.46,
+    "id": "w1169"
+  },
+  {
+    "text": "An",
+    "start": 470.46,
+    "end": 470.86,
+    "id": "w1170"
+  },
+  {
+    "text": "officer,",
+    "start": 470.86,
+    "end": 471.5,
+    "id": "w1171"
+  },
+  {
+    "text": "an",
+    "start": 471.63,
+    "end": 471.7,
+    "id": "w1172"
+  },
+  {
+    "text": "engineer",
+    "start": 471.7,
+    "end": 472.43,
+    "id": "w1173"
+  },
+  {
+    "text": "named",
+    "start": 472.43,
+    "end": 472.88,
+    "id": "w1174"
+  },
+  {
+    "text": "Eric",
+    "start": 472.88,
+    "end": 472.99,
+    "id": "w1175"
+  },
+  {
+    "text": "Dahlberg.",
+    "start": 473.37,
+    "end": 474.28,
+    "id": "w1176"
+  },
+  {
+    "text": "Dahlberg",
+    "start": 474.57,
+    "end": 474.86,
+    "id": "w1177"
+  },
+  {
+    "text": "had",
+    "start": 474.86,
+    "end": 475.04,
+    "id": "w1178"
+  },
+  {
+    "text": "been",
+    "start": 475.07,
+    "end": 475.26,
+    "id": "w1179"
+  },
+  {
+    "text": "out",
+    "start": 475.39,
+    "end": 475.59,
+    "id": "w1180"
+  },
+  {
+    "text": "on",
+    "start": 475.59,
+    "end": 475.71,
+    "id": "w1181"
+  },
+  {
+    "text": "the",
+    "start": 475.76,
+    "end": 475.95,
+    "id": "w1182"
+  },
+  {
+    "text": "ice",
+    "start": 475.95,
+    "end": 476.08,
+    "id": "w1183"
+  },
+  {
+    "text": "at",
+    "start": 476.17,
+    "end": 476.26,
+    "id": "w1184"
+  },
+  {
+    "text": "night,",
+    "start": 476.37,
+    "end": 476.72,
+    "id": "w1185"
+  },
+  {
+    "text": "testing",
+    "start": 477.06,
+    "end": 477.27,
+    "id": "w1186"
+  },
+  {
+    "text": "it,",
+    "start": 477.27,
+    "end": 477.58,
+    "id": "w1187"
+  },
+  {
+    "text": "measuring",
+    "start": 477.58,
+    "end": 478.25,
+    "id": "w1188"
+  },
+  {
+    "text": "it,",
+    "start": 478.33,
+    "end": 478.64,
+    "id": "w1189"
+  },
+  {
+    "text": "watching",
+    "start": 478.64,
+    "end": 479.18,
+    "id": "w1190"
+  },
+  {
+    "text": "where",
+    "start": 479.57,
+    "end": 479.6,
+    "id": "w1191"
+  },
+  {
+    "text": "the",
+    "start": 479.6,
+    "end": 479.82,
+    "id": "w1192"
+  },
+  {
+    "text": "currents",
+    "start": 479.82,
+    "end": 480.41,
+    "id": "w1193"
+  },
+  {
+    "text": "ran.",
+    "start": 480.41,
+    "end": 480.88,
+    "id": "w1194"
+  },
+  {
+    "text": "He",
+    "start": 480.88,
+    "end": 481.01,
+    "id": "w1195"
+  },
+  {
+    "text": "did",
+    "start": 481.01,
+    "end": 481.22,
+    "id": "w1196"
+  },
+  {
+    "text": "not",
+    "start": 481.22,
+    "end": 481.41,
+    "id": "w1197"
+  },
+  {
+    "text": "think",
+    "start": 481.41,
+    "end": 481.74,
+    "id": "w1198"
+  },
+  {
+    "text": "the",
+    "start": 481.74,
+    "end": 481.86,
+    "id": "w1199"
+  },
+  {
+    "text": "army",
+    "start": 481.99,
+    "end": 482.21,
+    "id": "w1200"
+  },
+  {
+    "text": "should",
+    "start": 482.21,
+    "end": 482.61,
+    "id": "w1201"
+  },
+  {
+    "text": "go",
+    "start": 482.61,
+    "end": 482.68,
+    "id": "w1202"
+  },
+  {
+    "text": "straight",
+    "start": 482.77,
+    "end": 483.27,
+    "id": "w1203"
+  },
+  {
+    "text": "across.",
+    "start": 483.27,
+    "end": 483.92,
+    "id": "w1204"
+  },
+  {
+    "text": "He",
+    "start": 483.92,
+    "end": 484.06,
+    "id": "w1205"
+  },
+  {
+    "text": "thought",
+    "start": 484.26,
+    "end": 484.57,
+    "id": "w1206"
+  },
+  {
+    "text": "it",
+    "start": 484.57,
+    "end": 484.69,
+    "id": "w1207"
+  },
+  {
+    "text": "should",
+    "start": 484.7,
+    "end": 485.15,
+    "id": "w1208"
+  },
+  {
+    "text": "go",
+    "start": 485.15,
+    "end": 485.29,
+    "id": "w1209"
+  },
+  {
+    "text": "the",
+    "start": 485.29,
+    "end": 485.45,
+    "id": "w1210"
+  },
+  {
+    "text": "long",
+    "start": 485.53,
+    "end": 485.72,
+    "id": "w1211"
+  },
+  {
+    "text": "way",
+    "start": 485.81,
+    "end": 486.02,
+    "id": "w1212"
+  },
+  {
+    "text": "round.",
+    "start": 486.02,
+    "end": 486.41,
+    "id": "w1213"
+  },
+  {
+    "text": "South",
+    "start": 486.98,
+    "end": 487.03,
+    "id": "w1214"
+  },
+  {
+    "text": "of",
+    "start": 487.03,
+    "end": 487.18,
+    "id": "w1215"
+  },
+  {
+    "text": "Funen,",
+    "start": 487.18,
+    "end": 487.62,
+    "id": "w1216"
+  },
+  {
+    "text": "a",
+    "start": 487.75,
+    "end": 487.8,
+    "id": "w1217"
+  },
+  {
+    "text": "chain",
+    "start": 487.8,
+    "end": 488.13,
+    "id": "w1218"
+  },
+  {
+    "text": "of",
+    "start": 488.13,
+    "end": 488.26,
+    "id": "w1219"
+  },
+  {
+    "text": "islands",
+    "start": 488.26,
+    "end": 488.76,
+    "id": "w1220"
+  },
+  {
+    "text": "stretches",
+    "start": 488.76,
+    "end": 489.1,
+    "id": "w1221"
+  },
+  {
+    "text": "towards",
+    "start": 489.62,
+    "end": 489.85,
+    "id": "w1222"
+  },
+  {
+    "text": "Zeeland",
+    "start": 489.85,
+    "end": 490.41,
+    "id": "w1223"
+  },
+  {
+    "text": "like",
+    "start": 490.41,
+    "end": 490.71,
+    "id": "w1224"
+  },
+  {
+    "text": "stepping",
+    "start": 490.76,
+    "end": 491.38,
+    "id": "w1225"
+  },
+  {
+    "text": "stones.",
+    "start": 491.38,
+    "end": 492.14,
+    "id": "w1226"
+  },
+  {
+    "text": "Langelland,",
+    "start": 492.48,
+    "end": 493.27,
+    "id": "w1227"
+  },
+  {
+    "text": "Lollen,",
+    "start": 493.27,
+    "end": 493.94,
+    "id": "w1228"
+  },
+  {
+    "text": "Falster.",
+    "start": 494.03,
+    "end": 495,
+    "id": "w1229"
+  },
+  {
+    "text": "The",
+    "start": 495,
+    "end": 495.34,
+    "id": "w1230"
+  },
+  {
+    "text": "water",
+    "start": 495.34,
+    "end": 495.49,
+    "id": "w1231"
+  },
+  {
+    "text": "between",
+    "start": 495.49,
+    "end": 495.92,
+    "id": "w1232"
+  },
+  {
+    "text": "them",
+    "start": 495.92,
+    "end": 496.17,
+    "id": "w1233"
+  },
+  {
+    "text": "is",
+    "start": 496.17,
+    "end": 496.29,
+    "id": "w1234"
+  },
+  {
+    "text": "shallower",
+    "start": 496.29,
+    "end": 496.8,
+    "id": "w1235"
+  },
+  {
+    "text": "and",
+    "start": 496.89,
+    "end": 497.17,
+    "id": "w1236"
+  },
+  {
+    "text": "calmer,",
+    "start": 497.17,
+    "end": 497.76,
+    "id": "w1237"
+  },
+  {
+    "text": "so",
+    "start": 497.76,
+    "end": 497.9,
+    "id": "w1238"
+  },
+  {
+    "text": "the",
+    "start": 498.1,
+    "end": 498.12,
+    "id": "w1239"
+  },
+  {
+    "text": "ice",
+    "start": 498.12,
+    "end": 498.34,
+    "id": "w1240"
+  },
+  {
+    "text": "there",
+    "start": 498.34,
+    "end": 498.71,
+    "id": "w1241"
+  },
+  {
+    "text": "was",
+    "start": 498.71,
+    "end": 498.93,
+    "id": "w1242"
+  },
+  {
+    "text": "stronger.",
+    "start": 498.93,
+    "end": 499.73,
+    "id": "w1243"
+  },
+  {
+    "text": "The",
+    "start": 499.73,
+    "end": 500.1,
+    "id": "w1244"
+  },
+  {
+    "text": "route",
+    "start": 500.1,
+    "end": 500.4,
+    "id": "w1245"
+  },
+  {
+    "text": "was",
+    "start": 500.4,
+    "end": 500.64,
+    "id": "w1246"
+  },
+  {
+    "text": "far",
+    "start": 500.64,
+    "end": 500.88,
+    "id": "w1247"
+  },
+  {
+    "text": "longer,",
+    "start": 500.88,
+    "end": 501.56,
+    "id": "w1248"
+  },
+  {
+    "text": "but",
+    "start": 501.56,
+    "end": 501.73,
+    "id": "w1249"
+  },
+  {
+    "text": "every",
+    "start": 501.85,
+    "end": 502.22,
+    "id": "w1250"
+  },
+  {
+    "text": "step",
+    "start": 502.22,
+    "end": 502.23,
+    "id": "w1251"
+  },
+  {
+    "text": "of",
+    "start": 502.61,
+    "end": 502.72,
+    "id": "w1252"
+  },
+  {
+    "text": "it",
+    "start": 502.78,
+    "end": 502.9,
+    "id": "w1253"
+  },
+  {
+    "text": "was",
+    "start": 502.9,
+    "end": 503.15,
+    "id": "w1254"
+  },
+  {
+    "text": "shorter.",
+    "start": 503.15,
+    "end": 504.02,
+    "id": "w1255"
+  },
+  {
+    "text": "Charles",
+    "start": 504.36,
+    "end": 504.71,
+    "id": "w1256"
+  },
+  {
+    "text": "listened",
+    "start": 504.71,
+    "end": 505.45,
+    "id": "w1257"
+  },
+  {
+    "text": "and",
+    "start": 505.5,
+    "end": 505.79,
+    "id": "w1258"
+  },
+  {
+    "text": "Charles",
+    "start": 505.79,
+    "end": 506.47,
+    "id": "w1259"
+  },
+  {
+    "text": "agreed.",
+    "start": 506.47,
+    "end": 507.38,
+    "id": "w1260"
+  },
+  {
+    "text": "In",
+    "start": 507.38,
+    "end": 507.5,
+    "id": "w1261"
+  },
+  {
+    "text": "early",
+    "start": 507.72,
+    "end": 507.82,
+    "id": "w1262"
+  },
+  {
+    "text": "February,",
+    "start": 507.82,
+    "end": 508.36,
+    "id": "w1263"
+  },
+  {
+    "text": "the",
+    "start": 508.49,
+    "end": 508.78,
+    "id": "w1264"
+  },
+  {
+    "text": "army",
+    "start": 508.78,
+    "end": 509.18,
+    "id": "w1265"
+  },
+  {
+    "text": "set",
+    "start": 509.18,
+    "end": 509.48,
+    "id": "w1266"
+  },
+  {
+    "text": "out",
+    "start": 509.48,
+    "end": 509.77,
+    "id": "w1267"
+  },
+  {
+    "text": "again,",
+    "start": 509.78,
+    "end": 510.3,
+    "id": "w1268"
+  },
+  {
+    "text": "from",
+    "start": 510.64,
+    "end": 510.66,
+    "id": "w1269"
+  },
+  {
+    "text": "Funen",
+    "start": 510.66,
+    "end": 511.07,
+    "id": "w1270"
+  },
+  {
+    "text": "to",
+    "start": 511.12,
+    "end": 511.28,
+    "id": "w1271"
+  },
+  {
+    "text": "Langelland,",
+    "start": 511.29,
+    "end": 512.4,
+    "id": "w1272"
+  },
+  {
+    "text": "from",
+    "start": 512.4,
+    "end": 512.74,
+    "id": "w1273"
+  },
+  {
+    "text": "Langelland",
+    "start": 512.74,
+    "end": 513.57,
+    "id": "w1274"
+  },
+  {
+    "text": "to",
+    "start": 513.57,
+    "end": 513.72,
+    "id": "w1275"
+  },
+  {
+    "text": "Lollen,",
+    "start": 513.81,
+    "end": 514.37,
+    "id": "w1276"
+  },
+  {
+    "text": "from",
+    "start": 514.78,
+    "end": 514.8,
+    "id": "w1277"
+  },
+  {
+    "text": "Lollen",
+    "start": 514.8,
+    "end": 515.35,
+    "id": "w1278"
+  },
+  {
+    "text": "to",
+    "start": 515.35,
+    "end": 515.42,
+    "id": "w1279"
+  },
+  {
+    "text": "Falster,",
+    "start": 515.55,
+    "end": 516.38,
+    "id": "w1280"
+  },
+  {
+    "text": "day",
+    "start": 516.38,
+    "end": 516.62,
+    "id": "w1281"
+  },
+  {
+    "text": "after",
+    "start": 516.62,
+    "end": 516.9,
+    "id": "w1282"
+  },
+  {
+    "text": "day,",
+    "start": 517.26,
+    "end": 517.4,
+    "id": "w1283"
+  },
+  {
+    "text": "island",
+    "start": 517.78,
+    "end": 518.02,
+    "id": "w1284"
+  },
+  {
+    "text": "after",
+    "start": 518.02,
+    "end": 518.42,
+    "id": "w1285"
+  },
+  {
+    "text": "island,",
+    "start": 518.55,
+    "end": 519.24,
+    "id": "w1286"
+  },
+  {
+    "text": "across",
+    "start": 519.33,
+    "end": 519.83,
+    "id": "w1287"
+  },
+  {
+    "text": "the",
+    "start": 519.86,
+    "end": 519.92,
+    "id": "w1288"
+  },
+  {
+    "text": "frozen",
+    "start": 520.29,
+    "end": 520.73,
+    "id": "w1289"
+  },
+  {
+    "text": "sea.",
+    "start": 520.73,
+    "end": 521.36,
+    "id": "w1290"
+  },
+  {
+    "text": "The",
+    "start": 521.36,
+    "end": 521.7,
+    "id": "w1291"
+  },
+  {
+    "text": "horses'",
+    "start": 521.7,
+    "end": 522.07,
+    "id": "w1292"
+  },
+  {
+    "text": "hooves",
+    "start": 522.07,
+    "end": 522.49,
+    "id": "w1293"
+  },
+  {
+    "text": "cut",
+    "start": 522.49,
+    "end": 522.7,
+    "id": "w1294"
+  },
+  {
+    "text": "through",
+    "start": 522.7,
+    "end": 523.16,
+    "id": "w1295"
+  },
+  {
+    "text": "the",
+    "start": 523.25,
+    "end": 523.33,
+    "id": "w1296"
+  },
+  {
+    "text": "snow.",
+    "start": 523.45,
+    "end": 523.82,
+    "id": "w1297"
+  },
+  {
+    "text": "The",
+    "start": 523.82,
+    "end": 524.3,
+    "id": "w1298"
+  },
+  {
+    "text": "guns",
+    "start": 524.3,
+    "end": 524.47,
+    "id": "w1299"
+  },
+  {
+    "text": "were",
+    "start": 524.47,
+    "end": 524.72,
+    "id": "w1300"
+  },
+  {
+    "text": "hauled",
+    "start": 524.75,
+    "end": 525.2,
+    "id": "w1301"
+  },
+  {
+    "text": "behind",
+    "start": 525.2,
+    "end": 525.64,
+    "id": "w1302"
+  },
+  {
+    "text": "them.",
+    "start": 525.64,
+    "end": 526.2,
+    "id": "w1303"
+  },
+  {
+    "text": "At",
+    "start": 526.2,
+    "end": 526.54,
+    "id": "w1304"
+  },
+  {
+    "text": "night,",
+    "start": 526.54,
+    "end": 527.03,
+    "id": "w1305"
+  },
+  {
+    "text": "the",
+    "start": 527.03,
+    "end": 527.18,
+    "id": "w1306"
+  },
+  {
+    "text": "army",
+    "start": 527.31,
+    "end": 527.63,
+    "id": "w1307"
+  },
+  {
+    "text": "camped",
+    "start": 527.68,
+    "end": 528.17,
+    "id": "w1308"
+  },
+  {
+    "text": "on",
+    "start": 528.29,
+    "end": 528.41,
+    "id": "w1309"
+  },
+  {
+    "text": "land",
+    "start": 528.41,
+    "end": 528.66,
+    "id": "w1310"
+  },
+  {
+    "text": "around",
+    "start": 529.18,
+    "end": 529.42,
+    "id": "w1311"
+  },
+  {
+    "text": "fires",
+    "start": 529.42,
+    "end": 529.82,
+    "id": "w1312"
+  },
+  {
+    "text": "on",
+    "start": 529.95,
+    "end": 530.09,
+    "id": "w1313"
+  },
+  {
+    "text": "frozen",
+    "start": 530.09,
+    "end": 530.64,
+    "id": "w1314"
+  },
+  {
+    "text": "beaches.",
+    "start": 530.73,
+    "end": 531.68,
+    "id": "w1315"
+  },
+  {
+    "text": "In",
+    "start": 531.68,
+    "end": 531.84,
+    "id": "w1316"
+  },
+  {
+    "text": "the",
+    "start": 532.02,
+    "end": 532.08,
+    "id": "w1317"
+  },
+  {
+    "text": "morning,",
+    "start": 532.08,
+    "end": 532.8,
+    "id": "w1318"
+  },
+  {
+    "text": "it",
+    "start": 532.8,
+    "end": 532.96,
+    "id": "w1319"
+  },
+  {
+    "text": "stepped",
+    "start": 532.96,
+    "end": 533.48,
+    "id": "w1320"
+  },
+  {
+    "text": "back",
+    "start": 533.57,
+    "end": 533.84,
+    "id": "w1321"
+  },
+  {
+    "text": "onto",
+    "start": 533.84,
+    "end": 534.14,
+    "id": "w1322"
+  },
+  {
+    "text": "the",
+    "start": 534.14,
+    "end": 534.17,
+    "id": "w1323"
+  },
+  {
+    "text": "ice.",
+    "start": 534.53,
+    "end": 534.9,
+    "id": "w1324"
+  },
+  {
+    "text": "Then,",
+    "start": 535.17,
+    "end": 535.3,
+    "id": "w1325"
+  },
+  {
+    "text": "by",
+    "start": 535.3,
+    "end": 535.43,
+    "id": "w1326"
+  },
+  {
+    "text": "the",
+    "start": 535.43,
+    "end": 535.63,
+    "id": "w1327"
+  },
+  {
+    "text": "middle",
+    "start": 535.63,
+    "end": 536.03,
+    "id": "w1328"
+  },
+  {
+    "text": "of",
+    "start": 536.03,
+    "end": 536.16,
+    "id": "w1329"
+  },
+  {
+    "text": "February,",
+    "start": 536.16,
+    "end": 536.87,
+    "id": "w1330"
+  },
+  {
+    "text": "the",
+    "start": 536.87,
+    "end": 537.22,
+    "id": "w1331"
+  },
+  {
+    "text": "first",
+    "start": 537.22,
+    "end": 537.44,
+    "id": "w1332"
+  },
+  {
+    "text": "Swedish",
+    "start": 537.44,
+    "end": 537.86,
+    "id": "w1333"
+  },
+  {
+    "text": "soldiers",
+    "start": 537.99,
+    "end": 538.41,
+    "id": "w1334"
+  },
+  {
+    "text": "climbed",
+    "start": 538.49,
+    "end": 538.98,
+    "id": "w1335"
+  },
+  {
+    "text": "ashore",
+    "start": 538.98,
+    "end": 539.34,
+    "id": "w1336"
+  },
+  {
+    "text": "on",
+    "start": 539.34,
+    "end": 539.73,
+    "id": "w1337"
+  },
+  {
+    "text": "Zeeland,",
+    "start": 539.73,
+    "end": 540.72,
+    "id": "w1338"
+  },
+  {
+    "text": "the",
+    "start": 540.72,
+    "end": 541.06,
+    "id": "w1339"
+  },
+  {
+    "text": "island",
+    "start": 541.06,
+    "end": 541.66,
+    "id": "w1340"
+  },
+  {
+    "text": "of",
+    "start": 541.66,
+    "end": 541.87,
+    "id": "w1341"
+  },
+  {
+    "text": "Copenhagen.",
+    "start": 541.87,
+    "end": 543.18,
+    "id": "w1342"
+  },
+  {
+    "text": "Eric",
+    "start": 543.18,
+    "end": 543.58,
+    "id": "w1343"
+  },
+  {
+    "text": "Dahlberg",
+    "start": 543.58,
+    "end": 544.08,
+    "id": "w1344"
+  },
+  {
+    "text": "would",
+    "start": 544.08,
+    "end": 544.43,
+    "id": "w1345"
+  },
+  {
+    "text": "go",
+    "start": 544.43,
+    "end": 544.57,
+    "id": "w1346"
+  },
+  {
+    "text": "on",
+    "start": 544.57,
+    "end": 544.67,
+    "id": "w1347"
+  },
+  {
+    "text": "to",
+    "start": 544.72,
+    "end": 544.86,
+    "id": "w1348"
+  },
+  {
+    "text": "become",
+    "start": 544.86,
+    "end": 545.21,
+    "id": "w1349"
+  },
+  {
+    "text": "one",
+    "start": 545.21,
+    "end": 545.62,
+    "id": "w1350"
+  },
+  {
+    "text": "of",
+    "start": 545.62,
+    "end": 545.69,
+    "id": "w1351"
+  },
+  {
+    "text": "the",
+    "start": 545.69,
+    "end": 545.94,
+    "id": "w1352"
+  },
+  {
+    "text": "most",
+    "start": 545.94,
+    "end": 546.26,
+    "id": "w1353"
+  },
+  {
+    "text": "famous",
+    "start": 546.26,
+    "end": 546.77,
+    "id": "w1354"
+  },
+  {
+    "text": "men",
+    "start": 546.77,
+    "end": 547.02,
+    "id": "w1355"
+  },
+  {
+    "text": "in",
+    "start": 547.02,
+    "end": 547.18,
+    "id": "w1356"
+  },
+  {
+    "text": "Sweden.",
+    "start": 547.18,
+    "end": 547.76,
+    "id": "w1357"
+  },
+  {
+    "text": "He",
+    "start": 547.96,
+    "end": 548.11,
+    "id": "w1358"
+  },
+  {
+    "text": "built",
+    "start": 548.3,
+    "end": 548.49,
+    "id": "w1359"
+  },
+  {
+    "text": "fortresses",
+    "start": 548.49,
+    "end": 549.25,
+    "id": "w1360"
+  },
+  {
+    "text": "across",
+    "start": 549.25,
+    "end": 549.71,
+    "id": "w1361"
+  },
+  {
+    "text": "the",
+    "start": 549.71,
+    "end": 549.93,
+    "id": "w1362"
+  },
+  {
+    "text": "Swedish",
+    "start": 549.93,
+    "end": 550.42,
+    "id": "w1363"
+  },
+  {
+    "text": "Empire",
+    "start": 550.81,
+    "end": 550.92,
+    "id": "w1364"
+  },
+  {
+    "text": "and",
+    "start": 550.92,
+    "end": 551.3,
+    "id": "w1365"
+  },
+  {
+    "text": "spent",
+    "start": 551.3,
+    "end": 551.68,
+    "id": "w1366"
+  },
+  {
+    "text": "decades",
+    "start": 551.68,
+    "end": 552.3,
+    "id": "w1367"
+  },
+  {
+    "text": "drawing",
+    "start": 552.31,
+    "end": 552.94,
+    "id": "w1368"
+  },
+  {
+    "text": "its",
+    "start": 553.05,
+    "end": 553.21,
+    "id": "w1369"
+  },
+  {
+    "text": "towns",
+    "start": 553.21,
+    "end": 553.42,
+    "id": "w1370"
+  },
+  {
+    "text": "and",
+    "start": 553.81,
+    "end": 553.92,
+    "id": "w1371"
+  },
+  {
+    "text": "castles,",
+    "start": 553.98,
+    "end": 554.8,
+    "id": "w1372"
+  },
+  {
+    "text": "but",
+    "start": 554.8,
+    "end": 555.14,
+    "id": "w1373"
+  },
+  {
+    "text": "nothing",
+    "start": 555.14,
+    "end": 555.58,
+    "id": "w1374"
+  },
+  {
+    "text": "he",
+    "start": 555.58,
+    "end": 555.75,
+    "id": "w1375"
+  },
+  {
+    "text": "did",
+    "start": 555.75,
+    "end": 555.99,
+    "id": "w1376"
+  },
+  {
+    "text": "afterwards",
+    "start": 555.99,
+    "end": 556.78,
+    "id": "w1377"
+  },
+  {
+    "text": "was",
+    "start": 556.78,
+    "end": 557.14,
+    "id": "w1378"
+  },
+  {
+    "text": "as",
+    "start": 557.14,
+    "end": 557.31,
+    "id": "w1379"
+  },
+  {
+    "text": "bold",
+    "start": 557.31,
+    "end": 557.72,
+    "id": "w1380"
+  },
+  {
+    "text": "as",
+    "start": 557.72,
+    "end": 557.92,
+    "id": "w1381"
+  },
+  {
+    "text": "those",
+    "start": 557.92,
+    "end": 558.44,
+    "id": "w1382"
+  },
+  {
+    "text": "nights",
+    "start": 558.44,
+    "end": 559.06,
+    "id": "w1383"
+  },
+  {
+    "text": "on",
+    "start": 559.06,
+    "end": 559.25,
+    "id": "w1384"
+  },
+  {
+    "text": "the",
+    "start": 559.25,
+    "end": 559.28,
+    "id": "w1385"
+  },
+  {
+    "text": "ice.",
+    "start": 559.65,
+    "end": 560.22,
+    "id": "w1386"
+  },
+  {
+    "text": "The",
+    "start": 560.22,
+    "end": 560.58,
+    "id": "w1387"
+  },
+  {
+    "text": "Danish",
+    "start": 560.58,
+    "end": 561.17,
+    "id": "w1388"
+  },
+  {
+    "text": "capital",
+    "start": 561.17,
+    "end": 561.89,
+    "id": "w1389"
+  },
+  {
+    "text": "was",
+    "start": 561.89,
+    "end": 562.2,
+    "id": "w1390"
+  },
+  {
+    "text": "only",
+    "start": 562.2,
+    "end": 562.61,
+    "id": "w1391"
+  },
+  {
+    "text": "a",
+    "start": 562.61,
+    "end": 562.7,
+    "id": "w1392"
+  },
+  {
+    "text": "few",
+    "start": 562.7,
+    "end": 562.71,
+    "id": "w1393"
+  },
+  {
+    "text": "days",
+    "start": 563.09,
+    "end": 563.43,
+    "id": "w1394"
+  },
+  {
+    "text": "march",
+    "start": 563.43,
+    "end": 563.94,
+    "id": "w1395"
+  },
+  {
+    "text": "away,",
+    "start": 563.94,
+    "end": 564.4,
+    "id": "w1396"
+  },
+  {
+    "text": "and",
+    "start": 564.4,
+    "end": 564.74,
+    "id": "w1397"
+  },
+  {
+    "text": "there",
+    "start": 564.74,
+    "end": 564.96,
+    "id": "w1398"
+  },
+  {
+    "text": "was",
+    "start": 564.96,
+    "end": 565.16,
+    "id": "w1399"
+  },
+  {
+    "text": "no",
+    "start": 565.17,
+    "end": 565.31,
+    "id": "w1400"
+  },
+  {
+    "text": "army",
+    "start": 565.31,
+    "end": 565.59,
+    "id": "w1401"
+  },
+  {
+    "text": "left",
+    "start": 565.59,
+    "end": 565.83,
+    "id": "w1402"
+  },
+  {
+    "text": "to",
+    "start": 565.88,
+    "end": 565.93,
+    "id": "w1403"
+  },
+  {
+    "text": "stand",
+    "start": 566.01,
+    "end": 566.36,
+    "id": "w1404"
+  },
+  {
+    "text": "in",
+    "start": 566.36,
+    "end": 566.5,
+    "id": "w1405"
+  },
+  {
+    "text": "front",
+    "start": 566.5,
+    "end": 566.85,
+    "id": "w1406"
+  },
+  {
+    "text": "of",
+    "start": 566.85,
+    "end": 566.88,
+    "id": "w1407"
+  },
+  {
+    "text": "it.",
+    "start": 567.13,
+    "end": 567.36,
+    "id": "w1408"
+  },
+  {
+    "text": "Inside",
+    "start": 567.36,
+    "end": 568.82,
+    "id": "w1409"
+  },
+  {
+    "text": "Copenhagen,",
+    "start": 568.82,
+    "end": 570.24,
+    "id": "w1410"
+  },
+  {
+    "text": "the",
+    "start": 570.24,
+    "end": 570.45,
+    "id": "w1411"
+  },
+  {
+    "text": "news",
+    "start": 570.57,
+    "end": 570.85,
+    "id": "w1412"
+  },
+  {
+    "text": "landed",
+    "start": 570.85,
+    "end": 571.4,
+    "id": "w1413"
+  },
+  {
+    "text": "like",
+    "start": 571.4,
+    "end": 571.77,
+    "id": "w1414"
+  },
+  {
+    "text": "a",
+    "start": 571.77,
+    "end": 571.86,
+    "id": "w1415"
+  },
+  {
+    "text": "hammer",
+    "start": 571.86,
+    "end": 572.41,
+    "id": "w1416"
+  },
+  {
+    "text": "blow.",
+    "start": 572.41,
+    "end": 573.07,
+    "id": "w1417"
+  },
+  {
+    "text": "The",
+    "start": 573.07,
+    "end": 573.42,
+    "id": "w1418"
+  },
+  {
+    "text": "city's",
+    "start": 573.42,
+    "end": 573.85,
+    "id": "w1419"
+  },
+  {
+    "text": "strongest",
+    "start": 573.9,
+    "end": 574.73,
+    "id": "w1420"
+  },
+  {
+    "text": "defenses",
+    "start": 574.73,
+    "end": 575.47,
+    "id": "w1421"
+  },
+  {
+    "text": "faced",
+    "start": 575.47,
+    "end": 575.54,
+    "id": "w1422"
+  },
+  {
+    "text": "the",
+    "start": 575.93,
+    "end": 576.2,
+    "id": "w1423"
+  },
+  {
+    "text": "sea",
+    "start": 576.2,
+    "end": 576.5,
+    "id": "w1424"
+  },
+  {
+    "text": "because",
+    "start": 576.86,
+    "end": 577.01,
+    "id": "w1425"
+  },
+  {
+    "text": "that",
+    "start": 577.01,
+    "end": 577.28,
+    "id": "w1426"
+  },
+  {
+    "text": "was",
+    "start": 577.28,
+    "end": 577.5,
+    "id": "w1427"
+  },
+  {
+    "text": "where",
+    "start": 577.5,
+    "end": 577.85,
+    "id": "w1428"
+  },
+  {
+    "text": "enemies",
+    "start": 577.85,
+    "end": 578.32,
+    "id": "w1429"
+  },
+  {
+    "text": "had",
+    "start": 578.41,
+    "end": 578.49,
+    "id": "w1430"
+  },
+  {
+    "text": "always",
+    "start": 578.61,
+    "end": 578.97,
+    "id": "w1431"
+  },
+  {
+    "text": "come",
+    "start": 578.97,
+    "end": 579,
+    "id": "w1432"
+  },
+  {
+    "text": "from.",
+    "start": 579.37,
+    "end": 579.76,
+    "id": "w1433"
+  },
+  {
+    "text": "Now,",
+    "start": 580.01,
+    "end": 580.18,
+    "id": "w1434"
+  },
+  {
+    "text": "the",
+    "start": 580.18,
+    "end": 580.43,
+    "id": "w1435"
+  },
+  {
+    "text": "enemy",
+    "start": 580.43,
+    "end": 580.74,
+    "id": "w1436"
+  },
+  {
+    "text": "was",
+    "start": 580.87,
+    "end": 581.11,
+    "id": "w1437"
+  },
+  {
+    "text": "coming",
+    "start": 581.11,
+    "end": 581.56,
+    "id": "w1438"
+  },
+  {
+    "text": "over",
+    "start": 581.65,
+    "end": 581.96,
+    "id": "w1439"
+  },
+  {
+    "text": "the",
+    "start": 581.96,
+    "end": 582.21,
+    "id": "w1440"
+  },
+  {
+    "text": "fields.",
+    "start": 582.21,
+    "end": 583.04,
+    "id": "w1441"
+  },
+  {
+    "text": "King",
+    "start": 583.04,
+    "end": 583.38,
+    "id": "w1442"
+  },
+  {
+    "text": "Frederick",
+    "start": 583.38,
+    "end": 584.02,
+    "id": "w1443"
+  },
+  {
+    "text": "had",
+    "start": 584.02,
+    "end": 584.24,
+    "id": "w1444"
+  },
+  {
+    "text": "no",
+    "start": 584.24,
+    "end": 584.39,
+    "id": "w1445"
+  },
+  {
+    "text": "time",
+    "start": 584.39,
+    "end": 584.69,
+    "id": "w1446"
+  },
+  {
+    "text": "to",
+    "start": 584.69,
+    "end": 584.84,
+    "id": "w1447"
+  },
+  {
+    "text": "raise",
+    "start": 584.84,
+    "end": 585.21,
+    "id": "w1448"
+  },
+  {
+    "text": "a",
+    "start": 585.21,
+    "end": 585.28,
+    "id": "w1449"
+  },
+  {
+    "text": "new",
+    "start": 585.28,
+    "end": 585.49,
+    "id": "w1450"
+  },
+  {
+    "text": "army.",
+    "start": 585.49,
+    "end": 586.08,
+    "id": "w1451"
+  },
+  {
+    "text": "His",
+    "start": 586.08,
+    "end": 586.42,
+    "id": "w1452"
+  },
+  {
+    "text": "fleet",
+    "start": 586.42,
+    "end": 586.68,
+    "id": "w1453"
+  },
+  {
+    "text": "could",
+    "start": 586.68,
+    "end": 587.05,
+    "id": "w1454"
+  },
+  {
+    "text": "do",
+    "start": 587.05,
+    "end": 587.21,
+    "id": "w1455"
+  },
+  {
+    "text": "nothing",
+    "start": 587.21,
+    "end": 587.74,
+    "id": "w1456"
+  },
+  {
+    "text": "against",
+    "start": 587.74,
+    "end": 588.27,
+    "id": "w1457"
+  },
+  {
+    "text": "soldiers",
+    "start": 588.27,
+    "end": 588.54,
+    "id": "w1458"
+  },
+  {
+    "text": "on",
+    "start": 588.93,
+    "end": 589.03,
+    "id": "w1459"
+  },
+  {
+    "text": "land.",
+    "start": 589.03,
+    "end": 589.6,
+    "id": "w1460"
+  },
+  {
+    "text": "He",
+    "start": 589.6,
+    "end": 589.77,
+    "id": "w1461"
+  },
+  {
+    "text": "had",
+    "start": 589.94,
+    "end": 590.03,
+    "id": "w1462"
+  },
+  {
+    "text": "one",
+    "start": 590.03,
+    "end": 590.29,
+    "id": "w1463"
+  },
+  {
+    "text": "choice",
+    "start": 590.29,
+    "end": 590.81,
+    "id": "w1464"
+  },
+  {
+    "text": "left,",
+    "start": 590.81,
+    "end": 591.36,
+    "id": "w1465"
+  },
+  {
+    "text": "he",
+    "start": 591.36,
+    "end": 591.56,
+    "id": "w1466"
+  },
+  {
+    "text": "asked",
+    "start": 591.56,
+    "end": 592.06,
+    "id": "w1467"
+  },
+  {
+    "text": "for",
+    "start": 592.06,
+    "end": 592.45,
+    "id": "w1468"
+  },
+  {
+    "text": "peace.",
+    "start": 592.45,
+    "end": 593.24,
+    "id": "w1469"
+  },
+  {
+    "text": "The",
+    "start": 593.24,
+    "end": 593.58,
+    "id": "w1470"
+  },
+  {
+    "text": "peace",
+    "start": 593.58,
+    "end": 593.97,
+    "id": "w1471"
+  },
+  {
+    "text": "talks",
+    "start": 593.97,
+    "end": 594.43,
+    "id": "w1472"
+  },
+  {
+    "text": "ended",
+    "start": 594.43,
+    "end": 594.89,
+    "id": "w1473"
+  },
+  {
+    "text": "at",
+    "start": 594.89,
+    "end": 595.04,
+    "id": "w1474"
+  },
+  {
+    "text": "Roskilde,",
+    "start": 595.13,
+    "end": 595.84,
+    "id": "w1475"
+  },
+  {
+    "text": "a",
+    "start": 595.84,
+    "end": 595.94,
+    "id": "w1476"
+  },
+  {
+    "text": "short",
+    "start": 596.18,
+    "end": 596.46,
+    "id": "w1477"
+  },
+  {
+    "text": "ride",
+    "start": 596.46,
+    "end": 596.82,
+    "id": "w1478"
+  },
+  {
+    "text": "west",
+    "start": 596.95,
+    "end": 597.27,
+    "id": "w1479"
+  },
+  {
+    "text": "of",
+    "start": 597.32,
+    "end": 597.48,
+    "id": "w1480"
+  },
+  {
+    "text": "the",
+    "start": 597.48,
+    "end": 597.79,
+    "id": "w1481"
+  },
+  {
+    "text": "capital,",
+    "start": 597.79,
+    "end": 598.56,
+    "id": "w1482"
+  },
+  {
+    "text": "and",
+    "start": 598.56,
+    "end": 598.9,
+    "id": "w1483"
+  },
+  {
+    "text": "sitting",
+    "start": 598.9,
+    "end": 599.21,
+    "id": "w1484"
+  },
+  {
+    "text": "on",
+    "start": 599.21,
+    "end": 599.33,
+    "id": "w1485"
+  },
+  {
+    "text": "the",
+    "start": 599.33,
+    "end": 599.53,
+    "id": "w1486"
+  },
+  {
+    "text": "Swedish",
+    "start": 599.53,
+    "end": 599.99,
+    "id": "w1487"
+  },
+  {
+    "text": "side",
+    "start": 599.99,
+    "end": 600.28,
+    "id": "w1488"
+  },
+  {
+    "text": "of",
+    "start": 600.28,
+    "end": 600.5,
+    "id": "w1489"
+  },
+  {
+    "text": "the",
+    "start": 600.5,
+    "end": 600.83,
+    "id": "w1490"
+  },
+  {
+    "text": "table",
+    "start": 600.83,
+    "end": 601.02,
+    "id": "w1491"
+  },
+  {
+    "text": "was",
+    "start": 601.41,
+    "end": 601.71,
+    "id": "w1492"
+  },
+  {
+    "text": "a",
+    "start": 601.71,
+    "end": 601.82,
+    "id": "w1493"
+  },
+  {
+    "text": "dane.",
+    "start": 601.82,
+    "end": 602.6,
+    "id": "w1494"
+  },
+  {
+    "text": "Korfitz",
+    "start": 602.81,
+    "end": 603.07,
+    "id": "w1495"
+  },
+  {
+    "text": "Ulfeld",
+    "start": 603.07,
+    "end": 603.46,
+    "id": "w1496"
+  },
+  {
+    "text": "had",
+    "start": 603.46,
+    "end": 603.58,
+    "id": "w1497"
+  },
+  {
+    "text": "once",
+    "start": 603.71,
+    "end": 603.95,
+    "id": "w1498"
+  },
+  {
+    "text": "been",
+    "start": 603.95,
+    "end": 604.28,
+    "id": "w1499"
+  },
+  {
+    "text": "one",
+    "start": 604.28,
+    "end": 604.62,
+    "id": "w1500"
+  },
+  {
+    "text": "of",
+    "start": 604.62,
+    "end": 604.66,
+    "id": "w1501"
+  },
+  {
+    "text": "the",
+    "start": 604.66,
+    "end": 604.89,
+    "id": "w1502"
+  },
+  {
+    "text": "most",
+    "start": 604.89,
+    "end": 605.2,
+    "id": "w1503"
+  },
+  {
+    "text": "powerful",
+    "start": 605.2,
+    "end": 605.81,
+    "id": "w1504"
+  },
+  {
+    "text": "men",
+    "start": 605.89,
+    "end": 606.05,
+    "id": "w1505"
+  },
+  {
+    "text": "in",
+    "start": 606.05,
+    "end": 606.2,
+    "id": "w1506"
+  },
+  {
+    "text": "Denmark.",
+    "start": 606.2,
+    "end": 606.77,
+    "id": "w1507"
+  },
+  {
+    "text": "He",
+    "start": 607,
+    "end": 607.13,
+    "id": "w1508"
+  },
+  {
+    "text": "had",
+    "start": 607.13,
+    "end": 607.34,
+    "id": "w1509"
+  },
+  {
+    "text": "fallen",
+    "start": 607.34,
+    "end": 607.73,
+    "id": "w1510"
+  },
+  {
+    "text": "out",
+    "start": 607.73,
+    "end": 607.93,
+    "id": "w1511"
+  },
+  {
+    "text": "with",
+    "start": 607.93,
+    "end": 608.2,
+    "id": "w1512"
+  },
+  {
+    "text": "the",
+    "start": 608.2,
+    "end": 608.4,
+    "id": "w1513"
+  },
+  {
+    "text": "king,",
+    "start": 608.4,
+    "end": 608.8,
+    "id": "w1514"
+  },
+  {
+    "text": "fled",
+    "start": 608.8,
+    "end": 609.18,
+    "id": "w1515"
+  },
+  {
+    "text": "the",
+    "start": 609.18,
+    "end": 609.41,
+    "id": "w1516"
+  },
+  {
+    "text": "country,",
+    "start": 609.41,
+    "end": 610.16,
+    "id": "w1517"
+  },
+  {
+    "text": "and",
+    "start": 610.16,
+    "end": 610.37,
+    "id": "w1518"
+  },
+  {
+    "text": "gone",
+    "start": 610.45,
+    "end": 610.81,
+    "id": "w1519"
+  },
+  {
+    "text": "over",
+    "start": 610.81,
+    "end": 611.18,
+    "id": "w1520"
+  },
+  {
+    "text": "to",
+    "start": 611.18,
+    "end": 611.3,
+    "id": "w1521"
+  },
+  {
+    "text": "Sweden.",
+    "start": 611.69,
+    "end": 612.24,
+    "id": "w1522"
+  },
+  {
+    "text": "Now,",
+    "start": 612.47,
+    "end": 612.62,
+    "id": "w1523"
+  },
+  {
+    "text": "he",
+    "start": 612.62,
+    "end": 612.77,
+    "id": "w1524"
+  },
+  {
+    "text": "helped",
+    "start": 612.77,
+    "end": 613.22,
+    "id": "w1525"
+  },
+  {
+    "text": "write",
+    "start": 613.23,
+    "end": 613.61,
+    "id": "w1526"
+  },
+  {
+    "text": "the",
+    "start": 613.61,
+    "end": 613.77,
+    "id": "w1527"
+  },
+  {
+    "text": "terms",
+    "start": 613.85,
+    "end": 614.21,
+    "id": "w1528"
+  },
+  {
+    "text": "that",
+    "start": 614.21,
+    "end": 614.58,
+    "id": "w1529"
+  },
+  {
+    "text": "would",
+    "start": 614.58,
+    "end": 614.94,
+    "id": "w1530"
+  },
+  {
+    "text": "humble",
+    "start": 614.94,
+    "end": 615.41,
+    "id": "w1531"
+  },
+  {
+    "text": "his",
+    "start": 615.41,
+    "end": 615.64,
+    "id": "w1532"
+  },
+  {
+    "text": "old",
+    "start": 615.64,
+    "end": 615.87,
+    "id": "w1533"
+  },
+  {
+    "text": "homeland.",
+    "start": 615.87,
+    "end": 616.7,
+    "id": "w1534"
+  },
+  {
+    "text": "Ulfeld's",
+    "start": 616.76,
+    "end": 617.43,
+    "id": "w1535"
+  },
+  {
+    "text": "own",
+    "start": 617.43,
+    "end": 617.69,
+    "id": "w1536"
+  },
+  {
+    "text": "story",
+    "start": 617.69,
+    "end": 618.13,
+    "id": "w1537"
+  },
+  {
+    "text": "did",
+    "start": 618.13,
+    "end": 618.39,
+    "id": "w1538"
+  },
+  {
+    "text": "not",
+    "start": 618.39,
+    "end": 618.56,
+    "id": "w1539"
+  },
+  {
+    "text": "end",
+    "start": 618.65,
+    "end": 618.91,
+    "id": "w1540"
+  },
+  {
+    "text": "well.",
+    "start": 618.91,
+    "end": 619.6,
+    "id": "w1541"
+  },
+  {
+    "text": "Within",
+    "start": 619.94,
+    "end": 620.03,
+    "id": "w1542"
+  },
+  {
+    "text": "a",
+    "start": 620.03,
+    "end": 620.1,
+    "id": "w1543"
+  },
+  {
+    "text": "few",
+    "start": 620.1,
+    "end": 620.31,
+    "id": "w1544"
+  },
+  {
+    "text": "years,",
+    "start": 620.31,
+    "end": 620.84,
+    "id": "w1545"
+  },
+  {
+    "text": "he",
+    "start": 620.84,
+    "end": 621,
+    "id": "w1546"
+  },
+  {
+    "text": "had",
+    "start": 621,
+    "end": 621.24,
+    "id": "w1547"
+  },
+  {
+    "text": "turned",
+    "start": 621.24,
+    "end": 621.72,
+    "id": "w1548"
+  },
+  {
+    "text": "against",
+    "start": 621.72,
+    "end": 622.06,
+    "id": "w1549"
+  },
+  {
+    "text": "Sweden",
+    "start": 622.45,
+    "end": 622.76,
+    "id": "w1550"
+  },
+  {
+    "text": "too.",
+    "start": 622.76,
+    "end": 623.28,
+    "id": "w1551"
+  },
+  {
+    "text": "Denmark",
+    "start": 623.62,
+    "end": 623.75,
+    "id": "w1552"
+  },
+  {
+    "text": "sentenced",
+    "start": 623.75,
+    "end": 624.26,
+    "id": "w1553"
+  },
+  {
+    "text": "him",
+    "start": 624.39,
+    "end": 624.55,
+    "id": "w1554"
+  },
+  {
+    "text": "to",
+    "start": 624.55,
+    "end": 624.68,
+    "id": "w1555"
+  },
+  {
+    "text": "death",
+    "start": 624.68,
+    "end": 625.01,
+    "id": "w1556"
+  },
+  {
+    "text": "for",
+    "start": 625.01,
+    "end": 625.21,
+    "id": "w1557"
+  },
+  {
+    "text": "treason,",
+    "start": 625.21,
+    "end": 625.72,
+    "id": "w1558"
+  },
+  {
+    "text": "and",
+    "start": 625.72,
+    "end": 626.06,
+    "id": "w1559"
+  },
+  {
+    "text": "he",
+    "start": 626.06,
+    "end": 626.27,
+    "id": "w1560"
+  },
+  {
+    "text": "died",
+    "start": 626.27,
+    "end": 626.7,
+    "id": "w1561"
+  },
+  {
+    "text": "on",
+    "start": 626.71,
+    "end": 626.93,
+    "id": "w1562"
+  },
+  {
+    "text": "the",
+    "start": 626.93,
+    "end": 627.25,
+    "id": "w1563"
+  },
+  {
+    "text": "run",
+    "start": 627.33,
+    "end": 627.52,
+    "id": "w1564"
+  },
+  {
+    "text": "on",
+    "start": 627.61,
+    "end": 627.69,
+    "id": "w1565"
+  },
+  {
+    "text": "a",
+    "start": 627.81,
+    "end": 627.9,
+    "id": "w1566"
+  },
+  {
+    "text": "boat",
+    "start": 627.9,
+    "end": 628.18,
+    "id": "w1567"
+  },
+  {
+    "text": "on",
+    "start": 628.18,
+    "end": 628.57,
+    "id": "w1568"
+  },
+  {
+    "text": "the",
+    "start": 628.57,
+    "end": 628.82,
+    "id": "w1569"
+  },
+  {
+    "text": "River",
+    "start": 628.82,
+    "end": 629.33,
+    "id": "w1570"
+  },
+  {
+    "text": "Rhine.",
+    "start": 629.33,
+    "end": 630.2,
+    "id": "w1571"
+  },
+  {
+    "text": "On",
+    "start": 630.2,
+    "end": 630.54,
+    "id": "w1572"
+  },
+  {
+    "text": "the",
+    "start": 630.54,
+    "end": 630.65,
+    "id": "w1573"
+  },
+  {
+    "text": "26th",
+    "start": 630.65,
+    "end": 631.37,
+    "id": "w1574"
+  },
+  {
+    "text": "of",
+    "start": 631.37,
+    "end": 631.55,
+    "id": "w1575"
+  },
+  {
+    "text": "February,",
+    "start": 631.55,
+    "end": 632.46,
+    "id": "w1576"
+  },
+  {
+    "text": "1658,",
+    "start": 632.46,
+    "end": 633.76,
+    "id": "w1577"
+  },
+  {
+    "text": "the",
+    "start": 633.76,
+    "end": 634.1,
+    "id": "w1578"
+  },
+  {
+    "text": "Treaty",
+    "start": 634.1,
+    "end": 634.51,
+    "id": "w1579"
+  },
+  {
+    "text": "of",
+    "start": 634.51,
+    "end": 634.67,
+    "id": "w1580"
+  },
+  {
+    "text": "Roskilde",
+    "start": 634.67,
+    "end": 635.29,
+    "id": "w1581"
+  },
+  {
+    "text": "was",
+    "start": 635.37,
+    "end": 635.56,
+    "id": "w1582"
+  },
+  {
+    "text": "signed.",
+    "start": 635.65,
+    "end": 636.22,
+    "id": "w1583"
+  },
+  {
+    "text": "It",
+    "start": 636.36,
+    "end": 636.52,
+    "id": "w1584"
+  },
+  {
+    "text": "was",
+    "start": 636.7,
+    "end": 636.76,
+    "id": "w1585"
+  },
+  {
+    "text": "less",
+    "start": 636.76,
+    "end": 637.07,
+    "id": "w1586"
+  },
+  {
+    "text": "than",
+    "start": 637.07,
+    "end": 637.34,
+    "id": "w1587"
+  },
+  {
+    "text": "a",
+    "start": 637.34,
+    "end": 637.47,
+    "id": "w1588"
+  },
+  {
+    "text": "month",
+    "start": 637.47,
+    "end": 637.88,
+    "id": "w1589"
+  },
+  {
+    "text": "since",
+    "start": 638.22,
+    "end": 638.27,
+    "id": "w1590"
+  },
+  {
+    "text": "the",
+    "start": 638.27,
+    "end": 638.51,
+    "id": "w1591"
+  },
+  {
+    "text": "army",
+    "start": 638.51,
+    "end": 638.83,
+    "id": "w1592"
+  },
+  {
+    "text": "had",
+    "start": 638.83,
+    "end": 639.07,
+    "id": "w1593"
+  },
+  {
+    "text": "first",
+    "start": 639.07,
+    "end": 639.41,
+    "id": "w1594"
+  },
+  {
+    "text": "stepped",
+    "start": 639.49,
+    "end": 640.01,
+    "id": "w1595"
+  },
+  {
+    "text": "onto",
+    "start": 640.01,
+    "end": 640.33,
+    "id": "w1596"
+  },
+  {
+    "text": "the",
+    "start": 640.33,
+    "end": 640.36,
+    "id": "w1597"
+  },
+  {
+    "text": "ice.",
+    "start": 640.73,
+    "end": 641.08,
+    "id": "w1598"
+  },
+  {
+    "text": "The",
+    "start": 641.08,
+    "end": 641.42,
+    "id": "w1599"
+  },
+  {
+    "text": "price",
+    "start": 641.42,
+    "end": 641.7,
+    "id": "w1600"
+  },
+  {
+    "text": "was",
+    "start": 641.7,
+    "end": 641.93,
+    "id": "w1601"
+  },
+  {
+    "text": "enormous.",
+    "start": 641.93,
+    "end": 642.8,
+    "id": "w1602"
+  },
+  {
+    "text": "Denmark",
+    "start": 643.14,
+    "end": 643.38,
+    "id": "w1603"
+  },
+  {
+    "text": "gave",
+    "start": 643.38,
+    "end": 643.71,
+    "id": "w1604"
+  },
+  {
+    "text": "up",
+    "start": 643.71,
+    "end": 643.78,
+    "id": "w1605"
+  },
+  {
+    "text": "Scania,",
+    "start": 643.91,
+    "end": 644.56,
+    "id": "w1606"
+  },
+  {
+    "text": "the",
+    "start": 644.56,
+    "end": 644.9,
+    "id": "w1607"
+  },
+  {
+    "text": "rich",
+    "start": 644.9,
+    "end": 645.05,
+    "id": "w1608"
+  },
+  {
+    "text": "farmland",
+    "start": 645.05,
+    "end": 645.54,
+    "id": "w1609"
+  },
+  {
+    "text": "across",
+    "start": 645.67,
+    "end": 645.99,
+    "id": "w1610"
+  },
+  {
+    "text": "the",
+    "start": 646.04,
+    "end": 646.22,
+    "id": "w1611"
+  },
+  {
+    "text": "sound.",
+    "start": 646.22,
+    "end": 646.8,
+    "id": "w1612"
+  },
+  {
+    "text": "It",
+    "start": 646.8,
+    "end": 646.94,
+    "id": "w1613"
+  },
+  {
+    "text": "gave",
+    "start": 647.14,
+    "end": 647.23,
+    "id": "w1614"
+  },
+  {
+    "text": "up",
+    "start": 647.23,
+    "end": 647.37,
+    "id": "w1615"
+  },
+  {
+    "text": "Halland",
+    "start": 647.37,
+    "end": 647.78,
+    "id": "w1616"
+  },
+  {
+    "text": "and",
+    "start": 647.91,
+    "end": 648.1,
+    "id": "w1617"
+  },
+  {
+    "text": "Blekinge",
+    "start": 648.1,
+    "end": 648.72,
+    "id": "w1618"
+  },
+  {
+    "text": "on",
+    "start": 648.72,
+    "end": 648.77,
+    "id": "w1619"
+  },
+  {
+    "text": "the",
+    "start": 648.89,
+    "end": 649.15,
+    "id": "w1620"
+  },
+  {
+    "text": "same",
+    "start": 649.15,
+    "end": 649.27,
+    "id": "w1621"
+  },
+  {
+    "text": "coast.",
+    "start": 649.65,
+    "end": 650.22,
+    "id": "w1622"
+  },
+  {
+    "text": "It",
+    "start": 650.24,
+    "end": 650.38,
+    "id": "w1623"
+  },
+  {
+    "text": "gave",
+    "start": 650.58,
+    "end": 650.67,
+    "id": "w1624"
+  },
+  {
+    "text": "up",
+    "start": 650.67,
+    "end": 650.81,
+    "id": "w1625"
+  },
+  {
+    "text": "the",
+    "start": 650.81,
+    "end": 651,
+    "id": "w1626"
+  },
+  {
+    "text": "Baltic",
+    "start": 651.02,
+    "end": 651.47,
+    "id": "w1627"
+  },
+  {
+    "text": "island",
+    "start": 651.47,
+    "end": 651.91,
+    "id": "w1628"
+  },
+  {
+    "text": "of",
+    "start": 651.91,
+    "end": 652.04,
+    "id": "w1629"
+  },
+  {
+    "text": "Bornholm.",
+    "start": 652.13,
+    "end": 652.71,
+    "id": "w1630"
+  },
+  {
+    "text": "Norway,",
+    "start": 653.26,
+    "end": 653.53,
+    "id": "w1631"
+  },
+  {
+    "text": "ruled",
+    "start": 653.53,
+    "end": 653.9,
+    "id": "w1632"
+  },
+  {
+    "text": "from",
+    "start": 654.03,
+    "end": 654.21,
+    "id": "w1633"
+  },
+  {
+    "text": "Copenhagen,",
+    "start": 654.21,
+    "end": 655.16,
+    "id": "w1634"
+  },
+  {
+    "text": "lost",
+    "start": 655.5,
+    "end": 655.52,
+    "id": "w1635"
+  },
+  {
+    "text": "Bohuslin",
+    "start": 655.52,
+    "end": 656.14,
+    "id": "w1636"
+  },
+  {
+    "text": "in",
+    "start": 656.27,
+    "end": 656.42,
+    "id": "w1637"
+  },
+  {
+    "text": "the",
+    "start": 656.42,
+    "end": 656.69,
+    "id": "w1638"
+  },
+  {
+    "text": "south,",
+    "start": 656.69,
+    "end": 657.16,
+    "id": "w1639"
+  },
+  {
+    "text": "and",
+    "start": 657.16,
+    "end": 657.5,
+    "id": "w1640"
+  },
+  {
+    "text": "the",
+    "start": 657.5,
+    "end": 657.54,
+    "id": "w1641"
+  },
+  {
+    "text": "region",
+    "start": 657.54,
+    "end": 657.92,
+    "id": "w1642"
+  },
+  {
+    "text": "around",
+    "start": 657.92,
+    "end": 658.32,
+    "id": "w1643"
+  },
+  {
+    "text": "Trondheim",
+    "start": 658.32,
+    "end": 658.92,
+    "id": "w1644"
+  },
+  {
+    "text": "in",
+    "start": 658.92,
+    "end": 658.96,
+    "id": "w1645"
+  },
+  {
+    "text": "the",
+    "start": 659.05,
+    "end": 659.13,
+    "id": "w1646"
+  },
+  {
+    "text": "middle",
+    "start": 659.25,
+    "end": 659.62,
+    "id": "w1647"
+  },
+  {
+    "text": "of",
+    "start": 659.62,
+    "end": 659.65,
+    "id": "w1648"
+  },
+  {
+    "text": "the",
+    "start": 659.65,
+    "end": 660.01,
+    "id": "w1649"
+  },
+  {
+    "text": "country.",
+    "start": 660.01,
+    "end": 660.68,
+    "id": "w1650"
+  },
+  {
+    "text": "In",
+    "start": 660.68,
+    "end": 660.84,
+    "id": "w1651"
+  },
+  {
+    "text": "a",
+    "start": 660.84,
+    "end": 661.02,
+    "id": "w1652"
+  },
+  {
+    "text": "few",
+    "start": 661.02,
+    "end": 661.16,
+    "id": "w1653"
+  },
+  {
+    "text": "weeks,",
+    "start": 661.16,
+    "end": 661.66,
+    "id": "w1654"
+  },
+  {
+    "text": "Denmark",
+    "start": 661.79,
+    "end": 662.21,
+    "id": "w1655"
+  },
+  {
+    "text": "lost",
+    "start": 662.29,
+    "end": 662.6,
+    "id": "w1656"
+  },
+  {
+    "text": "around",
+    "start": 662.6,
+    "end": 662.88,
+    "id": "w1657"
+  },
+  {
+    "text": "a",
+    "start": 662.88,
+    "end": 662.95,
+    "id": "w1658"
+  },
+  {
+    "text": "third",
+    "start": 662.95,
+    "end": 663.14,
+    "id": "w1659"
+  },
+  {
+    "text": "of",
+    "start": 663.53,
+    "end": 663.58,
+    "id": "w1660"
+  },
+  {
+    "text": "its",
+    "start": 663.58,
+    "end": 663.96,
+    "id": "w1661"
+  },
+  {
+    "text": "own",
+    "start": 663.96,
+    "end": 664.34,
+    "id": "w1662"
+  },
+  {
+    "text": "land.",
+    "start": 664.34,
+    "end": 664.88,
+    "id": "w1663"
+  },
+  {
+    "text": "And",
+    "start": 664.88,
+    "end": 665.22,
+    "id": "w1664"
+  },
+  {
+    "text": "the",
+    "start": 665.22,
+    "end": 665.3,
+    "id": "w1665"
+  },
+  {
+    "text": "sound",
+    "start": 665.3,
+    "end": 665.64,
+    "id": "w1666"
+  },
+  {
+    "text": "changed",
+    "start": 665.64,
+    "end": 666.16,
+    "id": "w1667"
+  },
+  {
+    "text": "forever.",
+    "start": 666.16,
+    "end": 666.85,
+    "id": "w1668"
+  },
+  {
+    "text": "For",
+    "start": 666.85,
+    "end": 667.26,
+    "id": "w1669"
+  },
+  {
+    "text": "centuries,",
+    "start": 667.26,
+    "end": 667.9,
+    "id": "w1670"
+  },
+  {
+    "text": "Denmark",
+    "start": 668.03,
+    "end": 668.57,
+    "id": "w1671"
+  },
+  {
+    "text": "had",
+    "start": 668.57,
+    "end": 668.72,
+    "id": "w1672"
+  },
+  {
+    "text": "owned",
+    "start": 668.81,
+    "end": 669.21,
+    "id": "w1673"
+  },
+  {
+    "text": "both",
+    "start": 669.21,
+    "end": 669.38,
+    "id": "w1674"
+  },
+  {
+    "text": "shores.",
+    "start": 669.77,
+    "end": 670.28,
+    "id": "w1675"
+  },
+  {
+    "text": "Now,",
+    "start": 670.53,
+    "end": 670.69,
+    "id": "w1676"
+  },
+  {
+    "text": "the",
+    "start": 670.69,
+    "end": 670.94,
+    "id": "w1677"
+  },
+  {
+    "text": "far",
+    "start": 670.94,
+    "end": 671.19,
+    "id": "w1678"
+  },
+  {
+    "text": "shore",
+    "start": 671.19,
+    "end": 671.6,
+    "id": "w1679"
+  },
+  {
+    "text": "was",
+    "start": 671.6,
+    "end": 671.81,
+    "id": "w1680"
+  },
+  {
+    "text": "Swedish,",
+    "start": 671.89,
+    "end": 672.64,
+    "id": "w1681"
+  },
+  {
+    "text": "the",
+    "start": 672.64,
+    "end": 672.98,
+    "id": "w1682"
+  },
+  {
+    "text": "narrow",
+    "start": 672.98,
+    "end": 673.27,
+    "id": "w1683"
+  },
+  {
+    "text": "strait",
+    "start": 673.27,
+    "end": 673.62,
+    "id": "w1684"
+  },
+  {
+    "text": "that",
+    "start": 673.75,
+    "end": 673.97,
+    "id": "w1685"
+  },
+  {
+    "text": "had",
+    "start": 673.97,
+    "end": 674.18,
+    "id": "w1686"
+  },
+  {
+    "text": "made",
+    "start": 674.25,
+    "end": 674.44,
+    "id": "w1687"
+  },
+  {
+    "text": "Denmark",
+    "start": 674.53,
+    "end": 674.95,
+    "id": "w1688"
+  },
+  {
+    "text": "rich",
+    "start": 674.95,
+    "end": 675.1,
+    "id": "w1689"
+  },
+  {
+    "text": "became",
+    "start": 675.49,
+    "end": 675.85,
+    "id": "w1690"
+  },
+  {
+    "text": "a",
+    "start": 675.85,
+    "end": 675.95,
+    "id": "w1691"
+  },
+  {
+    "text": "border.",
+    "start": 675.95,
+    "end": 676.88,
+    "id": "w1692"
+  },
+  {
+    "text": "But",
+    "start": 677.22,
+    "end": 677.24,
+    "id": "w1693"
+  },
+  {
+    "text": "Charles",
+    "start": 677.24,
+    "end": 678.07,
+    "id": "w1694"
+  },
+  {
+    "text": "X",
+    "start": 678.07,
+    "end": 678.19,
+    "id": "w1695"
+  },
+  {
+    "text": "Gustav",
+    "start": 678.19,
+    "end": 678.85,
+    "id": "w1696"
+  },
+  {
+    "text": "was",
+    "start": 678.97,
+    "end": 679.26,
+    "id": "w1697"
+  },
+  {
+    "text": "not",
+    "start": 679.26,
+    "end": 679.35,
+    "id": "w1698"
+  },
+  {
+    "text": "satisfied.",
+    "start": 679.73,
+    "end": 681.08,
+    "id": "w1699"
+  },
+  {
+    "text": "That",
+    "start": 681.08,
+    "end": 681.42,
+    "id": "w1700"
+  },
+  {
+    "text": "same",
+    "start": 681.42,
+    "end": 681.68,
+    "id": "w1701"
+  },
+  {
+    "text": "summer,",
+    "start": 681.68,
+    "end": 682.28,
+    "id": "w1702"
+  },
+  {
+    "text": "he",
+    "start": 682.28,
+    "end": 682.42,
+    "id": "w1703"
+  },
+  {
+    "text": "broke",
+    "start": 682.42,
+    "end": 682.79,
+    "id": "w1704"
+  },
+  {
+    "text": "the",
+    "start": 682.79,
+    "end": 683.01,
+    "id": "w1705"
+  },
+  {
+    "text": "peace",
+    "start": 683.01,
+    "end": 683.4,
+    "id": "w1706"
+  },
+  {
+    "text": "and",
+    "start": 683.4,
+    "end": 683.54,
+    "id": "w1707"
+  },
+  {
+    "text": "invaded",
+    "start": 683.93,
+    "end": 684.3,
+    "id": "w1708"
+  },
+  {
+    "text": "again.",
+    "start": 684.3,
+    "end": 685.04,
+    "id": "w1709"
+  },
+  {
+    "text": "This",
+    "start": 685.04,
+    "end": 685.38,
+    "id": "w1710"
+  },
+  {
+    "text": "time,",
+    "start": 685.38,
+    "end": 685.81,
+    "id": "w1711"
+  },
+  {
+    "text": "he",
+    "start": 685.82,
+    "end": 685.99,
+    "id": "w1712"
+  },
+  {
+    "text": "wanted",
+    "start": 685.99,
+    "end": 686.46,
+    "id": "w1713"
+  },
+  {
+    "text": "all",
+    "start": 686.46,
+    "end": 686.7,
+    "id": "w1714"
+  },
+  {
+    "text": "of",
+    "start": 686.7,
+    "end": 686.84,
+    "id": "w1715"
+  },
+  {
+    "text": "Denmark.",
+    "start": 686.93,
+    "end": 687.51,
+    "id": "w1716"
+  },
+  {
+    "text": "His",
+    "start": 687.51,
+    "end": 688.02,
+    "id": "w1717"
+  },
+  {
+    "text": "army",
+    "start": 688.02,
+    "end": 688.33,
+    "id": "w1718"
+  },
+  {
+    "text": "surrounded",
+    "start": 688.33,
+    "end": 689.21,
+    "id": "w1719"
+  },
+  {
+    "text": "Copenhagen.",
+    "start": 689.29,
+    "end": 690.48,
+    "id": "w1720"
+  },
+  {
+    "text": "But",
+    "start": 690.48,
+    "end": 690.82,
+    "id": "w1721"
+  },
+  {
+    "text": "this",
+    "start": 690.82,
+    "end": 690.97,
+    "id": "w1722"
+  },
+  {
+    "text": "time,",
+    "start": 690.97,
+    "end": 691.39,
+    "id": "w1723"
+  },
+  {
+    "text": "the",
+    "start": 691.39,
+    "end": 691.6,
+    "id": "w1724"
+  },
+  {
+    "text": "city",
+    "start": 691.6,
+    "end": 691.88,
+    "id": "w1725"
+  },
+  {
+    "text": "was",
+    "start": 691.88,
+    "end": 692.01,
+    "id": "w1726"
+  },
+  {
+    "text": "ready.",
+    "start": 692.09,
+    "end": 692.72,
+    "id": "w1727"
+  },
+  {
+    "text": "King",
+    "start": 692.72,
+    "end": 693.06,
+    "id": "w1728"
+  },
+  {
+    "text": "Frederick",
+    "start": 693.06,
+    "end": 693.67,
+    "id": "w1729"
+  },
+  {
+    "text": "refused",
+    "start": 693.67,
+    "end": 694.15,
+    "id": "w1730"
+  },
+  {
+    "text": "to",
+    "start": 694.2,
+    "end": 694.25,
+    "id": "w1731"
+  },
+  {
+    "text": "flee.",
+    "start": 694.33,
+    "end": 694.88,
+    "id": "w1732"
+  },
+  {
+    "text": "He",
+    "start": 694.88,
+    "end": 694.99,
+    "id": "w1733"
+  },
+  {
+    "text": "is",
+    "start": 694.99,
+    "end": 695.22,
+    "id": "w1734"
+  },
+  {
+    "text": "said",
+    "start": 695.22,
+    "end": 695.33,
+    "id": "w1735"
+  },
+  {
+    "text": "to",
+    "start": 695.33,
+    "end": 695.44,
+    "id": "w1736"
+  },
+  {
+    "text": "have",
+    "start": 695.44,
+    "end": 695.64,
+    "id": "w1737"
+  },
+  {
+    "text": "declared",
+    "start": 695.66,
+    "end": 696.16,
+    "id": "w1738"
+  },
+  {
+    "text": "that",
+    "start": 696.16,
+    "end": 696.41,
+    "id": "w1739"
+  },
+  {
+    "text": "he",
+    "start": 696.49,
+    "end": 696.63,
+    "id": "w1740"
+  },
+  {
+    "text": "would",
+    "start": 696.63,
+    "end": 697.02,
+    "id": "w1741"
+  },
+  {
+    "text": "die",
+    "start": 697.02,
+    "end": 697.26,
+    "id": "w1742"
+  },
+  {
+    "text": "in",
+    "start": 697.26,
+    "end": 697.35,
+    "id": "w1743"
+  },
+  {
+    "text": "his",
+    "start": 697.35,
+    "end": 697.73,
+    "id": "w1744"
+  },
+  {
+    "text": "nest.",
+    "start": 697.73,
+    "end": 698.24,
+    "id": "w1745"
+  },
+  {
+    "text": "Citizens,",
+    "start": 698.58,
+    "end": 699.07,
+    "id": "w1746"
+  },
+  {
+    "text": "students,",
+    "start": 699.07,
+    "end": 699.9,
+    "id": "w1747"
+  },
+  {
+    "text": "and",
+    "start": 699.9,
+    "end": 700.15,
+    "id": "w1748"
+  },
+  {
+    "text": "soldiers",
+    "start": 700.15,
+    "end": 700.7,
+    "id": "w1749"
+  },
+  {
+    "text": "manned",
+    "start": 701.09,
+    "end": 701.32,
+    "id": "w1750"
+  },
+  {
+    "text": "the",
+    "start": 701.32,
+    "end": 701.57,
+    "id": "w1751"
+  },
+  {
+    "text": "walls",
+    "start": 701.57,
+    "end": 701.99,
+    "id": "w1752"
+  },
+  {
+    "text": "side",
+    "start": 701.99,
+    "end": 702.31,
+    "id": "w1753"
+  },
+  {
+    "text": "by",
+    "start": 702.39,
+    "end": 702.48,
+    "id": "w1754"
+  },
+  {
+    "text": "side.",
+    "start": 702.48,
+    "end": 703,
+    "id": "w1755"
+  },
+  {
+    "text": "A",
+    "start": 703.12,
+    "end": 703.2,
+    "id": "w1756"
+  },
+  {
+    "text": "Dutch",
+    "start": 703.46,
+    "end": 703.63,
+    "id": "w1757"
+  },
+  {
+    "text": "fleet,",
+    "start": 703.63,
+    "end": 704.24,
+    "id": "w1758"
+  },
+  {
+    "text": "worried",
+    "start": 704.24,
+    "end": 704.66,
+    "id": "w1759"
+  },
+  {
+    "text": "about",
+    "start": 704.73,
+    "end": 704.92,
+    "id": "w1760"
+  },
+  {
+    "text": "Sweden",
+    "start": 705.01,
+    "end": 705.32,
+    "id": "w1761"
+  },
+  {
+    "text": "controlling",
+    "start": 705.32,
+    "end": 706,
+    "id": "w1762"
+  },
+  {
+    "text": "the",
+    "start": 706,
+    "end": 706.3,
+    "id": "w1763"
+  },
+  {
+    "text": "Baltic,",
+    "start": 706.3,
+    "end": 706.92,
+    "id": "w1764"
+  },
+  {
+    "text": "fought",
+    "start": 707.26,
+    "end": 707.36,
+    "id": "w1765"
+  },
+  {
+    "text": "its",
+    "start": 707.36,
+    "end": 707.58,
+    "id": "w1766"
+  },
+  {
+    "text": "way",
+    "start": 707.58,
+    "end": 707.8,
+    "id": "w1767"
+  },
+  {
+    "text": "into",
+    "start": 707.8,
+    "end": 708.1,
+    "id": "w1768"
+  },
+  {
+    "text": "the",
+    "start": 708.1,
+    "end": 708.32,
+    "id": "w1769"
+  },
+  {
+    "text": "sound",
+    "start": 708.32,
+    "end": 708.72,
+    "id": "w1770"
+  },
+  {
+    "text": "and",
+    "start": 708.72,
+    "end": 708.89,
+    "id": "w1771"
+  },
+  {
+    "text": "broke",
+    "start": 709,
+    "end": 709.38,
+    "id": "w1772"
+  },
+  {
+    "text": "the",
+    "start": 709.38,
+    "end": 709.77,
+    "id": "w1773"
+  },
+  {
+    "text": "blockade.",
+    "start": 709.77,
+    "end": 710.68,
+    "id": "w1774"
+  },
+  {
+    "text": "In",
+    "start": 710.68,
+    "end": 711.02,
+    "id": "w1775"
+  },
+  {
+    "text": "February",
+    "start": 711.02,
+    "end": 711.6,
+    "id": "w1776"
+  },
+  {
+    "text": "1659,",
+    "start": 711.6,
+    "end": 712.92,
+    "id": "w1777"
+  },
+  {
+    "text": "the",
+    "start": 712.92,
+    "end": 713.07,
+    "id": "w1778"
+  },
+  {
+    "text": "Swedes",
+    "start": 713.1,
+    "end": 713.48,
+    "id": "w1779"
+  },
+  {
+    "text": "launched",
+    "start": 713.53,
+    "end": 714,
+    "id": "w1780"
+  },
+  {
+    "text": "a",
+    "start": 714,
+    "end": 714.08,
+    "id": "w1781"
+  },
+  {
+    "text": "great",
+    "start": 714.08,
+    "end": 714.47,
+    "id": "w1782"
+  },
+  {
+    "text": "night",
+    "start": 714.47,
+    "end": 714.88,
+    "id": "w1783"
+  },
+  {
+    "text": "assault",
+    "start": 714.88,
+    "end": 715.32,
+    "id": "w1784"
+  },
+  {
+    "text": "on",
+    "start": 715.32,
+    "end": 716.02,
+    "id": "w1785"
+  },
+  {
+    "text": "the",
+    "start": 716.02,
+    "end": 716.13,
+    "id": "w1786"
+  },
+  {
+    "text": "walls",
+    "start": 716.13,
+    "end": 716.59,
+    "id": "w1787"
+  },
+  {
+    "text": "of",
+    "start": 716.59,
+    "end": 716.66,
+    "id": "w1788"
+  },
+  {
+    "text": "Copenhagen.",
+    "start": 716.79,
+    "end": 718,
+    "id": "w1789"
+  },
+  {
+    "text": "It",
+    "start": 718,
+    "end": 718.34,
+    "id": "w1790"
+  },
+  {
+    "text": "failed.",
+    "start": 718.34,
+    "end": 719.52,
+    "id": "w1791"
+  },
+  {
+    "text": "A",
+    "start": 719.52,
+    "end": 719.6,
+    "id": "w1792"
+  },
+  {
+    "text": "year",
+    "start": 719.86,
+    "end": 719.94,
+    "id": "w1793"
+  },
+  {
+    "text": "later,",
+    "start": 719.94,
+    "end": 720.5,
+    "id": "w1794"
+  },
+  {
+    "text": "Charles",
+    "start": 720.63,
+    "end": 721.3,
+    "id": "w1795"
+  },
+  {
+    "text": "X",
+    "start": 721.3,
+    "end": 721.32,
+    "id": "w1796"
+  },
+  {
+    "text": "Gustav",
+    "start": 721.41,
+    "end": 721.98,
+    "id": "w1797"
+  },
+  {
+    "text": "fell",
+    "start": 722.37,
+    "end": 722.45,
+    "id": "w1798"
+  },
+  {
+    "text": "ill",
+    "start": 722.45,
+    "end": 722.76,
+    "id": "w1799"
+  },
+  {
+    "text": "and",
+    "start": 722.76,
+    "end": 723.07,
+    "id": "w1800"
+  },
+  {
+    "text": "died.",
+    "start": 723.07,
+    "end": 723.84,
+    "id": "w1801"
+  },
+  {
+    "text": "He",
+    "start": 723.84,
+    "end": 724.18,
+    "id": "w1802"
+  },
+  {
+    "text": "was",
+    "start": 724.18,
+    "end": 724.39,
+    "id": "w1803"
+  },
+  {
+    "text": "37",
+    "start": 724.39,
+    "end": 725.06,
+    "id": "w1804"
+  },
+  {
+    "text": "years",
+    "start": 725.06,
+    "end": 725.62,
+    "id": "w1805"
+  },
+  {
+    "text": "old.",
+    "start": 725.62,
+    "end": 726.3,
+    "id": "w1806"
+  },
+  {
+    "text": "The",
+    "start": 726.3,
+    "end": 726.66,
+    "id": "w1807"
+  },
+  {
+    "text": "war",
+    "start": 726.66,
+    "end": 726.88,
+    "id": "w1808"
+  },
+  {
+    "text": "ended",
+    "start": 726.88,
+    "end": 727.3,
+    "id": "w1809"
+  },
+  {
+    "text": "with",
+    "start": 727.43,
+    "end": 727.71,
+    "id": "w1810"
+  },
+  {
+    "text": "a",
+    "start": 727.71,
+    "end": 727.76,
+    "id": "w1811"
+  },
+  {
+    "text": "new",
+    "start": 727.8,
+    "end": 728.08,
+    "id": "w1812"
+  },
+  {
+    "text": "treaty",
+    "start": 728.08,
+    "end": 728.63,
+    "id": "w1813"
+  },
+  {
+    "text": "in",
+    "start": 728.63,
+    "end": 728.78,
+    "id": "w1814"
+  },
+  {
+    "text": "1660.",
+    "start": 729.17,
+    "end": 729.96,
+    "id": "w1815"
+  },
+  {
+    "text": "Bornholm,",
+    "start": 730.21,
+    "end": 730.58,
+    "id": "w1816"
+  },
+  {
+    "text": "whose",
+    "start": 730.58,
+    "end": 730.89,
+    "id": "w1817"
+  },
+  {
+    "text": "people",
+    "start": 730.89,
+    "end": 731.27,
+    "id": "w1818"
+  },
+  {
+    "text": "had",
+    "start": 731.27,
+    "end": 731.46,
+    "id": "w1819"
+  },
+  {
+    "text": "risen",
+    "start": 731.46,
+    "end": 731.76,
+    "id": "w1820"
+  },
+  {
+    "text": "up",
+    "start": 731.85,
+    "end": 731.93,
+    "id": "w1821"
+  },
+  {
+    "text": "against",
+    "start": 732.34,
+    "end": 732.42,
+    "id": "w1822"
+  },
+  {
+    "text": "their",
+    "start": 732.42,
+    "end": 732.72,
+    "id": "w1823"
+  },
+  {
+    "text": "Swedish",
+    "start": 732.72,
+    "end": 733.14,
+    "id": "w1824"
+  },
+  {
+    "text": "governor,",
+    "start": 733.14,
+    "end": 733.76,
+    "id": "w1825"
+  },
+  {
+    "text": "went",
+    "start": 733.76,
+    "end": 733.97,
+    "id": "w1826"
+  },
+  {
+    "text": "back",
+    "start": 734.09,
+    "end": 734.39,
+    "id": "w1827"
+  },
+  {
+    "text": "to",
+    "start": 734.42,
+    "end": 734.48,
+    "id": "w1828"
+  },
+  {
+    "text": "Denmark.",
+    "start": 734.85,
+    "end": 735.42,
+    "id": "w1829"
+  },
+  {
+    "text": "So",
+    "start": 735.44,
+    "end": 735.6,
+    "id": "w1830"
+  },
+  {
+    "text": "did",
+    "start": 735.78,
+    "end": 735.84,
+    "id": "w1831"
+  },
+  {
+    "text": "the",
+    "start": 735.84,
+    "end": 736.08,
+    "id": "w1832"
+  },
+  {
+    "text": "region",
+    "start": 736.08,
+    "end": 736.57,
+    "id": "w1833"
+  },
+  {
+    "text": "around",
+    "start": 736.57,
+    "end": 737.06,
+    "id": "w1834"
+  },
+  {
+    "text": "Trondheim.",
+    "start": 737.06,
+    "end": 737.84,
+    "id": "w1835"
+  },
+  {
+    "text": "But",
+    "start": 737.84,
+    "end": 738.18,
+    "id": "w1836"
+  },
+  {
+    "text": "Scania,",
+    "start": 738.18,
+    "end": 738.77,
+    "id": "w1837"
+  },
+  {
+    "text": "Halland,",
+    "start": 738.77,
+    "end": 739.53,
+    "id": "w1838"
+  },
+  {
+    "text": "Bleaking",
+    "start": 739.53,
+    "end": 740.2,
+    "id": "w1839"
+  },
+  {
+    "text": "A",
+    "start": 740.2,
+    "end": 740.3,
+    "id": "w1840"
+  },
+  {
+    "text": "and",
+    "start": 740.3,
+    "end": 740.33,
+    "id": "w1841"
+  },
+  {
+    "text": "Bohuslin",
+    "start": 740.69,
+    "end": 741.26,
+    "id": "w1842"
+  },
+  {
+    "text": "stayed",
+    "start": 741.35,
+    "end": 741.86,
+    "id": "w1843"
+  },
+  {
+    "text": "Swedish.",
+    "start": 741.86,
+    "end": 742.64,
+    "id": "w1844"
+  },
+  {
+    "text": "Not",
+    "start": 743.12,
+    "end": 743.14,
+    "id": "w1845"
+  },
+  {
+    "text": "everyone",
+    "start": 743.46,
+    "end": 743.92,
+    "id": "w1846"
+  },
+  {
+    "text": "in",
+    "start": 743.94,
+    "end": 744.1,
+    "id": "w1847"
+  },
+  {
+    "text": "Scania",
+    "start": 744.23,
+    "end": 744.65,
+    "id": "w1848"
+  },
+  {
+    "text": "accepted",
+    "start": 744.73,
+    "end": 745.51,
+    "id": "w1849"
+  },
+  {
+    "text": "the",
+    "start": 745.51,
+    "end": 745.59,
+    "id": "w1850"
+  },
+  {
+    "text": "new",
+    "start": 745.97,
+    "end": 746.08,
+    "id": "w1851"
+  },
+  {
+    "text": "masters.",
+    "start": 746.14,
+    "end": 746.84,
+    "id": "w1852"
+  },
+  {
+    "text": "In",
+    "start": 746.84,
+    "end": 747.01,
+    "id": "w1853"
+  },
+  {
+    "text": "the",
+    "start": 747.18,
+    "end": 747.26,
+    "id": "w1854"
+  },
+  {
+    "text": "forests",
+    "start": 747.26,
+    "end": 747.82,
+    "id": "w1855"
+  },
+  {
+    "text": "along",
+    "start": 747.95,
+    "end": 748.27,
+    "id": "w1856"
+  },
+  {
+    "text": "the",
+    "start": 748.27,
+    "end": 748.52,
+    "id": "w1857"
+  },
+  {
+    "text": "old",
+    "start": 748.52,
+    "end": 748.77,
+    "id": "w1858"
+  },
+  {
+    "text": "border,",
+    "start": 748.77,
+    "end": 749.32,
+    "id": "w1859"
+  },
+  {
+    "text": "bands",
+    "start": 749.66,
+    "end": 749.72,
+    "id": "w1860"
+  },
+  {
+    "text": "of",
+    "start": 749.72,
+    "end": 749.88,
+    "id": "w1861"
+  },
+  {
+    "text": "fighters",
+    "start": 749.88,
+    "end": 750.52,
+    "id": "w1862"
+  },
+  {
+    "text": "called",
+    "start": 750.52,
+    "end": 751,
+    "id": "w1863"
+  },
+  {
+    "text": "Snap",
+    "start": 751,
+    "end": 751.29,
+    "id": "w1864"
+  },
+  {
+    "text": "Hannah",
+    "start": 751.4,
+    "end": 751.78,
+    "id": "w1865"
+  },
+  {
+    "text": "kept",
+    "start": 751.78,
+    "end": 752.18,
+    "id": "w1866"
+  },
+  {
+    "text": "up",
+    "start": 752.18,
+    "end": 752.33,
+    "id": "w1867"
+  },
+  {
+    "text": "the",
+    "start": 752.33,
+    "end": 752.57,
+    "id": "w1868"
+  },
+  {
+    "text": "fight",
+    "start": 752.57,
+    "end": 752.98,
+    "id": "w1869"
+  },
+  {
+    "text": "for",
+    "start": 752.98,
+    "end": 753.22,
+    "id": "w1870"
+  },
+  {
+    "text": "the",
+    "start": 753.22,
+    "end": 753.46,
+    "id": "w1871"
+  },
+  {
+    "text": "Danish",
+    "start": 753.46,
+    "end": 753.95,
+    "id": "w1872"
+  },
+  {
+    "text": "king,",
+    "start": 753.95,
+    "end": 754.32,
+    "id": "w1873"
+  },
+  {
+    "text": "ambushing",
+    "start": 754.59,
+    "end": 755.1,
+    "id": "w1874"
+  },
+  {
+    "text": "Swedish",
+    "start": 755.14,
+    "end": 755.75,
+    "id": "w1875"
+  },
+  {
+    "text": "soldiers",
+    "start": 755.8,
+    "end": 756.51,
+    "id": "w1876"
+  },
+  {
+    "text": "and",
+    "start": 756.51,
+    "end": 756.77,
+    "id": "w1877"
+  },
+  {
+    "text": "supply",
+    "start": 756.77,
+    "end": 757.28,
+    "id": "w1878"
+  },
+  {
+    "text": "wagons.",
+    "start": 757.34,
+    "end": 758.2,
+    "id": "w1879"
+  },
+  {
+    "text": "Sweden",
+    "start": 758.54,
+    "end": 758.72,
+    "id": "w1880"
+  },
+  {
+    "text": "hunted",
+    "start": 758.72,
+    "end": 759.18,
+    "id": "w1881"
+  },
+  {
+    "text": "them",
+    "start": 759.31,
+    "end": 759.58,
+    "id": "w1882"
+  },
+  {
+    "text": "down",
+    "start": 759.58,
+    "end": 759.92,
+    "id": "w1883"
+  },
+  {
+    "text": "without",
+    "start": 759.92,
+    "end": 760.52,
+    "id": "w1884"
+  },
+  {
+    "text": "mercy.",
+    "start": 760.52,
+    "end": 761.24,
+    "id": "w1885"
+  },
+  {
+    "text": "Denmark",
+    "start": 761.58,
+    "end": 761.77,
+    "id": "w1886"
+  },
+  {
+    "text": "tried",
+    "start": 761.77,
+    "end": 762.15,
+    "id": "w1887"
+  },
+  {
+    "text": "once",
+    "start": 762.15,
+    "end": 762.45,
+    "id": "w1888"
+  },
+  {
+    "text": "more",
+    "start": 762.45,
+    "end": 762.75,
+    "id": "w1889"
+  },
+  {
+    "text": "to",
+    "start": 762.75,
+    "end": 762.9,
+    "id": "w1890"
+  },
+  {
+    "text": "take",
+    "start": 762.9,
+    "end": 763.2,
+    "id": "w1891"
+  },
+  {
+    "text": "them",
+    "start": 763.2,
+    "end": 763.5,
+    "id": "w1892"
+  },
+  {
+    "text": "back.",
+    "start": 763.5,
+    "end": 764.08,
+    "id": "w1893"
+  },
+  {
+    "text": "In",
+    "start": 764.08,
+    "end": 764.24,
+    "id": "w1894"
+  },
+  {
+    "text": "the",
+    "start": 764.42,
+    "end": 764.49,
+    "id": "w1895"
+  },
+  {
+    "text": "1670s,",
+    "start": 764.49,
+    "end": 765.76,
+    "id": "w1896"
+  },
+  {
+    "text": "it",
+    "start": 765.76,
+    "end": 765.88,
+    "id": "w1897"
+  },
+  {
+    "text": "invaded",
+    "start": 765.97,
+    "end": 766.54,
+    "id": "w1898"
+  },
+  {
+    "text": "Scania",
+    "start": 766.83,
+    "end": 767.24,
+    "id": "w1899"
+  },
+  {
+    "text": "and",
+    "start": 767.24,
+    "end": 767.41,
+    "id": "w1900"
+  },
+  {
+    "text": "fought",
+    "start": 767.58,
+    "end": 767.76,
+    "id": "w1901"
+  },
+  {
+    "text": "one",
+    "start": 767.76,
+    "end": 767.93,
+    "id": "w1902"
+  },
+  {
+    "text": "of",
+    "start": 767.93,
+    "end": 768.01,
+    "id": "w1903"
+  },
+  {
+    "text": "the",
+    "start": 768.03,
+    "end": 768.21,
+    "id": "w1904"
+  },
+  {
+    "text": "bloodiest",
+    "start": 768.21,
+    "end": 768.73,
+    "id": "w1905"
+  },
+  {
+    "text": "battles",
+    "start": 768.73,
+    "end": 769.2,
+    "id": "w1906"
+  },
+  {
+    "text": "in",
+    "start": 769.2,
+    "end": 769.37,
+    "id": "w1907"
+  },
+  {
+    "text": "Scandinavian",
+    "start": 769.54,
+    "end": 770.43,
+    "id": "w1908"
+  },
+  {
+    "text": "history",
+    "start": 770.43,
+    "end": 771,
+    "id": "w1909"
+  },
+  {
+    "text": "outside",
+    "start": 771.09,
+    "end": 771.66,
+    "id": "w1910"
+  },
+  {
+    "text": "the",
+    "start": 771.66,
+    "end": 771.69,
+    "id": "w1911"
+  },
+  {
+    "text": "city",
+    "start": 772.05,
+    "end": 772.28,
+    "id": "w1912"
+  },
+  {
+    "text": "of",
+    "start": 772.28,
+    "end": 772.45,
+    "id": "w1913"
+  },
+  {
+    "text": "Lund.",
+    "start": 772.45,
+    "end": 773.12,
+    "id": "w1914"
+  },
+  {
+    "text": "It",
+    "start": 773.12,
+    "end": 773.46,
+    "id": "w1915"
+  },
+  {
+    "text": "still",
+    "start": 773.46,
+    "end": 773.9,
+    "id": "w1916"
+  },
+  {
+    "text": "failed",
+    "start": 773.9,
+    "end": 774.55,
+    "id": "w1917"
+  },
+  {
+    "text": "and",
+    "start": 774.6,
+    "end": 774.88,
+    "id": "w1918"
+  },
+  {
+    "text": "slowly",
+    "start": 774.88,
+    "end": 775.44,
+    "id": "w1919"
+  },
+  {
+    "text": "over",
+    "start": 775.44,
+    "end": 775.59,
+    "id": "w1920"
+  },
+  {
+    "text": "generations,",
+    "start": 775.97,
+    "end": 776.84,
+    "id": "w1921"
+  },
+  {
+    "text": "Scania",
+    "start": 777.06,
+    "end": 777.51,
+    "id": "w1922"
+  },
+  {
+    "text": "became",
+    "start": 777.51,
+    "end": 778.18,
+    "id": "w1923"
+  },
+  {
+    "text": "Swedish",
+    "start": 778.19,
+    "end": 779,
+    "id": "w1924"
+  },
+  {
+    "text": "in",
+    "start": 779,
+    "end": 779.14,
+    "id": "w1925"
+  },
+  {
+    "text": "its",
+    "start": 779.14,
+    "end": 779.3,
+    "id": "w1926"
+  },
+  {
+    "text": "language,",
+    "start": 779.69,
+    "end": 780.08,
+    "id": "w1927"
+  },
+  {
+    "text": "its",
+    "start": 780.08,
+    "end": 780.42,
+    "id": "w1928"
+  },
+  {
+    "text": "laws,",
+    "start": 780.42,
+    "end": 780.83,
+    "id": "w1929"
+  },
+  {
+    "text": "and",
+    "start": 780.83,
+    "end": 781.06,
+    "id": "w1930"
+  },
+  {
+    "text": "its",
+    "start": 781.19,
+    "end": 781.34,
+    "id": "w1931"
+  },
+  {
+    "text": "loyalties.",
+    "start": 781.34,
+    "end": 782.4,
+    "id": "w1932"
+  },
+  {
+    "text": "So",
+    "start": 782.4,
+    "end": 783.86,
+    "id": "w1933"
+  },
+  {
+    "text": "how",
+    "start": 783.86,
+    "end": 784.02,
+    "id": "w1934"
+  },
+  {
+    "text": "did",
+    "start": 784.02,
+    "end": 784.28,
+    "id": "w1935"
+  },
+  {
+    "text": "an",
+    "start": 784.31,
+    "end": 784.5,
+    "id": "w1936"
+  },
+  {
+    "text": "army",
+    "start": 784.63,
+    "end": 784.92,
+    "id": "w1937"
+  },
+  {
+    "text": "invade",
+    "start": 784.92,
+    "end": 785.49,
+    "id": "w1938"
+  },
+  {
+    "text": "Denmark",
+    "start": 785.59,
+    "end": 785.98,
+    "id": "w1939"
+  },
+  {
+    "text": "by",
+    "start": 786.37,
+    "end": 786.46,
+    "id": "w1940"
+  },
+  {
+    "text": "walking",
+    "start": 786.46,
+    "end": 787.1,
+    "id": "w1941"
+  },
+  {
+    "text": "across",
+    "start": 787.1,
+    "end": 787.59,
+    "id": "w1942"
+  },
+  {
+    "text": "the",
+    "start": 787.67,
+    "end": 787.91,
+    "id": "w1943"
+  },
+  {
+    "text": "sea?",
+    "start": 787.91,
+    "end": 788.31,
+    "id": "w1944"
+  },
+  {
+    "text": "It",
+    "start": 788.48,
+    "end": 788.6,
+    "id": "w1945"
+  },
+  {
+    "text": "took",
+    "start": 788.82,
+    "end": 788.84,
+    "id": "w1946"
+  },
+  {
+    "text": "a",
+    "start": 788.84,
+    "end": 788.9,
+    "id": "w1947"
+  },
+  {
+    "text": "winter",
+    "start": 788.9,
+    "end": 789.24,
+    "id": "w1948"
+  },
+  {
+    "text": "cold",
+    "start": 789.24,
+    "end": 789.46,
+    "id": "w1949"
+  },
+  {
+    "text": "enough",
+    "start": 789.59,
+    "end": 789.88,
+    "id": "w1950"
+  },
+  {
+    "text": "to",
+    "start": 789.88,
+    "end": 790.01,
+    "id": "w1951"
+  },
+  {
+    "text": "freeze",
+    "start": 790.09,
+    "end": 790.62,
+    "id": "w1952"
+  },
+  {
+    "text": "waters",
+    "start": 790.62,
+    "end": 790.94,
+    "id": "w1953"
+  },
+  {
+    "text": "that",
+    "start": 790.94,
+    "end": 791.54,
+    "id": "w1954"
+  },
+  {
+    "text": "almost",
+    "start": 791.54,
+    "end": 791.98,
+    "id": "w1955"
+  },
+  {
+    "text": "never",
+    "start": 792.02,
+    "end": 792.41,
+    "id": "w1956"
+  },
+  {
+    "text": "freeze.",
+    "start": 792.41,
+    "end": 793.16,
+    "id": "w1957"
+  },
+  {
+    "text": "It",
+    "start": 793.16,
+    "end": 793.28,
+    "id": "w1958"
+  },
+  {
+    "text": "took",
+    "start": 793.5,
+    "end": 793.52,
+    "id": "w1959"
+  },
+  {
+    "text": "a",
+    "start": 793.52,
+    "end": 793.58,
+    "id": "w1960"
+  },
+  {
+    "text": "king",
+    "start": 793.58,
+    "end": 793.82,
+    "id": "w1961"
+  },
+  {
+    "text": "reckless",
+    "start": 793.82,
+    "end": 794.31,
+    "id": "w1962"
+  },
+  {
+    "text": "enough",
+    "start": 794.31,
+    "end": 794.69,
+    "id": "w1963"
+  },
+  {
+    "text": "to",
+    "start": 794.72,
+    "end": 794.89,
+    "id": "w1964"
+  },
+  {
+    "text": "gamble",
+    "start": 795.06,
+    "end": 795.41,
+    "id": "w1965"
+  },
+  {
+    "text": "his",
+    "start": 795.41,
+    "end": 795.67,
+    "id": "w1966"
+  },
+  {
+    "text": "whole",
+    "start": 795.67,
+    "end": 796.1,
+    "id": "w1967"
+  },
+  {
+    "text": "army",
+    "start": 796.1,
+    "end": 796.45,
+    "id": "w1968"
+  },
+  {
+    "text": "on",
+    "start": 796.45,
+    "end": 796.62,
+    "id": "w1969"
+  },
+  {
+    "text": "the",
+    "start": 796.62,
+    "end": 796.88,
+    "id": "w1970"
+  },
+  {
+    "text": "ice.",
+    "start": 796.88,
+    "end": 797.2,
+    "id": "w1971"
+  },
+  {
+    "text": "It",
+    "start": 797.44,
+    "end": 797.57,
+    "id": "w1972"
+  },
+  {
+    "text": "took",
+    "start": 797.78,
+    "end": 797.84,
+    "id": "w1973"
+  },
+  {
+    "text": "an",
+    "start": 797.84,
+    "end": 797.97,
+    "id": "w1974"
+  },
+  {
+    "text": "engineer",
+    "start": 797.97,
+    "end": 798.42,
+    "id": "w1975"
+  },
+  {
+    "text": "who",
+    "start": 798.55,
+    "end": 798.7,
+    "id": "w1976"
+  },
+  {
+    "text": "found",
+    "start": 798.7,
+    "end": 798.97,
+    "id": "w1977"
+  },
+  {
+    "text": "a",
+    "start": 799.05,
+    "end": 799.12,
+    "id": "w1978"
+  },
+  {
+    "text": "safer",
+    "start": 799.12,
+    "end": 799.73,
+    "id": "w1979"
+  },
+  {
+    "text": "path",
+    "start": 799.73,
+    "end": 799.9,
+    "id": "w1980"
+  },
+  {
+    "text": "island",
+    "start": 800.29,
+    "end": 800.99,
+    "id": "w1981"
+  },
+  {
+    "text": "by",
+    "start": 800.99,
+    "end": 801.24,
+    "id": "w1982"
+  },
+  {
+    "text": "island.",
+    "start": 801.24,
+    "end": 802,
+    "id": "w1983"
+  },
+  {
+    "text": "And",
+    "start": 802,
+    "end": 802.34,
+    "id": "w1984"
+  },
+  {
+    "text": "it",
+    "start": 802.34,
+    "end": 802.41,
+    "id": "w1985"
+  },
+  {
+    "text": "took",
+    "start": 802.41,
+    "end": 802.74,
+    "id": "w1986"
+  },
+  {
+    "text": "a",
+    "start": 802.74,
+    "end": 802.77,
+    "id": "w1987"
+  },
+  {
+    "text": "kingdom",
+    "start": 802.82,
+    "end": 803.41,
+    "id": "w1988"
+  },
+  {
+    "text": "so",
+    "start": 803.41,
+    "end": 803.53,
+    "id": "w1989"
+  },
+  {
+    "text": "sure",
+    "start": 803.61,
+    "end": 803.9,
+    "id": "w1990"
+  },
+  {
+    "text": "of",
+    "start": 803.9,
+    "end": 803.98,
+    "id": "w1991"
+  },
+  {
+    "text": "its",
+    "start": 804.09,
+    "end": 804.31,
+    "id": "w1992"
+  },
+  {
+    "text": "sea",
+    "start": 804.31,
+    "end": 804.46,
+    "id": "w1993"
+  },
+  {
+    "text": "walls",
+    "start": 804.85,
+    "end": 805.04,
+    "id": "w1994"
+  },
+  {
+    "text": "that",
+    "start": 805.04,
+    "end": 805.38,
+    "id": "w1995"
+  },
+  {
+    "text": "it",
+    "start": 805.38,
+    "end": 805.52,
+    "id": "w1996"
+  },
+  {
+    "text": "never",
+    "start": 805.52,
+    "end": 805.93,
+    "id": "w1997"
+  },
+  {
+    "text": "planned",
+    "start": 805.93,
+    "end": 806.47,
+    "id": "w1998"
+  },
+  {
+    "text": "for",
+    "start": 806.52,
+    "end": 806.74,
+    "id": "w1999"
+  },
+  {
+    "text": "an",
+    "start": 806.74,
+    "end": 806.84,
+    "id": "w2000"
+  },
+  {
+    "text": "enemy",
+    "start": 806.93,
+    "end": 807.31,
+    "id": "w2001"
+  },
+  {
+    "text": "on",
+    "start": 807.31,
+    "end": 807.43,
+    "id": "w2002"
+  },
+  {
+    "text": "foot.",
+    "start": 807.46,
+    "end": 808.08,
+    "id": "w2003"
+  },
+  {
+    "text": "The",
+    "start": 808.08,
+    "end": 808.42,
+    "id": "w2004"
+  },
+  {
+    "text": "ice",
+    "start": 808.42,
+    "end": 808.68,
+    "id": "w2005"
+  },
+  {
+    "text": "lasted",
+    "start": 808.68,
+    "end": 809.27,
+    "id": "w2006"
+  },
+  {
+    "text": "only",
+    "start": 809.27,
+    "end": 809.61,
+    "id": "w2007"
+  },
+  {
+    "text": "a",
+    "start": 809.69,
+    "end": 809.77,
+    "id": "w2008"
+  },
+  {
+    "text": "few",
+    "start": 809.77,
+    "end": 810.05,
+    "id": "w2009"
+  },
+  {
+    "text": "weeks.",
+    "start": 810.17,
+    "end": 810.88,
+    "id": "w2010"
+  },
+  {
+    "text": "What",
+    "start": 810.88,
+    "end": 811.22,
+    "id": "w2011"
+  },
+  {
+    "text": "it",
+    "start": 811.22,
+    "end": 811.37,
+    "id": "w2012"
+  },
+  {
+    "text": "changed",
+    "start": 811.37,
+    "end": 811.86,
+    "id": "w2013"
+  },
+  {
+    "text": "has",
+    "start": 811.99,
+    "end": 812.21,
+    "id": "w2014"
+  },
+  {
+    "text": "lasted",
+    "start": 812.21,
+    "end": 812.68,
+    "id": "w2015"
+  },
+  {
+    "text": "more",
+    "start": 812.77,
+    "end": 813.04,
+    "id": "w2016"
+  },
+  {
+    "text": "than",
+    "start": 813.04,
+    "end": 813.34,
+    "id": "w2017"
+  },
+  {
+    "text": "three",
+    "start": 813.73,
+    "end": 813.84,
+    "id": "w2018"
+  },
+  {
+    "text": "and",
+    "start": 813.84,
+    "end": 814.18,
+    "id": "w2019"
+  },
+  {
+    "text": "a",
+    "start": 814.18,
+    "end": 814.21,
+    "id": "w2020"
+  },
+  {
+    "text": "half",
+    "start": 814.21,
+    "end": 814.58,
+    "id": "w2021"
+  },
+  {
+    "text": "centuries.",
+    "start": 814.58,
+    "end": 815.64,
+    "id": "w2022"
+  },
+  {
+    "text": "It",
+    "start": 815.64,
+    "end": 816.06,
+    "id": "w2023"
+  },
+  {
+    "text": "even",
+    "start": 816.06,
+    "end": 816.32,
+    "id": "w2024"
+  },
+  {
+    "text": "changed",
+    "start": 816.32,
+    "end": 817.03,
+    "id": "w2025"
+  },
+  {
+    "text": "how",
+    "start": 817.03,
+    "end": 817.25,
+    "id": "w2026"
+  },
+  {
+    "text": "Denmark",
+    "start": 817.33,
+    "end": 818.04,
+    "id": "w2027"
+  },
+  {
+    "text": "was",
+    "start": 818.04,
+    "end": 818.18,
+    "id": "w2028"
+  },
+  {
+    "text": "ruled.",
+    "start": 818.57,
+    "end": 818.88,
+    "id": "w2029"
+  },
+  {
+    "text": "After",
+    "start": 819.22,
+    "end": 819.32,
+    "id": "w2030"
+  },
+  {
+    "text": "the",
+    "start": 819.32,
+    "end": 819.58,
+    "id": "w2031"
+  },
+  {
+    "text": "war,",
+    "start": 819.58,
+    "end": 820.04,
+    "id": "w2032"
+  },
+  {
+    "text": "King",
+    "start": 820.04,
+    "end": 820.4,
+    "id": "w2033"
+  },
+  {
+    "text": "Frederick,",
+    "start": 820.4,
+    "end": 821.24,
+    "id": "w2034"
+  },
+  {
+    "text": "the",
+    "start": 821.24,
+    "end": 821.58,
+    "id": "w2035"
+  },
+  {
+    "text": "king",
+    "start": 821.58,
+    "end": 821.71,
+    "id": "w2036"
+  },
+  {
+    "text": "who",
+    "start": 821.71,
+    "end": 821.91,
+    "id": "w2037"
+  },
+  {
+    "text": "had",
+    "start": 821.91,
+    "end": 822.11,
+    "id": "w2038"
+  },
+  {
+    "text": "stayed",
+    "start": 822.11,
+    "end": 822.56,
+    "id": "w2039"
+  },
+  {
+    "text": "and",
+    "start": 822.56,
+    "end": 822.77,
+    "id": "w2040"
+  },
+  {
+    "text": "defended",
+    "start": 822.85,
+    "end": 823.45,
+    "id": "w2041"
+  },
+  {
+    "text": "his",
+    "start": 823.45,
+    "end": 823.69,
+    "id": "w2042"
+  },
+  {
+    "text": "capital,",
+    "start": 823.69,
+    "end": 824.28,
+    "id": "w2043"
+  },
+  {
+    "text": "used",
+    "start": 824.62,
+    "end": 824.64,
+    "id": "w2044"
+  },
+  {
+    "text": "his",
+    "start": 824.64,
+    "end": 824.91,
+    "id": "w2045"
+  },
+  {
+    "text": "new",
+    "start": 824.91,
+    "end": 825.18,
+    "id": "w2046"
+  },
+  {
+    "text": "popularity",
+    "start": 825.18,
+    "end": 826.08,
+    "id": "w2047"
+  },
+  {
+    "text": "to",
+    "start": 826.17,
+    "end": 826.24,
+    "id": "w2048"
+  },
+  {
+    "text": "make",
+    "start": 826.24,
+    "end": 826.49,
+    "id": "w2049"
+  },
+  {
+    "text": "himself",
+    "start": 826.49,
+    "end": 826.74,
+    "id": "w2050"
+  },
+  {
+    "text": "an",
+    "start": 827.13,
+    "end": 827.14,
+    "id": "w2051"
+  },
+  {
+    "text": "absolute",
+    "start": 827.14,
+    "end": 827.89,
+    "id": "w2052"
+  },
+  {
+    "text": "monarch",
+    "start": 827.89,
+    "end": 828.56,
+    "id": "w2053"
+  },
+  {
+    "text": "with",
+    "start": 828.9,
+    "end": 828.92,
+    "id": "w2054"
+  },
+  {
+    "text": "almost",
+    "start": 828.92,
+    "end": 829.46,
+    "id": "w2055"
+  },
+  {
+    "text": "no",
+    "start": 829.46,
+    "end": 829.54,
+    "id": "w2056"
+  },
+  {
+    "text": "limits",
+    "start": 829.67,
+    "end": 830.18,
+    "id": "w2057"
+  },
+  {
+    "text": "on",
+    "start": 830.18,
+    "end": 830.36,
+    "id": "w2058"
+  },
+  {
+    "text": "his",
+    "start": 830.36,
+    "end": 830.53,
+    "id": "w2059"
+  },
+  {
+    "text": "power.",
+    "start": 830.64,
+    "end": 831.4,
+    "id": "w2060"
+  },
+  {
+    "text": "And",
+    "start": 831.4,
+    "end": 831.74,
+    "id": "w2061"
+  },
+  {
+    "text": "look",
+    "start": 831.74,
+    "end": 832.03,
+    "id": "w2062"
+  },
+  {
+    "text": "at",
+    "start": 832.03,
+    "end": 832.17,
+    "id": "w2063"
+  },
+  {
+    "text": "the",
+    "start": 832.22,
+    "end": 832.38,
+    "id": "w2064"
+  },
+  {
+    "text": "map",
+    "start": 832.51,
+    "end": 832.75,
+    "id": "w2065"
+  },
+  {
+    "text": "of",
+    "start": 832.75,
+    "end": 832.93,
+    "id": "w2066"
+  },
+  {
+    "text": "Scandinavia",
+    "start": 832.93,
+    "end": 833.86,
+    "id": "w2067"
+  },
+  {
+    "text": "today.",
+    "start": 834.25,
+    "end": 834.64,
+    "id": "w2068"
+  },
+  {
+    "text": "The",
+    "start": 834.64,
+    "end": 834.98,
+    "id": "w2069"
+  },
+  {
+    "text": "border",
+    "start": 834.98,
+    "end": 835.25,
+    "id": "w2070"
+  },
+  {
+    "text": "between",
+    "start": 835.25,
+    "end": 835.62,
+    "id": "w2071"
+  },
+  {
+    "text": "Denmark",
+    "start": 835.75,
+    "end": 836.17,
+    "id": "w2072"
+  },
+  {
+    "text": "and",
+    "start": 836.25,
+    "end": 836.44,
+    "id": "w2073"
+  },
+  {
+    "text": "Sweden",
+    "start": 836.53,
+    "end": 836.92,
+    "id": "w2074"
+  },
+  {
+    "text": "still",
+    "start": 837.26,
+    "end": 837.34,
+    "id": "w2075"
+  },
+  {
+    "text": "runs",
+    "start": 837.34,
+    "end": 837.67,
+    "id": "w2076"
+  },
+  {
+    "text": "down",
+    "start": 837.67,
+    "end": 837.9,
+    "id": "w2077"
+  },
+  {
+    "text": "the",
+    "start": 838.03,
+    "end": 838.27,
+    "id": "w2078"
+  },
+  {
+    "text": "middle",
+    "start": 838.27,
+    "end": 838.72,
+    "id": "w2079"
+  },
+  {
+    "text": "of",
+    "start": 838.81,
+    "end": 838.9,
+    "id": "w2080"
+  },
+  {
+    "text": "the",
+    "start": 839.01,
+    "end": 839.19,
+    "id": "w2081"
+  },
+  {
+    "text": "sound",
+    "start": 839.19,
+    "end": 839.38,
+    "id": "w2082"
+  },
+  {
+    "text": "where",
+    "start": 839.98,
+    "end": 840.09,
+    "id": "w2083"
+  },
+  {
+    "text": "the",
+    "start": 840.09,
+    "end": 840.36,
+    "id": "w2084"
+  },
+  {
+    "text": "Treaty",
+    "start": 840.36,
+    "end": 840.9,
+    "id": "w2085"
+  },
+  {
+    "text": "of",
+    "start": 840.9,
+    "end": 841.07,
+    "id": "w2086"
+  },
+  {
+    "text": "Roskilde",
+    "start": 841.12,
+    "end": 841.8,
+    "id": "w2087"
+  },
+  {
+    "text": "put",
+    "start": 841.8,
+    "end": 842.03,
+    "id": "w2088"
+  },
+  {
+    "text": "it.",
+    "start": 842.06,
+    "end": 842.32,
+    "id": "w2089"
+  },
+  {
+    "text": "Now",
+    "start": 842.32,
+    "end": 842.66,
+    "id": "w2090"
+  },
+  {
+    "text": "a",
+    "start": 842.66,
+    "end": 842.7,
+    "id": "w2091"
+  },
+  {
+    "text": "bridge",
+    "start": 842.7,
+    "end": 843.27,
+    "id": "w2092"
+  },
+  {
+    "text": "crosses",
+    "start": 843.27,
+    "end": 843.94,
+    "id": "w2093"
+  },
+  {
+    "text": "that",
+    "start": 843.94,
+    "end": 844.29,
+    "id": "w2094"
+  },
+  {
+    "text": "water.",
+    "start": 844.41,
+    "end": 845.12,
+    "id": "w2095"
+  },
+  {
+    "text": "Every",
+    "start": 845.46,
+    "end": 845.6,
+    "id": "w2096"
+  },
+  {
+    "text": "day,",
+    "start": 845.6,
+    "end": 846.08,
+    "id": "w2097"
+  },
+  {
+    "text": "thousands",
+    "start": 846.08,
+    "end": 846.75,
+    "id": "w2098"
+  },
+  {
+    "text": "of",
+    "start": 846.75,
+    "end": 846.89,
+    "id": "w2099"
+  },
+  {
+    "text": "people",
+    "start": 846.89,
+    "end": 847.33,
+    "id": "w2100"
+  },
+  {
+    "text": "drive",
+    "start": 847.33,
+    "end": 847.58,
+    "id": "w2101"
+  },
+  {
+    "text": "and",
+    "start": 847.58,
+    "end": 848.06,
+    "id": "w2102"
+  },
+  {
+    "text": "ride",
+    "start": 848.06,
+    "end": 848.33,
+    "id": "w2103"
+  },
+  {
+    "text": "the",
+    "start": 848.33,
+    "end": 848.59,
+    "id": "w2104"
+  },
+  {
+    "text": "train",
+    "start": 848.59,
+    "end": 849.03,
+    "id": "w2105"
+  },
+  {
+    "text": "from",
+    "start": 849.03,
+    "end": 849.38,
+    "id": "w2106"
+  },
+  {
+    "text": "Copenhagen",
+    "start": 849.38,
+    "end": 850.18,
+    "id": "w2107"
+  },
+  {
+    "text": "to",
+    "start": 850.18,
+    "end": 850.57,
+    "id": "w2108"
+  },
+  {
+    "text": "Malmö",
+    "start": 850.57,
+    "end": 850.95,
+    "id": "w2109"
+  },
+  {
+    "text": "in",
+    "start": 850.95,
+    "end": 851.12,
+    "id": "w2110"
+  },
+  {
+    "text": "Sweden.",
+    "start": 851.12,
+    "end": 852,
+    "id": "w2111"
+  },
+  {
+    "text": "Most",
+    "start": 852,
+    "end": 852.34,
+    "id": "w2112"
+  },
+  {
+    "text": "of",
+    "start": 852.34,
+    "end": 852.48,
+    "id": "w2113"
+  },
+  {
+    "text": "them",
+    "start": 852.48,
+    "end": 852.76,
+    "id": "w2114"
+  },
+  {
+    "text": "never",
+    "start": 852.79,
+    "end": 853.21,
+    "id": "w2115"
+  },
+  {
+    "text": "give",
+    "start": 853.21,
+    "end": 853.53,
+    "id": "w2116"
+  },
+  {
+    "text": "it",
+    "start": 853.53,
+    "end": 853.69,
+    "id": "w2117"
+  },
+  {
+    "text": "a",
+    "start": 853.69,
+    "end": 853.77,
+    "id": "w2118"
+  },
+  {
+    "text": "second",
+    "start": 853.77,
+    "end": 854.26,
+    "id": "w2119"
+  },
+  {
+    "text": "thought.",
+    "start": 854.26,
+    "end": 854.88,
+    "id": "w2120"
+  },
+  {
+    "text": "But",
+    "start": 854.88,
+    "end": 855.22,
+    "id": "w2121"
+  },
+  {
+    "text": "that",
+    "start": 855.22,
+    "end": 855.33,
+    "id": "w2122"
+  },
+  {
+    "text": "crossing",
+    "start": 855.33,
+    "end": 855.84,
+    "id": "w2123"
+  },
+  {
+    "text": "is",
+    "start": 855.84,
+    "end": 855.86,
+    "id": "w2124"
+  },
+  {
+    "text": "a",
+    "start": 855.99,
+    "end": 856.03,
+    "id": "w2125"
+  },
+  {
+    "text": "border",
+    "start": 856.03,
+    "end": 856.41,
+    "id": "w2126"
+  },
+  {
+    "text": "because",
+    "start": 856.49,
+    "end": 857.24,
+    "id": "w2127"
+  },
+  {
+    "text": "one",
+    "start": 857.24,
+    "end": 857.35,
+    "id": "w2128"
+  },
+  {
+    "text": "bitter",
+    "start": 857.73,
+    "end": 858.12,
+    "id": "w2129"
+  },
+  {
+    "text": "winter,",
+    "start": 858.12,
+    "end": 858.72,
+    "id": "w2130"
+  },
+  {
+    "text": "the",
+    "start": 858.72,
+    "end": 859.06,
+    "id": "w2131"
+  },
+  {
+    "text": "sea",
+    "start": 859.06,
+    "end": 859.26,
+    "id": "w2132"
+  },
+  {
+    "text": "turned",
+    "start": 859.26,
+    "end": 859.7,
+    "id": "w2133"
+  },
+  {
+    "text": "to",
+    "start": 859.83,
+    "end": 859.98,
+    "id": "w2134"
+  },
+  {
+    "text": "stone",
+    "start": 859.98,
+    "end": 860.44,
+    "id": "w2135"
+  },
+  {
+    "text": "and",
+    "start": 860.44,
+    "end": 860.65,
+    "id": "w2136"
+  },
+  {
+    "text": "an",
+    "start": 860.65,
+    "end": 860.69,
+    "id": "w2137"
+  },
+  {
+    "text": "army",
+    "start": 860.81,
+    "end": 861.07,
+    "id": "w2138"
+  },
+  {
+    "text": "walked",
+    "start": 861.07,
+    "end": 861.19,
+    "id": "w2139"
+  },
+  {
+    "text": "across",
+    "start": 861.57,
+    "end": 861.91,
+    "id": "w2140"
+  },
+  {
+    "text": "it.",
+    "start": 861.91,
+    "end": 862.28,
+    "id": "w2141"
+  }
+]
