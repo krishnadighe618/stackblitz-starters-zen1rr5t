@@ -1,0 +1,8 @@
+# Local installs, recreated by ./setup.sh
+node_modules/
+.venv/
+.studio/
+__pycache__/
+
+# HyperFrames' local state and scratch files inside each video folder
+**/.hyperframes/

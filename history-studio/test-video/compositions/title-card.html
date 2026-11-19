@@ -1,0 +1,71 @@
+<template>
+  <style>
+    #root {
+      position: absolute;
+      inset: 0;
+      overflow: hidden;
+      background: radial-gradient(ellipse at 50% 45%, #2a1f15 0%, #1a130d 55%, #100b08 100%);
+      font-family: "EB Garamond", serif;
+      color: #f1e6cf;
+    }
+    #tc-stack {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+    }
+    #tc-kicker {
+      font-family: "Montserrat", sans-serif;
+      font-size: 28px;
+      font-weight: 700;
+      letter-spacing: 0.32em;
+      text-transform: uppercase;
+      color: #c49a52;
+      margin-bottom: 36px;
+    }
+    #tc-title {
+      font-size: 148px;
+      font-weight: 700;
+      line-height: 1;
+      letter-spacing: -0.01em;
+    }
+    #tc-rule {
+      width: 420px;
+      height: 3px;
+      margin: 48px 0 40px;
+      background: #c49a52;
+    }
+    #tc-subtitle {
+      font-size: 38px;
+      font-style: italic;
+      color: #b9a585;
+    }
+  </style>
+  <div id="root" data-composition-id="title-card" data-width="1920" data-height="1080">
+    <div id="tc-stack">
+      <div id="tc-kicker" data-var-text="kicker">Episode 0 · Studio test</div>
+      <h1 id="tc-title" data-var-text="title">The History Studio</h1>
+      <div id="tc-rule"></div>
+      <div id="tc-subtitle" data-var-text="subtitle">
+        Title card · Kokoro voice bm_george · rendered with HyperFrames
+      </div>
+    </div>
+  </div>
+  <script>
+    const tl = gsap.timeline({ paused: true });
+    // Slow push-in across the whole card.
+    tl.fromTo("#tc-stack", { scale: 1 }, { scale: 1.035, duration: 10, ease: "none" }, 0);
+    // Entrances.
+    tl.fromTo("#tc-kicker", { opacity: 0, y: 18 }, { opacity: 1, y: 0, duration: 0.7, ease: "power3.out" }, 0.3);
+    // The title is on screen from frame 0 (it is the thumbnail) and settles into place.
+    tl.fromTo("#tc-title", { opacity: 1, y: 24 }, { opacity: 1, y: 0, duration: 1.2, ease: "power3.out" }, 0);
+    tl.fromTo("#tc-rule", { scaleX: 0 }, { scaleX: 1, duration: 0.8, ease: "power2.inOut" }, 1.1);
+    tl.fromTo("#tc-subtitle", { opacity: 0 }, { opacity: 1, duration: 0.7, ease: "power1.out" }, 1.5);
+    // Exit: fade the card out, landing before the 10 s end.
+    tl.to(["#tc-kicker", "#tc-title", "#tc-rule", "#tc-subtitle"], { opacity: 0, duration: 0.8, ease: "power1.in" }, 9.0);
+    window.__timelines["title-card"] = tl;
+  </script>
+</template>

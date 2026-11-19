@@ -1,0 +1,11 @@
+{
+  "name": "history-studio",
+  "private": true,
+  "description": "Video studio for animated history documentaries: HyperFrames, Kokoro voice, Whisper timing.",
+  "scripts": {
+    "doctor": "hyperframes doctor"
+  },
+  "devDependencies": {
+    "hyperframes": "0.9.70"
+  }
+}
