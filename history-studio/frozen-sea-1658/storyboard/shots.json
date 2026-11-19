@@ -1,0 +1,522 @@
+[
+ {
+  "n": 1,
+  "cid": "shot-01",
+  "start": 0,
+  "end": 10.234,
+  "band": "I · HERE AN ARMY MARCHES ACROSS THE SEA",
+  "title": "The Army That Walked Across the Sea",
+  "key": 8.19,
+  "text": "In the winter of sixteen fifty-eight, an army invaded Denmark. It did not come by ship. It did not come over a bridge. It walked."
+ },
+ {
+  "n": 2,
+  "cid": "shot-02",
+  "start": 10.234,
+  "end": 18.891,
+  "band": "SOLDIERS · HORSES · CANNON",
+  "title": "The Army That Walked Across the Sea",
+  "key": 17.16,
+  "text": "Thousands of soldiers. Thousands of horses. Cannons dragged behind them. All of it marching across the open sea."
+ },
+ {
+  "n": 3,
+  "cid": "shot-03",
+  "start": 18.891,
+  "end": 36.124,
+  "band": "THE SEA WAS DENMARK'S WALL",
+  "title": "The Army That Walked Across the Sea",
+  "key": 32.68,
+  "text": "For centuries, the sea had been Denmark's wall. Its islands were its fortress. Its navy was the gate. No enemy army could reach the Danish capital without crossing water. And no enemy could cross that water while the Danish fleet stood in the way."
+ },
+ {
+  "n": 4,
+  "cid": "shot-04",
+  "start": 36.124,
+  "end": 48.402,
+  "band": "HOW DID THEY CROSS THE SEA?",
+  "title": "The Army That Walked Across the Sea",
+  "key": 45.95,
+  "text": "So how did a Swedish king march his army across the sea, all the way to the gates of Copenhagen? And why does the answer still shape the map of Scandinavia today?"
+ },
+ {
+  "n": 5,
+  "cid": "shot-05",
+  "start": 48.402,
+  "end": 59.453,
+  "band": "",
+  "title": "The Army That Walked Across the Sea",
+  "key": 57.24,
+  "text": "To find out, we need to go back. To a kingdom that owned a strait. To a king who could not sit still. And to one of the coldest winters anyone could remember."
+ },
+ {
+  "n": 6,
+  "cid": "shot-06",
+  "start": 59.453,
+  "end": 85.582,
+  "band": "II · THE KINGDOM THAT OWNED THE SEA",
+  "title": "The Army That Walked Across the Sea",
+  "key": 80.36,
+  "text": "Look at a map of Scandinavia in the sixteen-fifties, and something seems wrong. Denmark is far bigger than it is today. It holds Jutland and the islands, as you would expect. But it also holds the southern tip of what is now Sweden. The rich, flat farmland of Scania. And through its union with Norway, the Danish king rules the whole western coast of the peninsula."
+ },
+ {
+  "n": 7,
+  "cid": "shot-07",
+  "start": 85.582,
+  "end": 106.074,
+  "band": "THE SOUND",
+  "title": "The Army That Walked Across the Sea",
+  "key": 101.98,
+  "text": "Between the Danish islands and Scania lies a narrow strait. The Sound. At its narrowest point, it is only about four kilometres wide. Ships sailing between the Baltic Sea and the rest of the world had to pass through it, or through the wider Belts further west. And Denmark held both shores."
+ },
+ {
+  "n": 8,
+  "cid": "shot-08",
+  "start": 106.074,
+  "end": 122.752,
+  "band": "HERE SHIPS PAY THE KING AT ELSINORE",
+  "title": "The Army That Walked Across the Sea",
+  "key": 119.42,
+  "text": "For more than two hundred years, Danish kings made passing ships stop and pay. The toll was called the Sound Dues. It was collected at Elsinore, beneath the walls of Kronborg Castle. The same castle Shakespeare chose as the home of Hamlet."
+ },
+ {
+  "n": 9,
+  "cid": "shot-09",
+  "start": 122.752,
+  "end": 144.956,
+  "band": "EVERY CAPTAIN DECLARES HIS CARGO",
+  "title": "The Army That Walked Across the Sea",
+  "key": 140.52,
+  "text": "The system was clever. Each captain had to declare what his cargo was worth, and pay a share of that value. But the king kept the right to buy any cargo at the price the captain had declared. So if you swore your cargo was nearly worthless, to pay less, the Danish crown might simply buy it from you at that price. It kept most captains honest."
+ },
+ {
+  "n": 10,
+  "cid": "shot-10",
+  "start": 144.956,
+  "end": 158.391,
+  "band": "AND THE KING GROWS RICH",
+  "title": "The Army That Walked Across the Sea",
+  "key": 155.7,
+  "text": "Grain, timber, iron and tar. Dutch ships, English ships, German ships. They grumbled, and they paid. The money flowed straight to the king. It made Denmark rich, and it made Denmark proud."
+ },
+ {
+  "n": 11,
+  "cid": "shot-11",
+  "start": 158.391,
+  "end": 182.595,
+  "band": "ACROSS THE WATER, SWEDEN GROWS STRONG",
+  "title": "The Army That Walked Across the Sea",
+  "key": 177.75,
+  "text": "Across the water, its rival saw things very differently. Sweden had grown into a great military power. Its armies had fought deep inside Germany during the Thirty Years' War, and come home with land and glory. But every Swedish ship heading west still had to pass Danish guns. To Sweden, the Sound was a door, and Denmark held the key."
+ },
+ {
+  "n": 12,
+  "cid": "shot-12",
+  "start": 182.595,
+  "end": 204.671,
+  "band": "THE PEACE OF 1645",
+  "title": "The Army That Walked Across the Sea",
+  "key": 200.26,
+  "text": "The two kingdoms fought over it again and again. In sixteen forty-five, Sweden won. Denmark handed over two islands in the Baltic and two provinces of Norway, and let Sweden hold the coastal province of Halland for thirty years. Denmark wanted all of it back. It was only waiting for the right moment."
+ },
+ {
+  "n": 13,
+  "cid": "shot-13",
+  "start": 204.671,
+  "end": 218.026,
+  "band": "III · THE KING WHO COULD NOT SIT STILL",
+  "title": "The Army That Walked Across the Sea",
+  "key": 217.63,
+  "text": "In sixteen fifty-four, Sweden got a new ruler. Queen Christina gave up her crown, left the country, and became a Catholic. Her cousin took the throne. Charles the Tenth Gustav."
+ },
+ {
+  "n": 14,
+  "cid": "shot-14",
+  "start": 218.026,
+  "end": 239.35,
+  "band": "WARSAW FALLS · KRAKÓW FALLS",
+  "title": "The Army That Walked Across the Sea",
+  "key": 235.09,
+  "text": "Charles was a soldier first and a king second. Barely a year after his coronation, he invaded Poland. At first, it went brilliantly. Warsaw fell. Kraków fell. But Poland did not stay beaten. The war dragged on, and the Swedish army was stretched thin, hundreds of kilometres from home."
+ },
+ {
+  "n": 15,
+  "cid": "shot-15",
+  "start": 239.35,
+  "end": 253.804,
+  "band": "FREDERICK OF DENMARK DECLARES WAR",
+  "title": "The Army That Walked Across the Sea",
+  "key": 250.91,
+  "text": "In Copenhagen, King Frederick the Third saw his chance. Sweden's best soldiers were stuck deep in Poland. In June sixteen fifty-seven, Denmark declared war. It was a terrible mistake."
+ },
+ {
+  "n": 16,
+  "cid": "shot-16",
+  "start": 253.804,
+  "end": 269.245,
+  "band": "THE SWEDES MARCH WEST",
+  "title": "The Army That Walked Across the Sea",
+  "key": 266.16,
+  "text": "Charles did not wait to be attacked. He pulled his army out of Poland and marched it west, across northern Germany, at astonishing speed. By late summer, Swedish troops were pouring into Jutland, the Danish mainland."
+ },
+ {
+  "n": 17,
+  "cid": "shot-17",
+  "start": 269.245,
+  "end": 281.507,
+  "band": "FREDRIKSODDE FALLS BEFORE DAWN",
+  "title": "The Army That Walked Across the Sea",
+  "key": 279.05,
+  "text": "The Danes fell back to their great new fortress at Fredriksodde, on the shore of the Little Belt. In October, the Swedes stormed it in a surprise attack before dawn, and took it."
+ },
+ {
+  "n": 18,
+  "cid": "shot-18",
+  "start": 281.507,
+  "end": 310.895,
+  "band": "BETWEEN THE KING AND COPENHAGEN, THE SEA",
+  "title": "The Army That Walked Across the Sea",
+  "key": 305.02,
+  "text": "Now all of Jutland belonged to Charles. But Jutland was not the heart of Denmark. The heart was Copenhagen, on the island of Zealand. And between Charles and Copenhagen lay water. Two broad straits. First the Little Belt. Then the Great Belt. Charles had an army. He did not have a fleet that could carry it. The Danish navy ruled those waters, and any ship that tried to ferry Swedish soldiers across would be sunk."
+ },
+ {
+  "n": 19,
+  "cid": "shot-19",
+  "start": 310.895,
+  "end": 325.312,
+  "band": "THE SWEDES WAIT · THE DANES FEEL SAFE",
+  "title": "The Army That Walked Across the Sea",
+  "key": 322.43,
+  "text": "So the Swedish army sat in Jutland, and stared at the sea. In Copenhagen, the Danes felt safe. The sea had always protected them. They had no reason to think this time would be any different."
+ },
+ {
+  "n": 20,
+  "cid": "shot-20",
+  "start": 325.312,
+  "end": 344.977,
+  "band": "IV · THE COLDEST WINTER",
+  "title": "The Army That Walked Across the Sea",
+  "key": 341.04,
+  "text": "Then the weather changed. The winter of sixteen fifty-seven into sixteen fifty-eight was brutally cold. Europe was in the grip of what we now call the Little Ice Age, a long run of colder centuries. Even by those standards, this winter was extraordinary."
+ },
+ {
+  "n": 21,
+  "cid": "shot-21",
+  "start": 344.977,
+  "end": 364.616,
+  "band": "THE BELT FREEZES",
+  "title": "The Army That Walked Across the Sea",
+  "key": 360.69,
+  "text": "In January, the sea between Jutland and the island of Funen began to freeze. First along the shore. Then further out. Then, all the way across. The Little Belt is narrow, but it is deep, and its currents are strong. It does not freeze often. That winter, it froze hard."
+ },
+ {
+  "n": 22,
+  "cid": "shot-22",
+  "start": 364.616,
+  "end": 372.376,
+  "band": "THE ICE IS TESTED",
+  "title": "The Army That Walked Across the Sea",
+  "key": 370.82,
+  "text": "Charles watched the ice grow. His officers went out to test it. And at the end of January, he gave the order."
+ },
+ {
+  "n": 23,
+  "cid": "shot-23",
+  "start": 372.376,
+  "end": 389.033,
+  "band": "AT DAWN, THE ARMY ON THE SHORE",
+  "title": "The Army That Walked Across the Sea",
+  "key": 385.7,
+  "text": "Imagine standing at the edge of the beach that morning. Snow underfoot. A grey sky. Ahead of you, where there should be waves, there is a flat white plain, and on the far side, a thin dark line. Funen. Under that white plain is the sea."
+ },
+ {
+  "n": 24,
+  "cid": "shot-24",
+  "start": 389.033,
+  "end": 405.536,
+  "band": "HERE THEY RIDE OUT ONTO THE SEA",
+  "title": "The Army That Walked Across the Sea",
+  "key": 402.24,
+  "text": "The Swedish army stepped onto it. The cavalry spread out, so no single patch of ice carried too much weight. The infantry followed. The ice groaned and cracked beneath them, and the sound rolled across the plain like distant guns."
+ },
+ {
+  "n": 25,
+  "cid": "shot-25",
+  "start": 405.536,
+  "end": 418.54,
+  "band": "THE ICE BREAKS",
+  "title": "The Army That Walked Across the Sea",
+  "key": 415.94,
+  "text": "Near the Funen shore, the ice gave way. Part of the cavalry broke through. Riders and horses went down into the freezing water, and they could not be saved. The rest kept moving."
+ },
+ {
+  "n": 26,
+  "cid": "shot-26",
+  "start": 418.54,
+  "end": 443.922,
+  "band": "FUNEN FALLS",
+  "title": "The Army That Walked Across the Sea",
+  "key": 438.85,
+  "text": "Waiting on Funen was a Danish army. They had expected to defend a coastline against boats. Instead, the enemy came at them across the ice, from a direction no one had planned for. The Danes were beaten in a short, hard fight. Within days, the whole island of Funen was in Swedish hands. One strait was behind them. But the next one was far bigger."
+ },
+ {
+  "n": 27,
+  "cid": "shot-27",
+  "start": 443.922,
+  "end": 463.634,
+  "band": "V · THE LONG WAY ROUND",
+  "title": "The Army That Walked Across the Sea",
+  "key": 462.65,
+  "text": "The Great Belt is the widest of Denmark's straits. Straight across from Funen to Zealand is well over fifteen kilometres of open sea. Even in that winter, nobody could be sure the ice out there would hold. If it broke halfway across, the whole army would drown. And the king with it."
+ },
+ {
+  "n": 28,
+  "cid": "shot-28",
+  "start": 463.634,
+  "end": 473.955,
+  "band": "THE KING'S OFFICERS DISAGREE",
+  "title": "The Army That Walked Across the Sea",
+  "key": 471.89,
+  "text": "Charles called his officers together. Several of them thought it was madness. One man disagreed. An officer and engineer named Erik Dahlbergh."
+ },
+ {
+  "n": 29,
+  "cid": "shot-29",
+  "start": 473.955,
+  "end": 486.281,
+  "band": "DAHLBERGH TESTS THE ICE BY NIGHT",
+  "title": "The Army That Walked Across the Sea",
+  "key": 483.82,
+  "text": "Dahlbergh had been out on the ice at night, testing it, measuring it, watching where the currents ran. He did not think the army should go straight across. He thought it should go the long way round."
+ },
+ {
+  "n": 30,
+  "cid": "shot-30",
+  "start": 486.281,
+  "end": 507.05,
+  "band": "STEPPING STONES ACROSS THE ICE",
+  "title": "The Army That Walked Across the Sea",
+  "key": 502.9,
+  "text": "South of Funen, a chain of islands stretches towards Zealand like stepping stones. Langeland. Lolland. Falster. The water between them is shallower and calmer, so the ice there was stronger. The route was far longer. But every step of it was shorter. Charles listened. And Charles agreed."
+ },
+ {
+  "n": 31,
+  "cid": "shot-31",
+  "start": 507.05,
+  "end": 521.04,
+  "band": "ISLAND BY ISLAND",
+  "title": "The Army That Walked Across the Sea",
+  "key": 518.24,
+  "text": "In early February, the army set out again. From Funen to Langeland. From Langeland to Lolland. From Lolland to Falster. Day after day, island after island, across the frozen sea."
+ },
+ {
+  "n": 32,
+  "cid": "shot-32",
+  "start": 521.04,
+  "end": 534.561,
+  "band": "AT NIGHT, FIRES ON THE FROZEN SHORE",
+  "title": "The Army That Walked Across the Sea",
+  "key": 531.86,
+  "text": "The horses' hooves cut through the snow. The guns were hauled behind them. At night, the army camped on land, around fires on frozen beaches. In the morning, it stepped back onto the ice."
+ },
+ {
+  "n": 33,
+  "cid": "shot-33",
+  "start": 534.561,
+  "end": 542.898,
+  "band": "THEY COME ASHORE ON ZEALAND",
+  "title": "The Army That Walked Across the Sea",
+  "key": 541.23,
+  "text": "Then, by the middle of February, the first Swedish soldiers climbed ashore on Zealand. The island of Copenhagen."
+ },
+ {
+  "n": 34,
+  "cid": "shot-34",
+  "start": 542.898,
+  "end": 559.917,
+  "band": "DAHLBERGH, BUILDER OF FORTRESSES",
+  "title": "The Army That Walked Across the Sea",
+  "key": 556.51,
+  "text": "Erik Dahlbergh would go on to become one of the most famous men in Sweden. He built fortresses across the Swedish empire, and spent decades drawing its towns and castles. But nothing he did afterwards was as bold as those nights on the ice."
+ },
+ {
+  "n": 35,
+  "cid": "shot-35",
+  "start": 559.917,
+  "end": 567.832,
+  "band": "COPENHAGEN STANDS ALONE",
+  "title": "The Army That Walked Across the Sea",
+  "key": 566.25,
+  "text": "The Danish capital was only a few days' march away. And there was no army left to stand in front of it."
+ },
+ {
+  "n": 36,
+  "cid": "shot-36",
+  "start": 567.832,
+  "end": 592.894,
+  "band": "VI · THE PRICE OF PEACE",
+  "title": "The Army That Walked Across the Sea",
+  "key": 587.88,
+  "text": "Inside Copenhagen, the news landed like a hammer blow. The city's strongest defences faced the sea, because that was where enemies had always come from. Now the enemy was coming over the fields. King Frederick had no time to raise a new army. His fleet could do nothing against soldiers on land. He had one choice left. He asked for peace."
+ },
+ {
+  "n": 37,
+  "cid": "shot-37",
+  "start": 592.894,
+  "end": 616.437,
+  "band": "A DANE SITS WITH THE SWEDES",
+  "title": "The Army That Walked Across the Sea",
+  "key": 611.73,
+  "text": "The peace talks ended at Roskilde, a short ride west of the capital. And sitting on the Swedish side of the table was a Dane. Corfitz Ulfeldt had once been one of the most powerful men in Denmark. He had fallen out with the king, fled the country, and gone over to Sweden. Now he helped write the terms that would humble his old homeland."
+ },
+ {
+  "n": 38,
+  "cid": "shot-38",
+  "start": 616.437,
+  "end": 629.872,
+  "band": "ULFELDT DIES ON THE RUN",
+  "title": "The Army That Walked Across the Sea",
+  "key": 627.18,
+  "text": "Ulfeldt's own story did not end well. Within a few years, he had turned against Sweden too. Denmark sentenced him to death for treason, and he died on the run, on a boat on the river Rhine."
+ },
+ {
+  "n": 39,
+  "cid": "shot-39",
+  "start": 629.872,
+  "end": 676.557,
+  "band": "THE TREATY OF ROSKILDE · 1658",
+  "title": "The Army That Walked Across the Sea",
+  "key": 669.55,
+  "text": "On the twenty-sixth of February, sixteen fifty-eight, the Treaty of Roskilde was signed. It was less than a month since the army had first stepped onto the ice. The price was enormous. Denmark gave up Scania, the rich farmland across the Sound. It gave up Halland and Blekinge, on the same coast. It gave up the Baltic island of Bornholm. Norway, ruled from Copenhagen, lost Bohuslän in the south, and the region around Trondheim in the middle of the country. In a few weeks, Denmark lost around a third of its own land. And the Sound changed forever. For centuries, Denmark had owned both shores. Now the far shore was Swedish. The narrow strait that had made Denmark rich became a border."
+ },
+ {
+  "n": 40,
+  "cid": "shot-40",
+  "start": 676.557,
+  "end": 690.158,
+  "band": "CHARLES COMES BACK",
+  "title": "The Army That Walked Across the Sea",
+  "key": 687.44,
+  "text": "But Charles the Tenth Gustav was not satisfied. That same summer, he broke the peace and invaded again. This time, he wanted all of Denmark. His army surrounded Copenhagen."
+ },
+ {
+  "n": 41,
+  "cid": "shot-41",
+  "start": 690.158,
+  "end": 710.356,
+  "band": "COPENHAGEN HOLDS",
+  "title": "The Army That Walked Across the Sea",
+  "key": 706.32,
+  "text": "But this time, the city was ready. King Frederick refused to flee. He is said to have declared that he would die in his nest. Citizens, students and soldiers manned the walls side by side. A Dutch fleet, worried about Sweden controlling the Baltic, fought its way into the Sound and broke the blockade."
+ },
+ {
+  "n": 42,
+  "cid": "shot-42",
+  "start": 710.356,
+  "end": 719.184,
+  "band": "THE NIGHT ASSAULT FAILS",
+  "title": "The Army That Walked Across the Sea",
+  "key": 717.42,
+  "text": "In February sixteen fifty-nine, the Swedes launched a great night assault on the walls of Copenhagen. It failed."
+ },
+ {
+  "n": 43,
+  "cid": "shot-43",
+  "start": 719.184,
+  "end": 726.027,
+  "band": "CHARLES DIES, AGED THIRTY-SEVEN",
+  "title": "The Army That Walked Across the Sea",
+  "key": 724.66,
+  "text": "A year later, Charles the Tenth Gustav fell ill and died. He was thirty-seven years old."
+ },
+ {
+  "n": 44,
+  "cid": "shot-44",
+  "start": 726.027,
+  "end": 742.812,
+  "band": "THE PEACE OF 1660",
+  "title": "The Army That Walked Across the Sea",
+  "key": 739.46,
+  "text": "The war ended with a new treaty in sixteen sixty. Bornholm, whose people had risen up against their Swedish governor, went back to Denmark. So did the region around Trondheim. But Scania, Halland, Blekinge and Bohuslän stayed Swedish."
+ },
+ {
+  "n": 45,
+  "cid": "shot-45",
+  "start": 742.812,
+  "end": 760.898,
+  "band": "THE SNAPPHANAR OF THE FORESTS",
+  "title": "The Army That Walked Across the Sea",
+  "key": 757.28,
+  "text": "Not everyone in Scania accepted the new masters. In the forests along the old border, bands of fighters called snapphanar kept up the fight for the Danish king, ambushing Swedish soldiers and supply wagons. Sweden hunted them down without mercy."
+ },
+ {
+  "n": 46,
+  "cid": "shot-46",
+  "start": 760.898,
+  "end": 782.85,
+  "band": "THE BATTLE OF LUND · 1676",
+  "title": "The Army That Walked Across the Sea",
+  "key": 778.46,
+  "text": "Denmark tried once more to take them back. In the sixteen-seventies, it invaded Scania, and fought one of the bloodiest battles in Scandinavian history, outside the city of Lund. It still failed. And slowly, over generations, Scania became Swedish. In its language, its laws, and its loyalties."
+ },
+ {
+  "n": 47,
+  "cid": "shot-47",
+  "start": 782.85,
+  "end": 807.763,
+  "band": "VII · THE ANSWER",
+  "title": "The Army That Walked Across the Sea",
+  "key": 806.52,
+  "text": "So, how did an army invade Denmark by walking across the sea? It took a winter cold enough to freeze waters that almost never freeze. It took a king reckless enough to gamble his whole army on the ice. It took an engineer who found a safer path, island by island. And it took a kingdom so sure of its sea walls that it never planned for an enemy on foot."
+ },
+ {
+  "n": 48,
+  "cid": "shot-48",
+  "start": 807.763,
+  "end": 815.396,
+  "band": "THE ICE MELTS",
+  "title": "The Army That Walked Across the Sea",
+  "key": 813.87,
+  "text": "The ice lasted only a few weeks. What it changed has lasted more than three and a half centuries."
+ },
+ {
+  "n": 49,
+  "cid": "shot-49",
+  "start": 815.396,
+  "end": 831.092,
+  "band": "FREDERICK RULES ALONE",
+  "title": "The Army That Walked Across the Sea",
+  "key": 827.95,
+  "text": "It even changed how Denmark was ruled. After the war, King Frederick, the king who had stayed and defended his capital, used his new popularity to make himself an absolute monarch, with almost no limits on his power."
+ },
+ {
+  "n": 50,
+  "cid": "shot-50",
+  "start": 831.092,
+  "end": 842.01,
+  "band": "THE BORDER TODAY",
+  "title": "The Army That Walked Across the Sea",
+  "key": 839.83,
+  "text": "And look at the map of Scandinavia today. The border between Denmark and Sweden still runs down the middle of the Sound, where the Treaty of Roskilde put it."
+ },
+ {
+  "n": 51,
+  "cid": "shot-51",
+  "start": 842.01,
+  "end": 854.55,
+  "band": "THE BRIDGE OVER THE SOUND",
+  "title": "The Army That Walked Across the Sea",
+  "key": 852.04,
+  "text": "Now, a bridge crosses that water. Every day, thousands of people drive and ride the train from Copenhagen to Malmö, in Sweden. Most of them never give it a second thought."
+ },
+ {
+  "n": 52,
+  "cid": "shot-52",
+  "start": 854.55,
+  "end": 868.2,
+  "band": "AND AN ARMY WALKED ACROSS IT",
+  "title": "The Army That Walked Across the Sea",
+  "key": 865.47,
+  "text": "But that crossing is a border because, one bitter winter, the sea turned to stone, and an army walked across it."
+ }
+]

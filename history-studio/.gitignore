@@ -10,3 +10,6 @@ __pycache__/
 # Narration WAVs, recreated by tools/voice.py (a compressed copy is kept)
 */audio/*.wav
 */audio/sections/
+
+# Generated narration copy for HyperFrames (from audio/narration.wav)
+*/assets/narration.wav
