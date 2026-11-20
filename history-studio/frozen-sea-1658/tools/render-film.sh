@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 # Renders the film in chunks (so a failure only costs one chunk, and a re-run
 # resumes), joins them, lays the narration over the whole film in one piece,
-# and makes a smaller copy for phones.
+# and makes a smaller copy for phones. The narration is padded with silence
+# so the film keeps its closing title after the last word.
 #   tools/render-film.sh            (from the video folder)
 set -euo pipefail
 cd "$(dirname "$0")/.."
@@ -28,7 +29,7 @@ done
 echo "joining ($(date +%H:%M))"
 printf "file '%s'\n" part-0.mp4 part-1.mp4 part-2.mp4 part-3.mp4 > renders/chunks/list.txt
 ffmpeg -nostdin -v error -y -f concat -safe 0 -i renders/chunks/list.txt -i assets/narration.wav \
-  -map 0:v -map 1:a -c:v copy -c:a aac -b:a 192k -shortest -movflags +faststart "renders/$NAME.mp4"
+  -map 0:v -map 1:a -c:v copy -af apad -c:a aac -b:a 192k -shortest -movflags +faststart "renders/$NAME.mp4"
 
 echo "making the phone copy ($(date +%H:%M))"
 ffmpeg -nostdin -v error -y -i "renders/$NAME.mp4" -vf scale=1280:-2 -c:v libx264 -crf 27 -preset slow \
