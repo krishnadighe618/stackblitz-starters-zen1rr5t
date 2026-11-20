@@ -13,3 +13,8 @@ __pycache__/
 
 # Generated narration copy for HyperFrames (from audio/narration.wav)
 */assets/narration.wav
+
+# Full-length renders (too big for git; the phone copy is sent in chat)
+*/renders/chunks/
+*/renders/the-army-that-walked-across-the-sea*.mp4
+*/renders/render.log
